@@ -151,7 +151,7 @@ https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b1296000.m3u8
 https://directes-tv-es.ccma.cat/es/ngrp:es3_web/playlist_DVR.m3u8
 
 #EXTINF:-1, tvg-id="Libertad.TV" tvg-name="Libertad Digital TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Libdigital.jpg" ,Libertad Digital TV
-https://stream-11.dc3.dailymotion.com/sec(99xYsjgbwcGgYHHT_FT-A3LOdYr6OyLCPUGy_71ZxOs)/dm/3/xnm032/s/live-2.m3u8
+https://stream-12.dc3.dailymotion.com/sec(99xYsjgbwcGgYHHT_FT-A7Ah5hcjd8nWS66jAZooQCw)/dm/3/xnm032/s/live-2.m3u8
 
 #EXTINF:-1, tvg-id="Negocios.TV" tvg-name="Negocios TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Negocios.jpg" ,Negocios TV HD
 https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
@@ -355,10 +355,10 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/index_1672_av-p.m3u8
 
 #EXTINF:-1, tvg-id="Euronews.TV" tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Euronews.png" ,Euronews HD
-https://stream-01.ix7.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa-m_7EICNgcOeWH1VNX1gr8)/dm/3/x2j7hpf/s/live-3.m3u8
+https://stream-05.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa_xwf4J6j0BkWyxM7hvTWLo)/dm/3/x2j7hpf/s/live-3.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Euronews.png" ,Euronews English HD
-https://c9ab5fb21839427aaf2dbe8f42ac48e8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_EuronewsWorld/0b0c83b8-254e-40a3-bca9-b65f8606db0a/4.m3u8
+https://stream-01.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa_cak50dldFejE8u9hLG_Rw)/dm/3/x2j4h4m/s/live-3.m3u8
 
 #EXTINF:-1, tvg-id="Bloom.TV" tvg-name="Bloomberg Europe" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Bloomberg.png" ,Bloomberg Europe HD
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
@@ -661,7 +661,7 @@ http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MTC.jpg" , México Travel Channel FHD
-https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZbZjM5L5fY2FmmnQ7N7YtPM)/dm/3/x7v76vf/s/live-4.m3u8
+https://stream-05.dc3.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVfOx60C-sFbLMBxWULIdWw)/dm/3/x7v76vf/s/live-4.m3u8
 
 #EXTINF:-1, tvg-id="Paramount.TV" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Paramount.jpg" ,Paramount Network
 rtp://@239.192.250.172:2000
@@ -683,4 +683,10 @@ plugin://plugin.video.youtube/play/?video_id=wwNZKfBLAsc
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png", Telefé Noticias Argentina FHD
 plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Africanews._alternative_logo_2016.png", Africanews HD
+plugin://plugin.video.youtube/play/?video-id=NQjabLGdP5g
+
+#EXTINF:-1, tvg-id="IB3.TV" tvg-name="IB3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/IB3.svg/1200px-IB3.svg.png", IB3 HD
+plugin://plugin.video.youtube/play/?video-id=7CuKsaymSg8
 

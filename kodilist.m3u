@@ -665,3 +665,15 @@ https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZbZjM5L5fY2FmmnQ7N
 
 #EXTINF:-1, tvg-id="Paramount.TV" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Paramount.jpg" ,Paramount Network
 rtp://@239.192.250.172:2000
+
+#EXTINF:-1, tvg-id="ElToro.TV" tvg-name="El Toro TV" tvg-logo="https://eltorotv.com/wp-content/uploads/2020/01/logo-eltorotv.jpg",Intereconomía
+https://fake-live-eltorotv.flumotion.com/eltorotv/fake-live_source/chunks.m3u8
+
+#EXTINF:-1, tvg-logo="https://iteleflix.com/archivos/Logo-Teve.cat_.png",Tevecat FHD
+https://limited7.todostreaming.es/live/mitjans-livestream.m3u8
+
+#EXTINF:-1, tvg-logo="https://diretele.com/wp-content/uploads/2019/03/canal-do%C3%B1ana-en-directo.png",Doñana TV HD
+https://secure5.todostreaming.es/live/division-alm.m3u8
+
+#EXTINF:-1, tvg-id="DKiss.TV" tvg-name="DKiss" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/dkiss.png",DKISS HD
+http://91.126.141.201:1935/live/kiss/index.m3u8

@@ -679,4 +679,8 @@ https://secure5.todostreaming.es/live/division-alm.m3u8
 http://91.126.141.201:1935/live/kiss/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/FranceInfo.jpg" ,(Backup) FranceInfo HD
-https://www.youtube.com/channel/UCO6K_kkdP-lnSCiO3tPx7WA/live/
+plugin://plugin.video.youtube/play/?video_id=wwNZKfBLAsc
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png", Telefé Noticias Argentina FHD
+plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
+

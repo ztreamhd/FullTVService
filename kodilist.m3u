@@ -678,3 +678,5 @@ https://secure5.todostreaming.es/live/division-alm.m3u8
 #EXTINF:-1, tvg-id="DKiss.TV" tvg-name="DKiss" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DKISS.png",DKISS HD
 http://91.126.141.201:1935/live/kiss/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/FranceInfo.jpg" ,(Backup) FranceInfo HD
+https://www.youtube.com/channel/UCO6K_kkdP-lnSCiO3tPx7WA

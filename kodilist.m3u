@@ -675,5 +675,5 @@ https://limited7.todostreaming.es/live/mitjans-livestream.m3u8
 #EXTINF:-1, tvg-logo="https://diretele.com/wp-content/uploads/2019/03/canal-do%C3%B1ana-en-directo.png",Doñana TV HD
 https://secure5.todostreaming.es/live/division-alm.m3u8
 
-#EXTINF:-1, tvg-id="DKiss.TV" tvg-name="DKiss" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/dkiss.png",DKISS HD
+#EXTINF:-1, tvg-id="DKiss.TV" tvg-name="DKiss" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DKISS.png",DKISS HD
 http://91.126.141.201:1935/live/kiss/index.m3u8

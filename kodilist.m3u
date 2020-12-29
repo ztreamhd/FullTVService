@@ -685,8 +685,8 @@ plugin://plugin.video.youtube/play/?video_id=wwNZKfBLAsc
 plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Africanews._alternative_logo_2016.png", Africanews HD
-plugin://plugin.video.youtube/play/?video-id=NQjabLGdP5g
+plugin://plugin.video.youtube/play/?video_id=NQjabLGdP5g
 
 #EXTINF:-1, tvg-id="IB3.TV" tvg-name="IB3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/IB3.svg/1200px-IB3.svg.png", IB3 HD
-plugin://plugin.video.youtube/play/?video-id=7CuKsaymSg8
+plugin://plugin.video.youtube/play/?video_id=7CuKsaymSg8
 

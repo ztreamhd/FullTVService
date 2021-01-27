@@ -88,7 +88,7 @@ https://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8
 http://congresodirecto-f.akamaihd.net/i/congreso1_1@71529/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/RTVCE.png" ,RTVCE HD
-https://cdnlive.shooowit.net/rtvcelive/smil:channel2.smil/chunklist_b4000000.m3u8
+https://originlive2.shooowit.net/rtvcelive/smil:channel2.smil/chunklist_b2500000.m3u8?test
 
 #EXTINF:-1, tvg-id="MelillaTV.TV" tvg-name="Melilla TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TVMelilla.png" ,TV Melilla HD
 https://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3u8
@@ -127,7 +127,7 @@ http://europa-crtvg.flumotion.com/playlist.m3u8
 https://amodino-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Televigo.png" ,Televigo FHD
-https://5fa4275407563.streamlock.net:455/televigo/televigo/chunklist_w1572542876.m3u8
+https://cloud.streamingconnect.tv:455/televigo/televigo.m3u8
 
 #EXTINF:-1, tvg-id="7RM.TV" tvg-name="7 R. de Murcia" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MurciaTV.png" ,Murcia TV
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
@@ -201,20 +201,20 @@ https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_8000_av-b.m3u8?sd=4&a
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MunchenTV.jpg" ,München TV FHD
 https://stream02.stream.welocal.world/stream/fhd-muenchentv_365036/ngrp:stream_all/chunklist_w2130011564_b3628000.m3u8
 
-#EXTINF:-1, ZDF HD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/1200px-ZDF_logo.svg.png" ,ZDF HD
 http://188.195.58.187:8000/play/a024
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/3SATHD.png" ,3sat
 https://s11.hopslan.com/3sat/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DMAXDeutschland.jpg" ,DMAX Deutschland
-https://s11.hopslan.com/dmax/tracks-v1a1/mono.m3u8
+https://s11.hopslan.com/dmaxb/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Kabel1.png" ,Kabel 1
-https://s11.hopslan.com/kabel1/tracks-v1a1/mono.m3u8
+https://s11.hopslan.com/kabel1b/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Pro7HD.png" ,ProSieben
-https://s11.hopslan.com/pro7/tracks-v1a1/mono.m3u8
+https://s11.hopslan.com/pro7b/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Pro7Maxx.png" ,ProSieben Maxx
 https://s3.hopslan.com/pro7maxx/tracks-v1a1/mono.m3u8
@@ -223,7 +223,7 @@ https://s3.hopslan.com/pro7maxx/tracks-v1a1/mono.m3u8
 https://s11.hopslan.com/sat1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-name="RTL" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/RTL.png" ,RTL
-https://s1.hopslan.com/rtla/tracks-v1a1/mono.m3u8
+https://s11.hopslan.com/rtlb/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/RTL2.png" ,RTL 2
 https://s4.hopslan.com/rtl2/tracks-v1a1/mono.m3u8
@@ -235,7 +235,7 @@ https://s2.hopslan.com/nitro/tracks-v1a1/mono.m3u8
 http://188.35.9.5:10020/stolen/480c/hot.dll
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/SIXX.png" ,SIXX
-https://s5.hopslan.com/sixx/tracks-v1a1/mono.m3u8
+https://s11.hopslan.com/six/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/VOX.png" ,VOX Deutschland
 https://s11.hopslan.com/vox/tracks-v1a1/mono.m3u8
@@ -253,7 +253,7 @@ https://s11.hopslan.com/tlc/tracks-v1a1/mono.m3u8
 https://s11.hopslan.com/zdfneo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ntv.png" ,n-tv
-http://188.195.58.187:8000/play/a02n
+https://s5.hopslan.com/ntv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ONE.png" ,ARD One HD
 http://188.195.58.187:8000/play/a05q
@@ -403,7 +403,7 @@ https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 http://93.189.224.117:52900/play/a029
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/bbc.png" ,BBC World News
-https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
+https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/BBC1.png" ,BBC One FHD
 https://edge-1288-ch-gv.filmon.com/live/3223.high.stream/playlist.m3u8?id=0ad5aac39bb13fbede7a028f56ceca10ac0046f85688b79b0939b6899bf317110a6b8180a04038f22ad8b244c1d9bf68355950d541f169a142eb5b8725c1239b41299e9482627d6e9480be3977690f4287142b4ce4fe3040743810d76effeaf9b532e1115c0d669abe1966eb48e3896ae6e266d1354ea66fd343bcfff84a729900a192cf6a512e0f15dbe6cfa06414781187752c68e585b5

@@ -442,7 +442,7 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CNN.jpg" ,CNN News HD
-https://turnerlive.akamaized.net/hls/live/586497/cnngo/cnni/master.m3u8
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Newsmax.png" ,Newsmax FHD
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
@@ -573,10 +573,10 @@ http://dai.google.com/linear/hls/event/LGDVXxxyT8SxrL4-ZodxKw/master.m3u8
 #EXTINF:-1, tvg-logo="https://image.xumo.com/v1/providers/provider/1100/300x300.png?type=color_onBlack", Bambu FHD
 https://bambu-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bambu-xumo/CDN/1920x1080_5055600/chunklist.m3u8
 
-#EXTINF:-1, Britcom
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf6Jrz6GK0CmL-YrLuGaRcNM3-KguLY0Gi2w&usqp=CAU" ,Britcom
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
 
-#EXTINF:-1, Cinelife FHD
+#EXTINF:-1, tvg-logo="https://www.cinelifeentertainment.com/wp-content/uploads/2019/01/logo-1.png" ,Cinelife FHD
 https://magnolia-xumo-us.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-xumo/CDN/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/insighttvuhd/assets/b2a1a9f0-c735-4c8e-99d2-febad143b04c.png" ,Insight FHD
@@ -588,25 +588,25 @@ https://iptvh.it/RuntimeFHD
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/BUZZR.png" ,BUZZR FHD
 https://buzzrota-web.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, Naturescape FHD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Stingray_Naturescape.png" ,Naturescape FHD
 https://dai.google.com/linear/hls/pa/event/6RPZlzksTCyB1euPqLcBZQ/stream/41504c46-fdee-4041-bbdb-d5cfa79c0637:BRU/variant/1f59af1adae7ec0177f9359d51686df6/bandwidth/5358012.m3u8
 
-#EXTINF:-1, Xplore FHD
+#EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/1af93f_c70d65efa2864a78b5ecee452437971f~mv2.png/v1/fill/w_262,h_100,al_c,q_85,usm_0.66_1.00_0.01/xplore-vector_its-all-here-tagline-01_ed.webp", Xplore FHD
 https://iptvh.it/xplore
 
 #EXTINF:-1, PlutoTV Reality
 https://iptvh.it/plutoreality2
 
-#EXTINF:-1, Telemundo
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1214px-Telemundo_logo_2018.svg.png" ,Telemundo
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8
 
-#EXTINF:-1, CCX FHD
+#EXTINF:-1, tvg-logo="https://ccxmedia.org/wp-content/uploads/2017/11/CCX-Media_C-overL.png" ,CCX FHD
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 
-#EXTINF:-1, KMTV
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/KMTV3.png" ,KMTV
 http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1, Hell's Kitchen | Kitchen Nightmares 24/7
+#EXTINF:-1, tvg-logo="https://help.redbubble.com/hc/article_attachments/360025349072/HellsKitchen_logo.png" , Hell's Kitchen | Kitchen Nightmares 24/7
 http://iptvh.it/HKKN247
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/KCTV.jpg" ,KCTV (North Korea)
@@ -630,7 +630,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/
 #EXTINF:-1, tvg-id="CGTNDoc.TV" tvg-name="CGTN Documentary" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CGTNDoc.png" ,CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:-1, CCTV 1 FHD
+#EXTINF:-1, tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/CCTV-1__922fcb/CCTV-1%25E7%25BB%25BC%25E5%2590%2588.png__79804_medium.webp", CCTV 1 FHD
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ZEECHD.png" , Zee Café HD
@@ -642,13 +642,13 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8
 #EXTINF:-1, tvg-id="Zee.TV" tvg-name="Zee Mundo USA" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ZEEM.png" , Zee Mundo HD
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1, Zee Smile
+#EXTINF:-1, tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" , Zee Smile
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1, &Flix HD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" ,&Flix HD
 https://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1, &Privé HD
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/%26priv%C3%A9_HD.svg/revision/latest?cb=20200430075830", &Privé HD
 http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1, tvg-id="AlJQ.TV" tvg-name="Al Jazeera Qatar" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ALJAZEERA.jpg" ,Al Jazeera FHD

@@ -11,3 +11,5 @@
 9. This is the shortened link for the raw M3U list: https://iptvh.it/kodilist.
 10. There's no adult/erotic/porn channels in the M3U list. If you want them, you can look them up on any other repository but I won't include them.
 11. It is recommended not to create forks for this repository.
+
+    𝘼𝙑𝙄𝙎𝙊 𝙂𝙀𝙉𝙀𝙍𝘼𝙇 🇪🇸

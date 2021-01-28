@@ -15,7 +15,7 @@
 
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 
-𝘼𝙑𝙄𝙎𝙊 𝙂𝙀𝙉𝙀𝙍𝘼𝙇 🇪🇸
+    𝘼𝙑𝙄𝙎𝙊 𝙂𝙀𝙉𝙀𝙍𝘼𝙇 🇪🇸
     
 1. Este es un repositorio individual y personal utilizado con el único propósito de ver canales de IPTV en Kodi a través de una lista M3U.
 2. Todos los enlaces introducidos en la lista M3U provienen de fuentes oficiales o proveedores legales y gratuitos.

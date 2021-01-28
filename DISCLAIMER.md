@@ -9,3 +9,5 @@
 7. The EPG file I personally use for these channels is the one provided by the user "HelmerLuzo" (you can go to his Github page, he does a great work). A shortened link for the XMLTV file is this: https://www.tdtchannels.com/epg/TV.xml.
 8. The channels on the M3U list are already linked to the XMLTV file so there should not be any issues while showing the EPG data.
 9. This is the shortened link for the raw M3U list: https://iptvh.it/kodilist.
+10. There's no adult/erotic/porn channels in the M3U list. If you want them, you can look them up on any other repository but I won't include them.
+11.

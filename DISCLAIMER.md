@@ -6,6 +6,6 @@
 4. Most links should work fine on any place in the world, but there might be some channels that are subject to geographical restrictions.
 5. There can be a broken link throughout the time between the first edit and the next one. Don't worry, if you stumble upon this repository, the user will take care of the inconvenience and will fix those broken links.
 6. If it wasn't already obvious, all the channels displayed on the M3U list are free and public, and there's no pirated or illegal streams on said list.
-7. The EPG file I personally use for these channels is the one provided by the user "HelmerLuzo" (you can go to his Github page, he does a great work). A shortened link for the XMLTV file is this: https://www.tdtchannels.com/epg/TV.xml
+7. The EPG file I personally use for these channels is the one provided by the user "HelmerLuzo" (you can go to his Github page, he does a great work). A shortened link for the XMLTV file is this: https://www.tdtchannels.com/epg/TV.xml.
 8. The channels on the M3U list are already linked to the XMLTV file so there should not be any issues while showing the EPG data.
-
+9. This is the shortened link for the raw M3U list: https://iptvh.it/kodilist.

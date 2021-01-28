@@ -1,4 +1,4 @@
-𝘿𝙄𝙎𝘾𝙇𝘼𝙄𝙈𝙀𝙍
+    𝘿𝙄𝙎𝘾𝙇𝘼𝙄𝙈𝙀𝙍
 
 1. This is a personal and individual repository used for the only purpose to watch IPTV channels on Kodi through a M3U list.
 2. All links entered on the M3U list come from either official sources or legal (and free) providers.

@@ -22,7 +22,7 @@ https://livestartover-i.akamaized.net/lasexta/bitrate_4.m3u8
 http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Neox.TV" tvg-name="Neox" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/NeoxHD.png" ,Neox FHD
-https://livestartover-i.akamaized.net/geoneox/bitrate_4.m3u8
+plugin://plugin.video.atresplayer/?O000xOOOOOO0000=canal&c=https%3a%2f%2fadictosalatele.com%2fTV%2fespana%2fneox%2f&c2=https%3a%2f%2fvergol.com%2fcanales228%2flive%2fneox.php&i=https%3a%2f%2fpbs.twimg.com%2fprofile_images%2f1206930040639889408%2fvVMYUgV3_400x400.png&plot=Neox%20en%20directo
 
 #EXTINF:-1, tvg-id="FDF.TV" tvg-name="FDF" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/FDF.png" ,FDF HD
 http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8

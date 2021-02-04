@@ -450,11 +450,11 @@ http://93.189.224.117:52900/play/a029
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/bbc.png" ,BBC World News
 https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/BBC1.png" ,BBC One FHD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/bbcone.png" ,BBC One FHD
 https://edge-1288-ch-gv.filmon.com/live/3223.high.stream/playlist.m3u8?id=0ad5aac39bb13fbede7a028f56ceca10ac0046f85688b79b0939b6899bf317110a6b8180a04038f22ad8b244c1d9bf68355950d541f169a142eb5b8725c1239b41299e9482627d6e9480be3977690f4287142b4ce4fe3040743810d76effeaf9b532e1115c0d669abe1966eb48e3896ae6e266d1354ea66fd343bcfff84a729900a192cf6a512e0f15dbe6cfa06414781187752c68e585b5
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/bbc.png" ,BBC Two FHD
-http://92.246.85.106:8000/play/a05g/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.pngkey.com/png/full/534-5341414_20pm-subscribe-to-watch-watch-now-bbc-two.png" ,BBC Two FHD
+https://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="SkyN.TV" tvg-name="Sky News UK" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/SkyHD.png" ,Sky News HD
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
@@ -468,7 +468,7 @@ https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ORF1HD.png" ,ORF 1 HD
 https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_6.m3u8?m=1584188161
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/ORF_2_HD.svg/1280px-ORF_2_HD.svg.png" ,ORF 2 HD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/ORF_2_HD.svg/1280px-ORF_2_HD.png" ,ORF 2 HD
 https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Austria24.png" ,Austria24 HD
@@ -546,7 +546,7 @@ https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/tastemade.png" ,TasteMade HD
 https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://gustotv.com/wp-content/uploads/2020/04/gustotv-logo.svg" ,Gusto TV FHD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/gustotv.png" ,Gusto TV FHD
 https://gustous-plex.amagi.tv/amRdirect/us_privacy=1---&amp;did=undefined&amp;dnt=1&amp;X-Plex-Token=JynYznM7UymiAi7ogTYU&amp;channelId=5f8746eabd529300418246d9/hls/amagi_hls_data_gustoAAAA-gustous-plex/CDN/1920x1080_5055600/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/FLCh.png" ,The Florida Channel
@@ -729,7 +729,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/SBS.png" ,SBS FHD
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8
 
-#EXTINF:-1, tvg-id="NHK.TV" tvg-name="NHK World Japan" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/NHK.png" ,NHK World HD
+#EXTINF:-1, tvg-id="NHK.TV" tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" ,NHK World HD
 https://b-nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459-b/nhkwlive-ojp/index_1M.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/NHKPremium.png" , NHK World Premium
@@ -744,7 +744,7 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1, tvg-id="CGTNN.TV" tvg-name="CGTN News" tvg-logo="https://spng.pngfind.com/pngs/s/495-4957336_new-health-technology-showcased-at-ces-cgtn-logo.png" ,CGTN News
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CNA_new_logo.svg" ,NewsAsia HD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/NewsAsia.png" ,NewsAsia HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
 #EXTINF:-1, tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/CCTV-1__922fcb/CCTV-1%25E7%25BB%25BC%25E5%2590%2588.png__79804_medium.webp", CCTV 1 FHD

@@ -33,3 +33,15 @@
 11. Se recomienda no crear forks de este repositorio.
 12. Este repositorio puede quedarse discontinuado en cualquier momento sin previo aviso.
 13. Los plugins de Kodi no oficiales que proporcionen contenidos incluidos en la lista se considerarán legales hasta que se demuestre lo contrario mediante pruebas fiables.
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+## <b><i>Technical information / Información técnica <i><b>
+    
+   - <i>Resolutions:<i>
+       - 𝙐𝙃𝘿 — 3840 x 2160 or higher (stated in M3U)
+       - 𝙁𝙃𝘿 — 1920 x 1080, including 2K resolution (stated in M3U)
+       - 𝙃𝘿 — 1280 x 720 (stated in M3U)
+       - 𝙎𝘿 — 1024 x 576 and slightly lower resolutions (not stated in M3U)
+       - 𝙇𝙌 — 640 x 480, including slightly lower and higher resolutions (not stated in M3U)
+       - 𝙎𝙇𝙌 — 480 x 288 or lower (stated in M3U).

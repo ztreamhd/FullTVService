@@ -14,6 +14,7 @@
 10. There's no adult/erotic/porn channels in the M3U list. If you want them, you can look them up on any other repository but I won't include them.
 11. It is recommended not to create forks for this repository.
 12. This repository can be discontinued at any time.
+13. Third-party Kodi plugins providing content (other than YouTube or Dailymotion) are assumed to be legal unless stated otherwise.
 
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 
@@ -31,3 +32,4 @@
 10. En la lista no hay canales de temática adulta, erótica o pornográfica. Si quieres esos canales, puedes encontrarlos fácilmente en cualquier otro repositorio pero yo no los voy a incluir.
 11. Se recomienda no crear forks de este repositorio.
 12. Este repositorio puede quedarse discontinuado en cualquier momento sin previo aviso.
+13. Los plugins de Kodi no oficiales que proporcionen contenidos incluidos en la lista se considerarán legales hasta que se demuestre lo contrario mediante pruebas fiables.

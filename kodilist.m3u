@@ -754,7 +754,7 @@ http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ZEECHD.png" , Zee Café HD
-http://z5amshls.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ZEELiving.jpg" , Zee Living HD
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8
@@ -763,13 +763,13 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" , Zee Smile
-http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" ,&Flix HD
-https://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/%26priv%C3%A9_HD.svg/revision/latest?cb=20200430075830", &Privé HD
-http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/timesnow.png" ,Times Now India
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
@@ -794,3 +794,6 @@ https://livestream.streamingconnect.com/hls/vtvweb.m3u8
 
 #EXTINF:-1, tvg-id="Paramount.TV" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Paramount.jpg" ,Paramount Network
 rtp://@239.192.250.172:2000
+
+#EXTINF:-1, tvg-id="DMax.TV" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DMAX.png" ,DMAX (Backup?)
+https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8

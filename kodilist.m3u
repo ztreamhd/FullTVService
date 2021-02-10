@@ -13,7 +13,7 @@ plugin://plugin.video.atresplayer/?O000xOOOOOO0000=canal&c=https%3a%2f%2fadictos
 https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/cuatro/dash/cuatro.mpd?begin=&amp;end=&amp;nvb=1595175238&amp;nva=1910708034&amp;hash=0d0d929de59ddae5232eb4e29e65cd70c9f08821c
 
 #EXTINF:-1, tvg-id="Telecinco.TV" tvg-name="Telecinco" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/T5HD.png" ,Telecinco FHD
-plugin://plugin.video.mitele/Canales en directo/Telecinco
+https://mitele.es/directo/telecinco/
 
 #EXTINF:-1, tvg-id="LaSexta.TV" tvg-name="LaSexta" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/LA6HD.png" ,LaSexta FHD
 https://livestartover-i.akamaized.net/lasexta/bitrate_4.m3u8

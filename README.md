@@ -44,4 +44,4 @@
        - 𝙃𝘿 — 1280 x 720 (stated in M3U)
        - 𝙎𝘿 — 1024 x 576 and slightly lower resolutions (not stated in M3U)
        - 𝙇𝙌 — 640 x 480, including slightly lower and higher resolutions (not stated in M3U)
-       - 𝙎𝙇𝙌 — 480 x 288 or lower (stated in M3U).
+       - 𝙎𝙇𝙌 — 512 x 288 or lower (stated in M3U).

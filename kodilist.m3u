@@ -94,7 +94,7 @@ https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/playlist.m3u8
 http://congresodirecto-f.akamaihd.net/i/congreso1_1@71529/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/RTVCE.png" ,RTVCE HD
-https://originlive2.shooowit.net/rtvcelive/smil:channel2.smil/chunklist_b2500000.m3u8?test
+https://cdnlive.shooowit.net/rtvcelive/smil:channel1.smil/master.m3u8
 
 #EXTINF:-1, tvg-id="MelillaTV.TV" tvg-name="Melilla TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TVMelilla.png" ,TV Melilla HD
 https://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3u8

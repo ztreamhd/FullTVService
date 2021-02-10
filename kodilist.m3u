@@ -498,6 +498,9 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/Newsy_2015_Logo.png" ,Newsy HD
 https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
 
+#EXTINF:-1, tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Fox-News-Logo.png" ,FOX News Now HD
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/1200px-NBC_News_2011.svg.png" ,NBC News Now FHD
 https://iptvh.it/NBCnewsNOW
 
@@ -537,6 +540,9 @@ https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1, tvg-logo="https://www.alchimie.com/wp-content/uploads/2020/04/unbeaten_full_logo_red.png" ,Unbeaten FHD
 https://unbeaten-roku.amagi.tv/playlist1080p.m3u8
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" ,Tennis Channel HD
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/WCHD.png" ,The Weather Channel HD
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8?sd=10&amp;rebase=on
 
@@ -569,6 +575,9 @@ https://de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/UM4U.png" ,Urban Music 4U
 https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle_50pc_Black220.png" ,ClubbingTV HD
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/NASATV.png" ,NASA TV HD
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
@@ -788,6 +797,9 @@ plugin://plugin.video.youtube/play/?video_id=H7FA_Ymsryk
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MTC.jpg" , México Travel Channel FHD
 plugin://plugin.video.dailymotion_com/?url=x7v76vf&mode=playLiveVideo
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" ,LoveNature en Español FHD
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1200px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" ,Venezolana de Televisión
 https://livestream.streamingconnect.com/hls/vtvweb.m3u8

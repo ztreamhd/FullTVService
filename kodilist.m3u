@@ -31,7 +31,7 @@ http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
 plugin://plugin.video.mitele/?lllllllllll1=canales
 
 #EXTINF:-1, tvg-id="Atreseries.TV" tvg-name="Atreseries" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/A3S.png" ,Atreseries FHD
-https://a3m-a3s-live-dash.secure.footprint.net/live/nas_live/a3s/dash/a3s.mpd?begin=&amp;end=&amp;nvb=1595175238&amp;nva=1910708034&amp;hash=06179f00f76e46bf918b09c17e47079a1efa09954
+plugin://plugin.video.atresplayer/?O000xOOOOOO0000=canal&c=https%3a%2f%2fadictosalatele.com%2fTV%2fespana%2fatreseries%2f&c2=https%3a%2f%2fvergol.com%2fcanales228%2flive%2fatreseries.php&i=https%3a%2f%2fphotos.prnewswire.com%2fprnh%2f20160518%2f369485&plot=A3Series%20en%20directo
 
 #EXTINF:-1, tvg-id="Mega.TV" tvg-name="Mega" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MegaHD.png" ,MEGA FHD
 https://livestartover-i.akamaized.net/geomega/bitrate_4.m3u8

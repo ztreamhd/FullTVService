@@ -43,7 +43,7 @@ plugin://plugin.video.mitele/Canales en directo/Energy
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="TDP.TV" tvg-name="Teledeporte" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TDPHD.png" ,TDP FHD
-https://rtvelivestream.akamaized.net/tdp_dvr_1080.m3u8
+https://rtvelivestream.akamaized.net/tdp_dvr_4000.m3u8
 
 #EXTINF:-1, tvg-id="13.TV" tvg-name="TRECE" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/13TV.jpg" ,TRECE
 https://live-edge-lon-2.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live-898/index.m3u8
@@ -72,7 +72,7 @@ https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Lancelot.jpg" ,Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
 
-#EXTINF:-1, Ahora TV
+#EXTINF:-1, tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/03/ahora-TV-en-directo-Online.png" ,Ahora TV
 https://5940924978228.streamlock.net/8171/8171/playlist.m3u8
 
 #EXTINF:-1, tvg-id="ETB1.TV" tvg-name="ETB 1" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ETB1HD.png" ,ETB 1 HD
@@ -105,7 +105,7 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/HuescaTV.jpg" ,Huesca TV
 https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8
 
-#EXTINF:-1, Cáceres Tevé FHD
+#EXTINF:-1, tvg-logo="https://diretele.com/wp-content/uploads/2020/09/Caceres-Teve.png" ,Cáceres Tevé FHD
 https://ce2019100818001.dnssw.net/hls/ceres.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/sierracadiz.png" ,Sierra de Cádiz FHD
@@ -156,17 +156,17 @@ https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/60
 #EXTINF:-1, tvg-id="TV3.TV" tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TV3HD.png" ,TV3 FHD
 https://directes-tv-es.ccma.cat/es/ngrp:tvc_web/playlist.m3u8
 
-#EXTINF:-1, tvg-id="BonDiaTV_CAT.TV" tvg-name="Bon Dia TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/BonDia.png" ,Bon Dia TV
-https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b1296000.m3u8
+#EXTINF:-1, tvg-id="BonDiaTV_CAT.TV" tvg-name="Bon Dia TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/BonDia.png" ,Bon Dia TV FHD
+https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/playlist.m3u8
 
-#EXTINF:-1, tvg-id="E3.TV" tvg-name="Esport 3" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Esport3.png" ,Esport3
-https://directes-tv-es.ccma.cat/es/ngrp:es3_web/playlist_DVR.m3u8
+#EXTINF:-1, tvg-id="E3.TV" tvg-name="Esport 3" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Esport3.png" ,Esport3 FHD
+https://directes-tv-es.ccma.cat/es/ngrp:es3_web/chunklist_b4128000.m3u8
 
 #EXTINF:-1, tvg-logo="https://iteleflix.com/archivos/Logo-Teve.cat_.png",Tevecat FHD
 https://limited7.todostreaming.es/live/mitjans-livestream.m3u8
 
 #EXTINF:-1, tvg-id="IB3.TV" tvg-name="IB3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/IB3.svg/1200px-IB3.svg.png", IB3 HD
-plugin://plugin.video.youtube/play/?video_id=7CuKsaymSg8
+plugin://plugin.video.youtube/play/?video_id=lqBUvSdxCFo
 
 #EXTINF:-1, tvg-id="Libertad.TV" tvg-name="Libertad Digital TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Libdigital.jpg" ,Libertad Digital TV
 plugin://plugin.video.dailymotion_com/?url=xnm032&mode=playLiveVideo
@@ -211,7 +211,7 @@ https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/27077f_21df71d53465489cbb32acc9f9dd83e0~mv2_d_2000_2000_s_2.png" ,LifeTV
-http://media.profesionalhosting.com:1935/8201/8201/mono.m3u8
+rtmp://media.profesionalhosting.com:1935/8201/8201
 
 #EXTINF:-1, tvg-logo="https://servidor1.xyz/images/redspain.png" ,RedTV FHD
 http://media.profesionalhosting.com:1935/8437/8437/mono.m3u8

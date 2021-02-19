@@ -199,10 +199,10 @@ https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es16intl-brightcove/CDN/1920x1080_5055600/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/PlutoComedia.png" ,Pluto TV Cine Comedia HD
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8099c49f600076579b2/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=6f1fa53e-4424-4b24-b487-296a7b837199&deviceVersion=73.0.3856.344&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&deviceType=web&deviceMake=Opera&sid=d235804e-7216-11eb-9ad5-0242ac110002&advertisingId=&deviceLat=28.4853&deviceLon=-16.3201&deviceDNT=0&deviceModel=web&userId=&appName=web
+plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=5f1ac8099c49f600076579b2&_l=.pvr
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MundoReal.jpg" ,Pluto TV Vida Real
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdfda84c970007e750b5/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=6f1fa53e-4424-4b24-b487-296a7b837199&deviceVersion=73.0.3856.344&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&deviceType=web&deviceMake=Opera&sid=d235804e-7216-11eb-9ad5-0242ac110002&advertisingId=&deviceLat=28.4853&deviceLon=-16.3201&deviceDNT=0&deviceModel=web&userId=&appName=web
+plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=5f1acdfda84c970007e750b5&_l=.pvr
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MTMad.jpg" ,MTMad HD
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
@@ -239,6 +239,9 @@ https://stream02.stream.welocal.world/stream/fhd-muenchentv_365036/ngrp:stream_a
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/1200px-ZDF_logo.svg.png" ,ZDF HD
 http://188.195.58.187:8000/play/a024
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/1000px-N24Doku.svg.png" ,N24 Doku LQ
+plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=60080e8a4bf36000076a81b1&_l=.pvr
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/3SATHD.png" ,3sat
 https://s11.hopslan.com/3sat/tracks-v1a1/mono.m3u8

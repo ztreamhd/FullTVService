@@ -6,7 +6,7 @@ https://rtvelivestream.akamaized.net/la1_dvr_4000.m3u8
 #EXTINF:-1, tvg-id="La2.TV" tvg-name="La 2" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/LA2HD.png" ,La 2 FHD
 https://rtvelivestream.akamaized.net/la2_dvr_4000.m3u8
 
-#EXTINF:-1, tvg-id="Antena3.TV" tvg-name="Antena 3" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/A3HD.jpg" ,Antena 3 FHD
+#EXTINF:-1, tvg-id="Antena3.TV" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Antena3hd.png" ,Antena 3 FHD
 plugin://plugin.video.atresplayer/?O000xOOOOOO0000=canal&c=https%3a%2f%2fadictosalatele.com%2fTV%2fespana%2fantena3%2f&c2=https%3a%2f%2fvergol.com%2fcanales228%2flive1%2fantena3.php&i=https%3a%2f%2fyt3.ggpht.com%2fa%2fAATXAJy9OKwQlgDnU1ZqskXty84Aaye7LPOPtHgHHSFpug%3ds900-c-k-c0xffffffff-no-rj-mo&plot=Antena%203%20en%20directo
 
 #EXTINF:-1, tvg-id="Cuatro.TV" tvg-name="Cuatro" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/4HD.png" ,Cuatro FHD

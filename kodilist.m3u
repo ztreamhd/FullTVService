@@ -360,7 +360,7 @@ plugin://plugin.video.dailymotion_com/?url=x3b68jn&mode=playLiveVideo
 #EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canal%2B_France_2011_logo.svg/1280px-Canal%2B_France_2011_logo.svg.png", Canal+ France FHD
 plugin://plugin.video.dailymotion_com/?url=x5gv6be&mode=playLiveVideo
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_C8.svg", C8 France FHD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_C8.svg/1280px-Logo_C8.svg.png", C8 France FHD
 plugin://plugin.video.dailymotion_com/?url=x5gv5rr&mode=playLiveVideo
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CGTNFr.png" ,CGTN Français
@@ -475,7 +475,7 @@ https://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Ma
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ORF1HD.png" ,ORF 1 HD
-https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_6.m3u8?m=1584188161
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_6.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/ORF_2_HD.svg/1280px-ORF_2_HD.png" ,ORF 2 HD
 https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8
@@ -684,7 +684,7 @@ https://introuble-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWONDER.png" ,InWonder HD
 https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, Runtime FHD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/runtime.png" , Runtime FHD
 https://iptvh.it/RuntimeFHD
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/BUZZR.png" ,BUZZR FHD
@@ -702,7 +702,7 @@ https://iptvh.it/xplore
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/popsci.png" ,Popular Science HD
 http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
 
-#EXTINF:-1, PlutoTV Reality
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/PlutoReality.png" ,PlutoTV Reality
 https://iptvh.it/plutoreality2
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/PBSHD.png" ,PBS America HD

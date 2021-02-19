@@ -240,7 +240,7 @@ https://stream02.stream.welocal.world/stream/fhd-muenchentv_365036/ngrp:stream_a
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/1200px-ZDF_logo.svg.png" ,ZDF HD
 http://188.195.58.187:8000/play/a024
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/1000px-N24Doku.svg.png" ,N24 Doku LQ
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/1000px-N24Doku.svg.png" ,N24 Doku
 plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=60080e8a4bf36000076a81b1&_l=.pvr
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/3SATHD.png" ,3sat

@@ -36,12 +36,19 @@
 
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 
-## <b><i>Technical information / Información técnica <i><b>
+## <b><i>Technical information / Información técnica </i></b>
     
-   - <i>Resolutions:<i>
+   - <b><i>Resolutions:</i></b>
        - 𝙐𝙃𝘿 — 3840 x 2160 or higher (stated in M3U)
        - 𝙁𝙃𝘿 — 1920 x 1080, including 2K resolution (stated in M3U)
        - 𝙃𝘿 — 1280 x 720 (stated in M3U)
        - 𝙎𝘿 — 1024 x 576 and slightly lower resolutions (not stated in M3U)
        - 𝙇𝙌 — 640 x 480, including slightly lower and higher resolutions (not stated in M3U)
        - 𝙎𝙇𝙌 — 512 x 288 or lower (stated in M3U).
+   
+   - <b><i>Plugins for Kodi:</i></b>
+       - <b>PlutoTV</b> by Slyguy.
+       - <b>YouTube</b> addon for Kodi (available in its original repository).
+       - <b>Dailymotion</b> addon for Kodi, also available in the original repository.
+       - <b>Mitele</b> by Alex303/HirayaSoftware.
+       - <b>Atresplayer</b> by Alex303/HirayaSoftware.

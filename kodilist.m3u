@@ -28,7 +28,7 @@ plugin://plugin.video.atresplayer/?O000xOOOOOO0000=canal&c=https%3A%2F%2Fwww.atr
 http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Bemad.TV" tvg-name="Be Mad" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/bemad.png" ,Be Mad FHD
-plugin://plugin.video.mitele/?lllllllllll1=canales
+https://live.mitele.es/hls/live/2005333/bemad/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Atreseries.TV" tvg-name="Atreseries" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/A3S.png" ,Atreseries FHD
 plugin://plugin.video.atresplayer/?O000xOOOOOO0000=canal&c=https%3a%2f%2fadictosalatele.com%2fTV%2fespana%2fatreseries%2f&c2=https%3a%2f%2fvergol.com%2fcanales228%2flive%2fatreseries.php&i=https%3a%2f%2fphotos.prnewswire.com%2fprnh%2f20160518%2f369485&plot=A3Series%20en%20directo
@@ -37,7 +37,7 @@ plugin://plugin.video.atresplayer/?O000xOOOOOO0000=canal&c=https%3a%2f%2fadictos
 https://livestartover-i.akamaized.net/geomega/bitrate_4.m3u8
 
 #EXTINF:-1, tvg-id="Energy.TV" tvg-name="Energy" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/EnergyHD.jpg" ,Energy HD
-plugin://plugin.video.mitele/Canales en directo/Energy
+https://live.mitele.es/hls/live/2005337/energy/master.m3u8
 
 #EXTINF:-1, tvg-id="Ten.TV" tvg-name="Ten" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TEN.png" ,TEN HD
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
@@ -240,7 +240,7 @@ https://stream02.stream.welocal.world/stream/fhd-muenchentv_365036/ngrp:stream_a
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/1200px-ZDF_logo.svg.png" ,ZDF HD
 http://188.195.58.187:8000/play/a024
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/1000px-N24Doku.svg.png" ,N24 Doku
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/1000px-N24Doku.svg.png" ,N24 Doku @ PlutoTV
 plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=60080e8a4bf36000076a81b1&_l=.pvr
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/3SATHD.png" ,3sat
@@ -522,8 +522,8 @@ https://yahoo-plex.amagi.tv/amRdirect/us_privacy=1---&did=undefined&dnt=1&X-Plex
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/bbqt.png" ,Bloomberg Quicktake FHD
 https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 
-#EXTINF:-1, Pluto TV News HD
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?terminate=false&amp;deviceType=web&amp;deviceMake=web&amp;deviceModel=web&amp;sid=202&amp;deviceId=5268abcd0ce20a8472000114&amp;deviceVersion=DNT&amp;appVersion=DNT&amp;deviceDNT=0&amp;userId=&amp;advertisingId=&amp;deviceLat=&amp;deviceLon=&amp;app_name=&amp;appName=web&amp;buildVersion=&amp;appStoreUrl=&amp;architecture=&amp;includeExtendedEvents=false&amp;marketingRegion=US&amp;serverSideAds=false
+#EXTINF:-1, tvg-logo="https://p.kindpng.com/picc/s/764-7649229_pluto-tv-logo-logo-pluto-tv-png-transparent.png" ,Pluto TV News HD
+plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=5268abcd0ce20a8472000114&_l=.pvr
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/cheddar.png" ,Cheddar HD
 https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
@@ -558,7 +558,7 @@ https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8?sd=10&amp;reb
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/WN.png" ,WeatherNation HD
 https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/tastemade.png" ,TasteMade HD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/tastemade_transparent.png" ,TasteMade HD
 https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/gustotv.png" ,Gusto TV FHD
@@ -622,7 +622,7 @@ https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
 https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/BETHD.png" ,BET @ Pluto TV HD
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/subtitle/en/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=e4aeac2f-c600-4e07-8ba8-e3a5e43613d3&deviceVersion=83.0&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&deviceType=web&deviceMake=Firefox&sid=3dfb2dd8-4521-11eb-a7eb-0242ac110002&advertisingId=&deviceLat=42.7470&deviceLon=-73.7527&deviceDNT=0&deviceModel=web&userId=&appName=web
+plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=5ca670f6593a5d78f0e85aed&_l=.pvr
 
 #EXTINF:-1, USA Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8

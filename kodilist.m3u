@@ -739,7 +739,7 @@ https://iptvh.it/ABC.Australia
 plugin://plugin.video.youtube/play/?video_id=NQjabLGdP5g
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/KCTV.jpg" ,KCTV (North Korea)
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0
 https://tv.nknews.org/tvdash/stream.mpd
 
 #EXTINF:-1, tvg-id="Arirang.TV" tvg-name="Arirang TV Korea" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ArirangHD.png" ,Arirang TV HD

@@ -739,8 +739,7 @@ https://iptvh.it/ABC.Australia
 plugin://plugin.video.youtube/play/?video_id=NQjabLGdP5g
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/KCTV.jpg" ,KCTV (North Korea)
-#KODIPROP:inpustreamaddon=inputstream.mpd
-#KODIPROP:inpustream.mpd.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 https://tv.nknews.org/tvdash/stream.mpd
 
 #EXTINF:-1, tvg-id="Arirang.TV" tvg-name="Arirang TV Korea" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ArirangHD.png" ,Arirang TV HD

@@ -123,7 +123,7 @@ https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TSmadrid.jpeg" ,Telesur Madrid FHD
 https://cdn01.yowi.tv/W3GH8E4B5V/master.m3u8
 
-#EXTINF:-1, tvg-id="C33M.TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/canal33.jpg" ,Canal 33 Madrid FHD
+#EXTINF:-1, tvg-id="C33M.TV" tvg-name="33" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/canal33.jpg" ,Canal 33 Madrid FHD
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
 
 #EXTINF:-1, tvg-id="La7.TV" tvg-name="La 7" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/7CyL.png" ,La 7 Castilla y León (HD)
@@ -318,16 +318,16 @@ http://sparhandytv-live.hls.adaptive.level3.net/ses/sparhandytv/stream1/streamPl
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/SPORT1.png" ,Sport1
 https://edge-1192-ch-gv.filmon.com/live/4121.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeff381d751cd319283a035d3367c9fb0b2d6cbdbe4af4d1d846007391413978e84847f3ce76bbc2664816a3edb3fcd06606fb69b7c2b85c17869ec3591c53ff5e8a512359e87b53181e66834f2905baa385618438233365008a906176f46c882196714c1d30cd973d2ccf7c862ccfb69980482481cde7a4d65c5ba701f00d9acae6464e67a865873795623591b8ad7380b2d9ed5fe6a6baf5
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Mediashop.png" ,Mediashop TV
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/extraimages/Mediashop.png" ,Mediashop TV
 https://cdn1-europe.smartcast.tv/mediashop/mediashop1/chunklist_w1171164475.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DMFHD.png" ,Deutsches Musik Fernsehen HD
 https://tv.artcom-venture.de/dmf/tv_720.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TV5Monde.png" ,TV5Monde Europe FHD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/extraimages/TV5Monde.png" ,TV5Monde Europe FHD
 https://tv5europe-i.akamaihd.net/hls/live/729480/tv5europehls/master.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TV5Monde.png" ,TV5Monde Info FHD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/extraimages/TV5Monde.png" ,TV5Monde Info FHD
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 
 #EXTINF:-1, tvg-id="France24.TV" tvg-name="France 24 Francia" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/France24.png" ,France 24
@@ -792,7 +792,7 @@ https://f8e7y4c6.ssl.hwcdn.net/andprivehd/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/timesnow.png" ,Times Now India
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
-#EXTINF:-1, tvg-id="AlJQ.TV" tvg-name="Al Jazeera Qatar" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/al-jazeera-logo.png" ,Al Jazeera FHD
+#EXTINF:-1, tvg-id="AlJQ.TV" tvg-name="Al Jazeera Qatar" tvg-logo="http://cdn.freelogovectors.net/wp-content/uploads/2016/12/al-jazeera-logo.png" ,Al Jazeera FHD
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png" ,GarageTV

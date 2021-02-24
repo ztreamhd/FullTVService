@@ -57,7 +57,7 @@ http://photocall.tv/kE7s/mt?ch=divinity
 #EXTINF:-1, tvg-id="DKiss.TV" tvg-name="DKiss" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DKISS.png",DKISS HD
 http://91.126.141.201:1935/live/kiss/index.m3u8
 
-#EXTINF:-1, tvg-id="Nova.TV" tvg-name="Nova" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Nova.png" ,Nova FHD
+#EXTINF:-1, tvg-id="Nova.TV" tvg-name="Nova" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Nova_transparent.png" ,Nova FHD
 https://livestartover-i.akamaized.net/geonova/bitrate_4.m3u8
 
 #EXTINF:-1, tvg-id="Canarias.TV" tvg-name="Televisión Canaria" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/RTVC.png" ,TV Canaria
@@ -99,7 +99,7 @@ https://cdnlive.shooowit.net/rtvcelive/smil:channel1.smil/master.m3u8
 #EXTINF:-1, tvg-id="MelillaTV.TV" tvg-name="Melilla TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TVMelilla.png" ,TV Melilla HD
 https://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3u8
 
-#EXTINF:-1, tvg-id="AragonTV.TV" tvg-name="Aragón TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/AragonTV.jpg" ,Aragón TV
+#EXTINF:-1, tvg-id="AragonTV.TV" tvg-name="Aragón TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Aragon_white.png" ,Aragón TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Huesca_white.png" ,Huesca TV
@@ -168,7 +168,7 @@ https://limited7.todostreaming.es/live/mitjans-livestream.m3u8
 #EXTINF:-1, tvg-id="IB3.TV" tvg-name="IB3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/IB3.svg/1200px-IB3.svg.png", IB3 HD
 plugin://plugin.video.youtube/play/?video_id=lqBUvSdxCFo
 
-#EXTINF:-1, tvg-id="Libertad.TV" tvg-name="Libertad Digital TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Libdigital.jpg" ,Libertad Digital TV
+#EXTINF:-1, tvg-id="Libertad.TV" tvg-name="Libertad Digital TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/libdigital_transparent.png" ,Libertad Digital TV
 plugin://plugin.video.dailymotion_com/?url=xnm032&mode=playLiveVideo
 
 #EXTINF:-1, tvg-id="ElToro.TV" tvg-name="El Toro TV" tvg-logo="https://eltorotv.com/wp-content/uploads/2020/01/logo-eltorotv.jpg",El Toro TV
@@ -258,7 +258,7 @@ https://s11.hopslan.com/pro7b/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Pro7Maxx.png" ,ProSieben Maxx
 https://s3.hopslan.com/pro7maxx/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/SAT1.jpg" ,Sat. 1
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Sat._1_HD_Logo_transparent.png" ,Sat. 1
 https://s11.hopslan.com/sat1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-name="RTL" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/RTL.png" ,RTL
@@ -297,22 +297,22 @@ https://s5.hopslan.com/ntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ONE.png" ,ARD One HD
 http://188.195.58.187:8000/play/a05q
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Elbekanal.png" ,Elbekanal
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/elbekanal_transparent.png" ,Elbekanal
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/chemnitz.png" ,Chemnitz Fernsehen FHD
+#EXTINF:-1, tvg-logo="https://www.bundes-telefonbuch.de/anzeige/13506340" ,Chemnitz Fernsehen FHD
 https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/chunks.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/QVC.png" ,QVC Deutschland
 https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog_index.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/123TV.jpg" ,123 TV
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/123TV.png" ,123 TV
 http://123tv.cdn.ses-ps.com/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/sonnenklar.png" ,SonnenklarTV FHD
 http://euvia-live.hls.adaptive.level3.net/ses/euvia/stream1/streamPlaylist.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/handystar.png" ,Handystar
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/handystar_transparent.png" ,Handystar
 http://sparhandytv-live.hls.adaptive.level3.net/ses/sparhandytv/stream1/streamPlaylist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/SPORT1.png" ,Sport1
@@ -336,7 +336,7 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ARTEHD.png" ,ARTE FHD
 http://178.18.49.42:8080/play/a006
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/France2.png" ,France 2 FHD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/1181px-France_2_2018.svg.png" ,France 2 FHD
 http://178.18.49.42:8080/play/a004
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TF1.jpg" ,TF1 HD
@@ -345,7 +345,7 @@ https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/franceinfo_transparent.png" ,FranceInfo FHD
 plugin://plugin.video.youtube/play/?video_id=wwNZKfBLAsc
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/LCI.png" ,LCI HD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b4/LCI_logo_%282016%29.png" ,LCI HD
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TMC.jpg" ,TMC HD
@@ -468,7 +468,7 @@ https://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="SkyN.TV" tvg-name="Sky News UK" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/SkyHD.png" ,Sky News HD
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/itv.jpg" ,iTV
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ITV_%28Fernsehsender%29_logo.svg/1280px-ITV_%28Fernsehsender%29_logo.svg.png" ,iTV
 https://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.samsung.com/is/image/samsung/p5/uk/COMEDYHUB_logo.png" ,SamsungTV Comedy FHD
@@ -555,7 +555,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/WCHD.png" ,The Weather Channel HD
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8?sd=10&amp;rebase=on
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/WN.png" ,WeatherNation HD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" ,WeatherNation HD
 https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/tastemade_transparent.png" ,TasteMade HD
@@ -759,7 +759,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/
 #EXTINF:-1, tvg-id="CGTNDoc.TV" tvg-name="CGTN Documentary" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CGTNDoc.png" ,CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:-1, tvg-id="CGTNN.TV" tvg-name="CGTN News" tvg-logo="https://spng.pngfind.com/pngs/s/495-4957336_new-health-technology-showcased-at-ces-cgtn-logo.png" ,CGTN News
+#EXTINF:-1, tvg-id="CGTNN.TV" tvg-name="CGTN News" tvg-logo="https://america.cgtn.com/wp-content/themes/cctv-america/img/CGTN-LOGO-GOLD.png" ,CGTN News
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/NewsAsia.png" ,NewsAsia HD
@@ -777,7 +777,7 @@ https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ZEELiving.jpg" , Zee Living HD
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8
 
-#EXTINF:-1, tvg-id="Zee.TV" tvg-name="Zee Mundo USA" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ZEEM.png" , Zee Mundo HD
+#EXTINF:-1, tvg-id="Zee.TV" tvg-name="Zee Mundo USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Zee_Mundo_2018.png" , Zee Mundo HD
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" , Zee Smile
@@ -792,7 +792,7 @@ https://f8e7y4c6.ssl.hwcdn.net/andprivehd/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/timesnow.png" ,Times Now India
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
-#EXTINF:-1, tvg-id="AlJQ.TV" tvg-name="Al Jazeera Qatar" tvg-logo="http://cdn.freelogovectors.net/wp-content/uploads/2016/12/al-jazeera-logo.png" ,Al Jazeera FHD
+#EXTINF:-1, tvg-id="AlJQ.TV" tvg-name="Al Jazeera Qatar" tvg-logo="https://i.pinimg.com/originals/c7/05/2b/c7052b44274743ef057905ae5ec71cae.png" ,Al Jazeera FHD
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png" ,GarageTV
@@ -804,7 +804,7 @@ plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg/1024px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg.png", TPA Argentina FHD
 plugin://plugin.video.youtube/play/?video_id=H7FA_Ymsryk
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MTC.jpg" , México Travel Channel FHD
+#EXTINF:-1, tvg-logo="https://forounivers.com/uploads/monthly_2017_07/large.5976269ddc57d_MexicoTravelChannel.png.a68e66a9619cd3e530d058bb967ddca2.png" , México Travel Channel FHD
 plugin://plugin.video.dailymotion_com/?url=x7v76vf&mode=playLiveVideo
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" ,LoveNature en Español FHD

@@ -180,7 +180,7 @@ https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/HispanTV.png" ,HispanTV HD
 https://live1.presstv.com/live/hispan_720p/index.m3u8
 
-#EXTINF:-1, tvg-id="DW.TV" tvg-name="DW Alemania" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DW.gif" ,Deutsche Welle Español
+#EXTINF:-1, tvg-id="DW.TV" tvg-name="DW Alemania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" ,Deutsche Welle Español
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&amp;rebase=on
 
 #EXTINF:-1, tvg-id="RTESP.TV" tvg-name="RT" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/RTesp.jpg" ,RT Español HD

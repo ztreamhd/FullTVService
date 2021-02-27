@@ -70,41 +70,41 @@
 | PlutoTV Mundo Real | 1280 x <b>720</b> | Pluto TV | Spanish / Español | Working / Funcionando |
 | MTMad | 1280 x <b>720</b> | None / Ninguno | Spanish / Español | Working / Funcionando |
 | +24 | 1024 x <b>576</b> | None / Ninguno | Spanish / Español | Eventual broadcast / Emisión eventual |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
+| Life TV | 1024 x <b>576</b> | None / Ninguno | Spanish / Español | Eventual broadcast / Emisión eventual |
+| Red TV | 1920 x <b>1080</b> | None / Ninguno | Spanish / Español | Working / Funcionando |
+| ARD | 1280 x <b>720</b> | None / Ninguno | German / Alemán | Working / Funcionando |
+| Tagesschau24 | 1280 x <b>720</b> | None / Ninguno | German / Alemán | Working / Funcionando |
+| WDR | 1280 x <b>720</b> | None / Ninguno | German / Alemán | Working / Funcionando |
+| NDR | 1280 x <b>720</b> | None / Ninguno | German / Alemán | Working / Funcionando |
+| RegioTV Schwaben | 1920 x <b>1080</b> | None / Ninguno | German / Alemán | Working / Funcionando |
+| HR Fernsehen | 1920 x <b>1080</b> | None / Ninguno | German / Alemán | Working / Funcionando |
+| München TV | 1920 x <b>1080</b> | None / Ninguno | German / Alemán | Working / Funcionando |
+| ZDF | 1280 x <b>720</b> | None / Ninguno | German / Alemán | Unstable / Inestable |
+| N24 Doku (PlutoTV) | 1280 x <b>720</b> | Pluto TV | German / Alemán | Working / Funcionando |
+| 3sat | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Unavailable / No disponible |
+| DMAX Deutschland | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Unavailable / No disponible | 
+| Kabel 1 | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Unavailable / No disponible |
+| ProSieben | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Unavailable / No disponible |
+| ProSieben Maxx | 720 x <b>576</b> | None / Ninguno | German / Alemán | Working / Funcionando | 
+| Sat. 1 | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Unavailable / No disponible | 
+| RTL | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Unavailable / No disponible | 
+| RTL 2 | 720 x <b>576</b> | None / Ninguno | German / Alemán | Working / Funcionando | 
+| RTL Nitro | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Unavailable / No disponible | 
+| RTL Plus | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Unavailable / No disponible | 
+| SIXX | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Unavailable / No disponible |
+| VOX | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Unavailable / No disponible | 
+| Comedy Central Deutschland | 720 x <b>576</b> | None / Ninguno | German / Alemán | Working / Funcionando | 
+| Tele5 Deutschland | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Working / Funcionando | 
+| TLC Deutschland | 1920 x <b>1080</b> | None / Ninguno | German / Alemán | Unavailable / No disponible | 
+| ZDFneo | 1920 x <b>1080</b> | None / Ninguno | German / Alemán | Unavailable / No disponible | 
+| n-tv | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Unavailable / No disponible | 
+| ARD One | 1280 x <b>720</b> | None / Ninguno | German / Alemán | Working / Funcionando | 
+| Elbekanal | 720 x <b>576</b> | None / Ninguno | German / Alemán | Working / Funcionando |
+| Chemnitz Fernsehen | 1920 x <b>1080</b> | None / Ninguno | German / Alemán | Working / Funcionando |
+| QVC Deutschland | 960 x <b>540</b> | None / Ninguno | German / Alemán | Working / Funcionando |
+| 123 TV | 854 x <b>480</b> | None / Ninguno | German / Alemán | Working / Funcionando |
+| SonnenklarTV | 1920 x <b>1080</b> | None / Ninguno | German / Alemán | Working / Funcionando |
+| Handystar | 720 x <b>404</b> | None / Ninguno | German / Alemán | Working / Funcionando |
 | - | - | - | - | - |
 | - | - | - | - | - |
 | - | - | - | - | - |

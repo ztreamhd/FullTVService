@@ -105,52 +105,52 @@
 | 123 TV | 854 x <b>480</b> | None / Ninguno | German / Alemán | Working / Funcionando |
 | SonnenklarTV | 1920 x <b>1080</b> | None / Ninguno | German / Alemán | Working / Funcionando |
 | Handystar | 720 x <b>404</b> | None / Ninguno | German / Alemán | Working / Funcionando |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
+| Sport1 | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Unavailable / No disponible |
+| Mediashop TV | 720 x <b>576</b> | None / Ninguno | German / Alemán | Working / Funcionando |
+| Deutsches Musik Fernsehen | 1280 x <b>720</b> | None / Ninguno | German / Alemán | Working / Funcionando |
+| TV5Monde Europe | 1920 x <b>1080</b> | None / Ninguno | French / Francés | Working / Funcionando |
+| TV5Monde Info | 1920 x <b>1080</b> | None / Ninguno | French / Francés | Working / Funcionando |
+| France24 Español | 1024 x <b>576</b> | None / Ninguno | Spanish / Español | Working / Funcionando |
+| ARTE | 1920 x <b>1080</b> | None / Ninguno | French+German / Francés+Alemán | Working / Funcionando |
+| France 2 | 1920 x <b>1080</b> | None / Ninguno | French / Francés | Working / Funcionando |
+| TF1 | 1280 x <b>720</b> | None / Ninguno | French / Francés | Working / Funcionando |
+| FranceInfo | 1280 x <b>720</b> | YouTube | French / Francés | Working / Funcionando |
+| LCI | 1280 x <b>720</b> | None / Ninguno | French / Francés | Working / Funcionando |
+| TMC | 1280 x <b>720</b> | None / Ninguno | French / Francés | Working / Funcionando |
+| TFX | 1280 x <b>720</b> | None / Ninguno | French / Francés | Working / Funcionando |
+| Canal+ News | 1920 x <b>1080</b> | Dailymotion | French / Francés | Working / Funcionando |
+| Canal+ France | 1920 x <b>1080</b> | Dailymotion | French / Francés | Eventual broadcast / Emisión eventual |
+| C8 | 1920 x <b>1080</b> | Dailymotion | French / Francés | Working / Funcionando |
+| CGTN Français | 720 x <b>576</b> | None / Ninguno | French / Francés | Working / Funcionando |
+| BFM Business | 848 x <b>480</b> | None / Ninguno | French / Francés | Working / Funcionando |
+| LN24 Belgium | 1920 x <b>1080</b> | None / Ninguno | French / Francés | Working / Funcionando |
+| VOA | 1920 x <b>1080</b> | None / Ninguno | English / Inglés | Working / Funcionando |
+| RAI 1 | 1920 x <b>1080</b> | None / Ninguno | Italian / Italiano | Unavailable / No disponible |
+| RAI 3 | 1024 x <b>576</b> | None / Ninguno | Italian / Italiano | Working / Funcionando |
+| RAI News 24 | 1024 x <b>576</b> | None / Ninguno | Italian / Italiano | Working / Funcionando |
+| Nove | 1280 x <b>720</b> | None / Ninguno | Italian / Italiano | Working / Funcionando |
+| Spike Italia | 854 x <b>480</b> | None / Ninguno | Italian / Italiano | Working / Funcionando |
+| Mediaset Focus | 1024 x <b>576</b> | None / Ninguno | Italian / Italiano | Incompatible video format (MPD) / Formato de vídeo incompatible (MPD) |
+| Top Crime | 1024 x <b>576</b> | None / Ninguno | Italian / Italiano | Incompatible video format (MPD) / Formato de vídeo incompatible (MPD) |
+| DMAX Italia | 1280 x <b>720</b> | None / Ninguno | Italian / Italiano | Working / Funcionando |
+| HGTV Italia | 1280 x <b>720</b> | None / Ninguno | Italian / Italiano | Unstable / Inestable |
+| Giallo | 1280 x <b>720</b> | None / Ninguno | Italian / Italiano | Working / Funcionando |
+| Food Network Italia | 1280 x <b>720</b> | None / Ninguno | Italian / Italiano | Working / Funcionando |
+| Euronews | 1280 x <b>720</b> | None / Ninguno | Spanish / Español | Working / Funcionando |
+| Euronews English | 1280 x <b>720</b> | None / Ninguno | English / Inglés | Working / Funcionando |
+| Bloomberg Europe | 1280 x <b>720</b> | None / Ninguno | English / Inglés | Working / Funcionando |
+| Red Bull TV | 1920 x <b>1080</b> | None / Ninguno | English / Inglés | Working / Funcionando |
+| Kazakh TV | 1920 x <b>1080</b> | None / Ninguno | Kazakh+English / Kazajo+Inglés | Working / Funcionando |
+| ATV Andorra | 1280 x <b>720</b> | None / Ninguno | Catalan / Catalán | Working / Funcionando |
+| MTV Norway | 1280 x <b>720</b> | None / Ninguno | Norwegian+English / Noruego+Inglés | Working / Funcionando |
+| RTP Internacional | 640 x <b>360</b> | None / Ninguno | Portuguese / Portugués | Working / Funcionando |
+| TRT World | 1920 x <b>1080</b> | None / Ninguno | English / Inglés | Working / Funcionando |
+| DMAX Schweiz | 1920 x <b>1080</b> | None / Ninguno | German / Alemán | Unavailable / No disponible |
+| Europe by Satellite | 1280 x <b>720</b> | None / Ninguno | English / Inglés | Working / Funcionando |
+| EbS+ | 1280 x <b>720</b> | None / Ninguno | English / Inglés | Working / Funcionando |
+| RT Documentary | 1280 x <b>720</b> | None / Ninguno | English+Russian / Inglés+Ruso | Working / Funcionando |
+| Россия 1 | 1280 x <b>720</b> | None / Ninguno | Russian / Ruso | Working / Funcionando |
+| Москва 24 | 1024 x <b>576</b> | None / Ninguno | Russian / Ruso | Working / Funcionando |
 | - | - | - | - | - |
 | - | - | - | - | - |
 | - | - | - | - | - |

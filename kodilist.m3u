@@ -430,7 +430,7 @@ http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&amp;rebase=on
 
 #EXTINF:-1, tvg-id="RTP3.TV" tvg-name="RTP 3 Portugal" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/RTPi.png" ,RTP Internacional
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8?pxt_rtp
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TRT.jpg" ,TRT World FHD
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8

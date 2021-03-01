@@ -211,7 +211,7 @@ https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/27077f_21df71d53465489cbb32acc9f9dd83e0~mv2_d_2000_2000_s_2.png" ,LifeTV
-rtmp://media.profesionalhosting.com:1935/8201/8201
+http://media.profesionalhosting.com:1935/8201/8201/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://servidor1.xyz/images/redspain.png" ,RedTV FHD
 http://media.profesionalhosting.com:1935/8437/8437/mono.m3u8

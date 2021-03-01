@@ -166,7 +166,7 @@ https://directes-tv-es.ccma.cat/es/ngrp:es3_web/chunklist_b4128000.m3u8
 https://limited7.todostreaming.es/live/mitjans-livestream.m3u8
 
 #EXTINF:-1, tvg-id="IB3.TV" tvg-name="IB3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/IB3.svg/1200px-IB3.svg.png", IB3 HD
-plugin://plugin.video.youtube/play/?video_id=lqBUvSdxCFo
+plugin://plugin.video.youtube/play/?video_id=xDxxilCGvVQ
 
 #EXTINF:-1, tvg-id="Libertad.TV" tvg-name="Libertad Digital TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/libdigital_transparent.png" ,Libertad Digital TV
 plugin://plugin.video.dailymotion_com/?url=xnm032&mode=playLiveVideo
@@ -215,6 +215,9 @@ http://media.profesionalhosting.com:1935/8201/8201/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://servidor1.xyz/images/redspain.png" ,RedTV FHD
 http://media.profesionalhosting.com:1935/8437/8437/mono.m3u8
+
+#EXTINF:-1, tvg-logo="http://servidor1.xyz/images/mediatv.png" ,MediaTV FHD
+http://media.profesionalhosting.com:1935/8175/8175/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ARDHD.png" ,ARD HD
 https://mcdn.daserste.de/daserste/int/master_3660.m3u8
@@ -416,6 +419,9 @@ https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Bloom.TV" tvg-name="Bloomberg Europe" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Bloomberg.png" ,Bloomberg Europe HD
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+
+#EXTINF:-1, tvg-logo="https://image.winudf.com/v2/image/Y29tLmJsb29tYmVyZy5idHZhX2ljb25fMTUxMzc1NDA2Nl8wMzc/icon.png?w=&fakeurl=1" ,Bloomberg TV+ UHD
+https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.diariomotor.com/competicion/imagenes/2016/12/red-bull-tv.png" ,Red Bull TV FHD
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
@@ -621,10 +627,13 @@ https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/AMCrush.png" ,AMC Rush FHD
 https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/G/01/IMDbTV/linear/amcpresents/AMC-Presents_IMDB-Channel-Guide-Logo_v01.png" ,AMC Presents FHD
+https://amc-amcpresents-1.vizio.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/BETHD.png" ,BET @ Pluto TV HD
 plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=5ca670f6593a5d78f0e85aed&_l=.pvr
 
-#EXTINF:-1, USA Network
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1684px-USA_Network_logo_%282016%29.svg.png" ,USA Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8
 
 #EXTINF:-1, tvg-logo="https://watchcharge.s3.amazonaws.com/uploads/2020/03/Charge_White.png" ,Charge! HD
@@ -802,7 +811,7 @@ http://186.0.233.76:1935/Garage/garage.smil/.m3u8
 plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg/1024px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg.png", TPA Argentina FHD
-plugin://plugin.video.youtube/play/?video_id=H7FA_Ymsryk
+plugin://plugin.video.youtube/play/?video_id=bgQTONZ8wlA
 
 #EXTINF:-1, tvg-logo="https://forounivers.com/uploads/monthly_2017_07/large.5976269ddc57d_MexicoTravelChannel.png.a68e66a9619cd3e530d058bb967ddca2.png" , México Travel Channel FHD
 plugin://plugin.video.dailymotion_com/?url=x7v76vf&mode=playLiveVideo

@@ -16,7 +16,7 @@ https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/cuatro/dash/cua
 plugin://plugin.video.live.streamspro/?url=http%3A%2F%2Fphotocall.tv%2Fh2Fc%2Fmt%3Fch%3Dtelecinco
 
 #EXTINF:-1, tvg-id="LaSexta.TV" tvg-name="LaSexta" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/LA6HD.png" ,LaSexta FHD
-https://livestartover-i.akamaized.net/lasexta/bitrate_4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0
+https://livestartover-i.akamaized.net/lasexta/bitrate_4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
 
 #EXTINF:-1, tvg-id="DMax.TV" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DMAX.png" ,DMAX HD
 http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
@@ -28,7 +28,7 @@ plugin://plugin.video.atresplayer/?O000xOOOOOO0000=canal&c=https%3A%2F%2Fwww.atr
 http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Bemad.TV" tvg-name="Be Mad" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/bemad.png" ,Be Mad FHD
-https://live.mitele.es/hls/live/2005333/bemad/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0
+https://live.mitele.es/hls/live/2005333/bemad/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
 
 #EXTINF:-1, tvg-id="Atreseries.TV" tvg-name="Atreseries" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/A3S.png" ,Atreseries FHD
 plugin://plugin.video.atresplayer/?O000xOOOOOO0000=canal&c=https%3a%2f%2fadictosalatele.com%2fTV%2fespana%2fatreseries%2f&c2=https%3a%2f%2fvergol.com%2fcanales228%2flive%2fatreseries.php&i=https%3a%2f%2fphotos.prnewswire.com%2fprnh%2f20160518%2f369485&plot=A3Series%20en%20directo

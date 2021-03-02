@@ -219,6 +219,9 @@ http://media.profesionalhosting.com:1935/8437/8437/mono.m3u8
 #EXTINF:-1, tvg-logo="http://servidor1.xyz/images/mediatv.png" ,MediaTV FHD
 http://media.profesionalhosting.com:1935/8175/8175/mono.m3u8
 
+#EXTINF:-1, tvg-logo="https://masmediatv.es/images/2020/10/28/canal-cazavision-removebg-preview.png" ,Cazavisión
+https://cdn039.fractalmedia.es/hls/caz_es_high.m3u8
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ARDHD.png" ,ARD HD
 https://mcdn.daserste.de/daserste/int/master_3660.m3u8
 
@@ -812,6 +815,9 @@ plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg/1024px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg.png", TPA Argentina FHD
 plugin://plugin.video.youtube/play/?video_id=bgQTONZ8wlA
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png" ,Claro Sports FHD
+https://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://forounivers.com/uploads/monthly_2017_07/large.5976269ddc57d_MexicoTravelChannel.png.a68e66a9619cd3e530d058bb967ddca2.png" , México Travel Channel FHD
 plugin://plugin.video.dailymotion_com/?url=x7v76vf&mode=playLiveVideo

@@ -397,10 +397,10 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-p.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MSFocus.png" ,Mediaset Focus
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(fu)/manifest.mpd|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Flive3.msf.cdn.mediaset.net%2FContent%2Fdash_d0_clr_vos%2Flive%2Fchannel%28fu%29%2Fmanifest.mpd&title=https%3A%2F%2Flive3.msf.cdn.mediaset.net%2FContent%2Fdash_d0_clr_vos%2Flive%2Fchannel%28fu%29%2Fmanifest.mpd
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TopCrime.png" ,Top Crime
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(lt)/manifest.mpd|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Flive3.msf.cdn.mediaset.net%2FContent%2Fdash_d0_clr_vos%2Flive%2Fchannel%28lt%29%2Fmanifest.mpd&title=https%3A%2F%2Flive3.msf.cdn.mediaset.net%2FContent%2Fdash_d0_clr_vos%2Flive%2Fchannel%28lt%29%2Fmanifest.mpd
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DMAX.png" ,DMAX Italia
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
@@ -441,7 +441,7 @@ https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10
 #EXTINF:-1, tvg-id="RTP3.TV" tvg-name="RTP 3 Portugal" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/RTPi.png" ,RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TRT.jpg" ,TRT World FHD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/1280px-TRT_World_logo.svg.png" ,TRT World FHD
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DMAXDeutschland.png" ,DMAX Schweiz FHD
@@ -751,7 +751,7 @@ https://iptvh.it/ABC.Australia
 plugin://plugin.video.youtube/play/?video_id=NQjabLGdP5g
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/KCTV.jpg" ,KCTV (North Korea)
-https://tv.nknews.org/tvdash/stream.mpd|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Ftv.nknews.org%2Ftvdash%2Fstream.mpd&title=https%3A%2F%2Ftv.nknews.org%2Ftvdash%2Fstream.mpd
 
 #EXTINF:-1, tvg-id="Arirang.TV" tvg-name="Arirang TV Korea" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ArirangHD.png" ,Arirang TV HD
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8

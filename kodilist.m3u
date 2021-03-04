@@ -7,37 +7,37 @@ https://rtvelivestream.akamaized.net/la1_dvr_4000.m3u8
 https://rtvelivestream.akamaized.net/la2_dvr_4000.m3u8
 
 #EXTINF:-1, tvg-id="Antena3.TV" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Antena3hd.png" ,Antena 3 FHD
-plugin://plugin.video.atresplayer/?O000xOOOOOO0000=canal&c=https%3A%2F%2Fwww.atresplayer.com%2Fdirecto%2Fantena3%2F&c2=https%3A%2F%2Fvertelevision.tv%2Ftv%2Fnacionales%2Fantena-3.php&i=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F4%2F41%2FAntena3hd.png&plot=Antena+3+HD+en+directo
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fantena3%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fantena3%2F
 
-#EXTINF:-1, tvg-id="Cuatro.TV" tvg-name="Cuatro" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/4HD.png" ,Cuatro FHD
-https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/cuatro/dash/cuatro.mpd?begin=&amp;end=&amp;nvb=1595175238&amp;nva=1910708034&amp;hash=0d0d929de59ddae5232eb4e29e65cd70c9f08821c|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1, tvg-id="Cuatro.TV" tvg-name="Cuatro" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/4HD.png" ,Cuatro HD
+plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fphotocall.tv%2FiEg7%2Fmt%3Fch%3Dcuatro&title=http%3A%2F%2Fphotocall.tv%2FiEg7%2Fmt%3Fch%3Dcuatro
 
-#EXTINF:-1, tvg-id="Telecinco.TV" tvg-name="Telecinco" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/T5HD.png" ,Telecinco FHD
-plugin://plugin.video.live.streamspro/?url=http%3A%2F%2Fphotocall.tv%2Fh2Fc%2Fmt%3Fch%3Dtelecinco
+#EXTINF:-1, tvg-id="Telecinco.TV" tvg-name="Telecinco" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/T5HD.png" ,Telecinco HD
+plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fphotocall.tv%2FiEg7%2Fmt%3Fch%3Dtelecinco&title=http%3A%2F%2Fphotocall.tv%2FiEg7%2Fmt%3Fch%3Dtelecinco
 
 #EXTINF:-1, tvg-id="LaSexta.TV" tvg-name="LaSexta" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/LA6HD.png" ,LaSexta FHD
-https://livestartover-i.akamaized.net/lasexta/bitrate_4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Flasexta%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Flasexta%2F
 
 #EXTINF:-1, tvg-id="DMax.TV" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DMAX.png" ,DMAX HD
 http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Neox.TV" tvg-name="Neox" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/NeoxHD.png" ,Neox FHD
-plugin://plugin.video.atresplayer/?O000xOOOOOO0000=canal&c=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fneox%2F&i=https%3a%2f%2fpbs.twimg.com%2fprofile_images%2f1206930040639889408%2fvVMYUgV3_400x400.png&plot=Neox%20en%20directo
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fneox%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fneox%2F
 
 #EXTINF:-1, tvg-id="FDF.TV" tvg-name="FDF" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/FDF.png" ,FDF HD
 http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-id="Bemad.TV" tvg-name="Be Mad" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/bemad.png" ,Be Mad FHD
-https://live.mitele.es/hls/live/2005333/bemad/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+#EXTINF:-1, tvg-id="Bemad.TV" tvg-name="Be Mad" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/bemad.png" ,Be Mad HD
+plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fphotocall.tv%2FiEg7%2Fmt%3Fch%3Dbemad&title=http%3A%2F%2Fphotocall.tv%2FiEg7%2Fmt%3Fch%3Dbemad
 
 #EXTINF:-1, tvg-id="Atreseries.TV" tvg-name="Atreseries" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/A3S.png" ,Atreseries FHD
-plugin://plugin.video.atresplayer/?O000xOOOOOO0000=canal&c=https%3a%2f%2fadictosalatele.com%2fTV%2fespana%2fatreseries%2f&c2=https%3a%2f%2fvergol.com%2fcanales228%2flive%2fatreseries.php&i=https%3a%2f%2fphotos.prnewswire.com%2fprnh%2f20160518%2f369485&plot=A3Series%20en%20directo
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fatreseries%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fatreseries%2F
 
 #EXTINF:-1, tvg-id="Mega.TV" tvg-name="Mega" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MegaHD.png" ,MEGA FHD
-https://livestartover-i.akamaized.net/geomega/bitrate_4.m3u8
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fmega%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fmega%2F
 
 #EXTINF:-1, tvg-id="Energy.TV" tvg-name="Energy" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/EnergyHD.jpg" ,Energy HD
-https://live.mitele.es/hls/live/2005337/energy/master.m3u8
+plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fphotocall.tv%2FiEg7%2Fmt%3Fch%3Denergy&title=http%3A%2F%2Fphotocall.tv%2FiEg7%2Fmt%3Fch%3Denergy
 
 #EXTINF:-1, tvg-id="Ten.TV" tvg-name="Ten" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TEN.png" ,TEN HD
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
@@ -52,13 +52,13 @@ https://live-edge-lon-2.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live
 https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8
 
 #EXTINF:-1, tvg-id="Divinity.TV" tvg-name="Divinity" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Divinity.png" ,Divinity HD
-http://photocall.tv/kE7s/mt?ch=divinity
+plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fphotocall.tv%2FiEg7%2Fmt%3Fch%3Ddivinity&title=http%3A%2F%2Fphotocall.tv%2FiEg7%2Fmt%3Fch%3Ddivinity
 
 #EXTINF:-1, tvg-id="DKiss.TV" tvg-name="DKiss" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DKISS.png",DKISS HD
 http://91.126.141.201:1935/live/kiss/index.m3u8
 
 #EXTINF:-1, tvg-id="Nova.TV" tvg-name="Nova" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Nova_transparent.png" ,Nova FHD
-https://livestartover-i.akamaized.net/geonova/bitrate_4.m3u8
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fnova%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fnova%2F
 
 #EXTINF:-1, tvg-id="Canarias.TV" tvg-name="Televisión Canaria" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/RTVC.png" ,TV Canaria
 https://rtvc-live1.flumotion.com/rtvc/live1_high/chunks.m3u8

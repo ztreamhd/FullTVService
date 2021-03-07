@@ -51,5 +51,5 @@
        - <b>YouTube</b> addon for Kodi (available in its original repository).
        - <b>Dailymotion</b> addon for Kodi, also available in the original repository.
        - <b>Streamlink Tester</b> and <u>all its dependencies</u> for MPEG-DASH and web-only streams, by Twilight0.
-       - <b>Mitele</b> by Alex303/HirayaSoftware.
-       - <b>Atresplayer</b> by Alex303/HirayaSoftware.
+       - <b>Mitele</b> by Alex303/HirayaSoftware (<i>optional</i>).
+       - <b>Atresplayer</b> by Alex303/HirayaSoftware (<i>optional</i>).

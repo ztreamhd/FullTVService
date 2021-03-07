@@ -822,8 +822,5 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1200px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" ,Venezolana de Televisión
 https://livestream.streamingconnect.com/hls/vtvweb.m3u8
 
-#EXTINF:-1, tvg-id="Paramount.TV" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Paramount.jpg" ,Paramount Network
-rtp://@239.192.250.172:2000
-
 #EXTINF:-1, tvg-id="DMax.TV" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DMAX.png" ,DMAX (Backup?)
 https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8

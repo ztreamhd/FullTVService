@@ -1,6 +1,6 @@
 # FullTVService - A free (and legal) TV list for Kodi.
 
-    𝘿𝙄𝙎𝘾𝙇𝘼𝙄𝙈𝙀𝙍 🇺🇸 
+    𝘿𝙄𝙎𝘾𝙇𝘼𝙄𝙈𝙀𝙍 
 
 1. This is a personal and individual repository used for the only purpose to watch IPTV channels on Kodi through a M3U list.
 2. All links entered on the M3U list come from either official sources or legal (and free) providers.
@@ -18,7 +18,7 @@
 
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 
-    𝘼𝙑𝙄𝙎𝙊 𝙂𝙀𝙉𝙀𝙍𝘼𝙇 🇪🇸
+    𝘼𝙑𝙄𝙎𝙊 𝙂𝙀𝙉𝙀𝙍𝘼𝙇 
     
 1. Este es un repositorio individual y personal utilizado con el único propósito de ver canales de IPTV en Kodi a través de una lista M3U.
 2. Todos los enlaces introducidos en la lista M3U provienen de fuentes oficiales o proveedores legales y gratuitos.

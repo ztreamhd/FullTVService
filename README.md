@@ -53,3 +53,7 @@
        - <b>Streamlink Tester</b> and <u>all its dependencies</u> for MPEG-DASH and web-only streams, by Twilight0.
        - <b>Mitele</b> by Alex303/HirayaSoftware (<i>optional</i>).
        - <b>Atresplayer</b> by Alex303/HirayaSoftware (<i>optional</i>).
+   
+   - <b><i>Kodi compatibility:</i></b>
+       - <b>Kodi 19.0 Matrix</b> and above: Partially compatible. Most addons don't work on this version yet.
+       - <b>Kodi 18.9 Leia</b> and below: Totally compatible. There won't be any issue with these versions.

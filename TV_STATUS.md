@@ -4,23 +4,23 @@
 | - | - | - | - | - |
 | La 1 | 1920 x <b>1080</b> | None / Ninguno | Spanish / Español | Working / Funcionando |
 | La 2 | 1920 x <b>1080</b> | None / Ninguno | Spanish / Español | Working / Funcionando |
-| Antena 3 | <i>Variable</i> | Atresplayer | Spanish / Español | Unstable / Inestable |
-| Cuatro | 1280 x <b>720</b> | Mitele | Spanish / Español | Only on <b>external</b> addon / Sólo en addon <b>externo</b> |
-| Telecinco | 1920 x <b>1080</b> | Mitele | Spanish / Español | Only on <b>external</b> addon / Sólo en addon <b>externo</b> |
-| La Sexta | <i>Variable</i> | Atresplayer | Spanish / Español | Unstable / Inestable |
+| Antena 3 | 1920 x <b>1080</b> | Streamlink Tester | Spanish / Español | Working / Funcionando |
+| Cuatro | 1280 x <b>720</b> | Streamlink Tester | Spanish / Español | Unstable / Inestable |
+| Telecinco | 1280 x <b>720</b> | Streamlink Tester | Spanish / Español | Unstable / Inestable |
+| La Sexta | 1920 x <b>1080</b> | Streamlink Tester | Spanish / Español | Working / Funcionando |
 | DMAX España | 1280 x <b>720</b> | None / Ninguno | Spanish / Español | Working / Funcionando |
-| Neox | <i>Variable</i> | Atresplayer | Spanish / Español | Unstable / Inestable |
+| Neox | 1920 x <b>1080</b> | Streamlink Tester | Spanish / Español | Working / Funcionando |
 | FDF | 1280 x <b>720</b> | None / Ninguno | Spanish / Español | Working / Funcionando |
-| Be Mad | 1280 x <b>720</b> | Mitele | Spanish / Español | Only on <b>external</b> addon / Sólo en addon <b>externo</b> |
-| Atreseries | <i>Variable</i> | Atresplayer | Spanish / Español | Unstable / Inestable |
-| MEGA | <i>Variable</i> | Atresplayer | Spanish / Español | Unstable / Inestable |
-| Energy | 1280 x <b>720</b> | Mitele | Spanish / Español | Only on <b>external</b> addon / Sólo en addon <b>externo</b> |
+| Be Mad | 1280 x <b>720</b> | Streamlink Tester | Spanish / Español | Unstable / Inestable |
+| Atreseries | 1920 x <b>1080</b> | Streamlink Tester | Spanish / Español | Working / Funcionando |
+| MEGA | 1920 x <b>1080</b> | Streamlink Tester | Spanish / Español | Working / Funcionando |
+| Energy | 1280 x <b>720</b> | Streamlink Tester | Spanish / Español | Unstable / Inestable |
 | TEN | 1280 x <b>720</b> | None / Ninguno | Spanish / Español | Working / Funcionando |
 | TDP | 1920 x <b>1080</b> | None / Ninguno | Spanish / Español | Working / Funcionando |
 | TRECE | 1024 x <b>576</b> | None / Ninguno | Spanish / Español | Working / Funcionando |
 | 24 Horas | 1920 x <b>1080</b> | None / Ninguno | Spanish / Español | Working / Funcionando |
-| Divinity | 1280 x <b>720</b> | Mitele | Spanish / Español | Only on <b>external</b> addon / Sólo en addon <b>externo</b> |
-| Nova | <i>Variable</i> | Atresplayer | Spanish / Español | Unstable / Inestable |
+| Divinity | 1280 x <b>720</b> | Streamlink Tester | Spanish / Español | Unstable / Inestable |
+| Nova | 1920 x <b>1080</b> | Streamlink Tester | Spanish / Español | Working / Funcionando |
 | TV Canaria | 1024 x <b>576</b> | None / Ninguno | Spanish / Español | Working / Funcionando |
 | Mírame TV | 640 x <b>360</b> | None / Ninguno | Spanish / Español | Working / Funcionando |
 | Lancelot TV | 640 x <b>360</b> | None / Ninguno | Spanish / Español | Working / Funcionando |
@@ -45,7 +45,7 @@
 | La 7 Castilla y León | 1280 x <b>720</b> | None / Ninguno | Spanish / Español | Working / Funcionando |
 | TV Galicia| 1280 x <b>720</b> | None / Ninguno | Galician / Gallego | Working / Funcionando |
 | TV Galicia 2 | 1280 x <b>720</b> | None / Ninguno | Spanish / Español | Working / Funcionando |
-| Televigo | 1920 x <b>1080</b> | None / Ninguno | Spanish+Galician / Español+Gallego | Working / Funcionando |
+| Televigo | 1920 x <b>1080</b> | None / Ninguno | Spanish+Galician / Español+Gallego | Eventual broadcast / Emisión eventual |
 | Murcia TV | 640 x <b>360</b> | None / Ninguno | Spanish / Español | Working / Funcionando |
 | Canal Extremadura | 1024 x <b>576</b> | None / Ninguno | Spanish / Español | Working / Funcionando |
 | 101 TV Málaga | 1920 x <b>1080</b> | None / Ninguno | Spanish / Español | Working / Funcionando |
@@ -72,6 +72,7 @@
 | +24 | 1024 x <b>576</b> | None / Ninguno | Spanish / Español | Eventual broadcast / Emisión eventual |
 | Life TV | 1024 x <b>576</b> | None / Ninguno | Spanish / Español | Eventual broadcast / Emisión eventual |
 | Red TV | 1920 x <b>1080</b> | None / Ninguno | Spanish / Español | Working / Funcionando |
+| Media TV | 1920 x <b>1080</b> | None / Ninguno | Spanish / Español | Working / Funcionando |
 | ARD | 1280 x <b>720</b> | None / Ninguno | German / Alemán | Working / Funcionando |
 | Tagesschau24 | 1280 x <b>720</b> | None / Ninguno | German / Alemán | Working / Funcionando |
 | WDR | 1280 x <b>720</b> | None / Ninguno | German / Alemán | Working / Funcionando |
@@ -82,22 +83,22 @@
 | ZDF | 1280 x <b>720</b> | None / Ninguno | German / Alemán | Unstable / Inestable |
 | N24 Doku (PlutoTV) | 1280 x <b>720</b> | Pluto TV | German / Alemán | Working / Funcionando |
 | 3sat | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Unavailable / No disponible |
-| DMAX Deutschland | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Unavailable / No disponible | 
-| Kabel 1 | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Unavailable / No disponible |
-| ProSieben | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Unavailable / No disponible |
+| DMAX Deutschland | 1920 x <b>1080</b> | Streamlink Tester | German / Alemán | Working / Funcionando | 
+| Kabel 1 | 1024 x <b>576</b> | Streamlink Tester | German / Alemán | Working / Funcionando |
+| ProSieben | 1024 x <b>576</b> | Streamlink Tester | German / Alemán | Working / Funcionando |
 | ProSieben Maxx | 720 x <b>576</b> | None / Ninguno | German / Alemán | Working / Funcionando | 
-| Sat. 1 | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Unavailable / No disponible | 
-| RTL | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Unavailable / No disponible | 
+| Sat. 1 | 1024 x <b>576</b> | Streamlink Tester | German / Alemán | Working / Funcionando | 
+| RTL | 1024 x <b>576</b> | Streamlink Tester | German / Alemán | Working / Funcionando | 
 | RTL 2 | 720 x <b>576</b> | None / Ninguno | German / Alemán | Working / Funcionando | 
-| RTL Nitro | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Unavailable / No disponible | 
+| RTL Nitro | 1024 x <b>576</b> | Streamlink Tester | German / Alemán | Working / Funcionando | 
 | RTL Plus | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Unavailable / No disponible | 
-| SIXX | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Unavailable / No disponible |
-| VOX | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Unavailable / No disponible | 
+| SIXX | 1920 x <b>1080</b> | Streamlink Tester | German / Alemán | Working / Funcionando |
+| VOX | 1024 x <b>576</b> | Streamlink Tester | German / Alemán | Working / Funcionando | 
 | Comedy Central Deutschland | 720 x <b>576</b> | None / Ninguno | German / Alemán | Working / Funcionando | 
 | Tele5 Deutschland | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Working / Funcionando | 
 | TLC Deutschland | 1920 x <b>1080</b> | None / Ninguno | German / Alemán | Unavailable / No disponible | 
 | ZDFneo | 1920 x <b>1080</b> | None / Ninguno | German / Alemán | Unavailable / No disponible | 
-| n-tv | 1024 x <b>576</b> | None / Ninguno | German / Alemán | Unavailable / No disponible | 
+| n-tv | 1920 x <b>1080</b> | Streamlink Tester | German / Alemán | Working / Funcionando | 
 | ARD One | 1280 x <b>720</b> | None / Ninguno | German / Alemán | Working / Funcionando | 
 | Elbekanal | 720 x <b>576</b> | None / Ninguno | German / Alemán | Working / Funcionando |
 | Chemnitz Fernsehen | 1920 x <b>1080</b> | None / Ninguno | German / Alemán | Working / Funcionando |
@@ -130,8 +131,8 @@
 | RAI News 24 | 1024 x <b>576</b> | None / Ninguno | Italian / Italiano | Working / Funcionando |
 | Nove | 1280 x <b>720</b> | None / Ninguno | Italian / Italiano | Working / Funcionando |
 | Spike Italia | 854 x <b>480</b> | None / Ninguno | Italian / Italiano | Working / Funcionando |
-| Mediaset Focus | 1024 x <b>576</b> | None / Ninguno | Italian / Italiano | Incompatible video format (MPD) / Formato de vídeo incompatible (MPD) |
-| Top Crime | 1024 x <b>576</b> | None / Ninguno | Italian / Italiano | Incompatible video format (MPD) / Formato de vídeo incompatible (MPD) |
+| Mediaset Focus | 1024 x <b>576</b> | Streamlink Tester | Italian / Italiano | Working / Funcionando |
+| Top Crime | 1024 x <b>576</b> | Streamlink Tester | Italian / Italiano | Working / Funcionando |
 | DMAX Italia | 1280 x <b>720</b> | None / Ninguno | Italian / Italiano | Working / Funcionando |
 | HGTV Italia | 1280 x <b>720</b> | None / Ninguno | Italian / Italiano | Unstable / Inestable |
 | Giallo | 1280 x <b>720</b> | None / Ninguno | Italian / Italiano | Working / Funcionando |
@@ -140,12 +141,11 @@
 | Euronews English | 1280 x <b>720</b> | None / Ninguno | English / Inglés | Working / Funcionando |
 | Bloomberg Europe | 1280 x <b>720</b> | None / Ninguno | English / Inglés | Working / Funcionando |
 | Red Bull TV | 1920 x <b>1080</b> | None / Ninguno | English / Inglés | Working / Funcionando |
-| Kazakh TV | 1920 x <b>1080</b> | None / Ninguno | Kazakh+English / Kazajo+Inglés | Working / Funcionando |
+| Kazakh TV | 1280 x <b>720</b> | None / Ninguno | Kazakh+English / Kazajo+Inglés | Working / Funcionando |
 | ATV Andorra | 1280 x <b>720</b> | None / Ninguno | Catalan / Catalán | Working / Funcionando |
 | MTV Norway | 1280 x <b>720</b> | None / Ninguno | Norwegian+English / Noruego+Inglés | Working / Funcionando |
 | RTP Internacional | 640 x <b>360</b> | None / Ninguno | Portuguese / Portugués | Working / Funcionando |
 | TRT World | 1920 x <b>1080</b> | None / Ninguno | English / Inglés | Working / Funcionando |
-| DMAX Schweiz | 1920 x <b>1080</b> | None / Ninguno | German / Alemán | Unavailable / No disponible |
 | Europe by Satellite | 1280 x <b>720</b> | None / Ninguno | English / Inglés | Working / Funcionando |
 | EbS+ | 1280 x <b>720</b> | None / Ninguno | English / Inglés | Working / Funcionando |
 | RT Documentary | 1280 x <b>720</b> | None / Ninguno | English+Russian / Inglés+Ruso | Working / Funcionando |

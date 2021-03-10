@@ -36,7 +36,7 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atres
 #EXTINF:-1, tvg-id="Mega.TV" tvg-name="Mega" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MegaHD.png" ,MEGA FHD
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fmega%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fmega%2F
 
-#EXTINF:-1, tvg-id="Energy.TV" tvg-name="Energy" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/EnergyHD.jpg" ,Energy HD
+#EXTINF:-1, tvg-id="Energy.TV" tvg-name="Energy" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/EnergyTransparent_white.png" ,Energy HD
 plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fphotocall.tv%2FkR2g%2Fmt%3Fch%3Denergy&title=http%3A%2F%2Fphotocall.tv%2FkR2g%2Fmt%3Fch%3Denergy
 
 #EXTINF:-1, tvg-id="Ten.TV" tvg-name="Ten" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TEN.png" ,TEN HD
@@ -201,7 +201,7 @@ https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-taste
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/PlutoComedia.png" ,Pluto TV Cine Comedia HD
 plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=5f1ac8099c49f600076579b2&_l=.pvr
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MundoReal.jpg" ,Pluto TV Vida Real
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MundoReal_transparent.png" ,Pluto TV Vida Real
 plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=5f1acdfda84c970007e750b5&_l=.pvr
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MTMad.jpg" ,MTMad HD
@@ -528,7 +528,7 @@ https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 #EXTINF:-1, tvg-logo="https://p.kindpng.com/picc/s/764-7649229_pluto-tv-logo-logo-pluto-tv-png-transparent.png" ,Pluto TV News HD
 plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=5268abcd0ce20a8472000114&_l=.pvr
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/cheddar.png" ,Cheddar HD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/cheddar_transparent.png" ,Cheddar HD
 https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1024px-Fox_News_Channel_logo.svg.png" ,FOX News HD
@@ -567,10 +567,10 @@ https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/gustotv.png" ,Gusto TV FHD
 https://gustous-plex.amagi.tv/amRdirect/us_privacy=1---&amp;did=undefined&amp;dnt=1&amp;X-Plex-Token=JynYznM7UymiAi7ogTYU&amp;channelId=5f8746eabd529300418246d9/hls/amagi_hls_data_gustoAAAA-gustous-plex/CDN/1920x1080_5055600/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/FLCh.png" ,The Florida Channel
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/FloridaChannel.png" ,The Florida Channel
 http://wowzaprod4-i.akamaihd.net/hls/live/254057/persisTarget_2443575804_tvweb1_247_480p/chunklist.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TravFood.png" ,Travel & Food HD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TravFood_transparent.png" ,Travel & Food HD
 https://playout4multirtmp.tulix.tv/live19/Stream1/chunklist_w496850375.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/3a4b66_b2011a16d592456e9aadd68054123e61~mv2.jpg/v1/fill/w_1136,h_639,al_c,q_90/3a4b66_b2011a16d592456e9aadd68054123e61~mv2.jpg" ,SamsungTV Food HD
@@ -597,7 +597,7 @@ http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=3
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/SW.jpg" ,Sidewalks HD
 https://30a-tv.com/sidewalks.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/LAC.jpg" ,Law & Crime HD
+#EXTINF:-1, tvg-logo="https://catapy.com/assets/logo.png" ,Law & Crime HD
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/1280x720_2600000/chunklist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/WinkTV.png" ,WinkTV HD
@@ -645,7 +645,7 @@ https://iptvh.it/Filmstream
 #EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/G/01//digital/video/merch/subs/benefit-id/a-f/freewithads/epg/CRIME360_WHITE.png" ,Crime 360 FHD
 https://iptvh.it/Crime360_2
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Comet.jpg" ,Comet HD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Comet_transparent.png" ,Comet HD
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Docurama.png" ,Docurama FHD
@@ -657,7 +657,7 @@ https://dust.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1, tvg-id="TeleSUR.TV" tvg-name="TeleSUR Venezuela" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Telesur.png" ,Telesur English FHD
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/chunklist_w391827926.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/FilmriseCrime.jpg" ,Filmrise Crime
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TrueCrime_transparent_white.png" ,Filmrise Crime
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/redbox.png" ,Redbox Comedy FHD
@@ -705,7 +705,7 @@ https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/1af93f_c70d65efa2864a78b5ecee452437971f~mv2.png/v1/fill/w_262,h_100,al_c,q_85,usm_0.66_1.00_0.01/xplore-vector_its-all-here-tagline-01_ed.webp", Xplore FHD
 https://iptvh.it/xplore
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/popsci.png" ,Popular Science HD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/popsci_transparent.png" ,Popular Science HD
 http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/PlutoReality.png" ,PlutoTV Reality
@@ -780,7 +780,7 @@ https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ZEECHD.png" , Zee Café HD
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ZEELiving.jpg" , Zee Living HD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ZEELiving_2.png" , Zee Living HD
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8
 
 #EXTINF:-1, tvg-id="Zee.TV" tvg-name="Zee Mundo USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Zee_Mundo_2018.png" , Zee Mundo HD

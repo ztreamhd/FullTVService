@@ -537,6 +537,9 @@ http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo="https://blacknewschannel.com/wp-content/uploads/2020/01/BNC-Logo.png" ,BNC Backup FHD
 https://blacknewschannel-xumo-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewschannel-xumo/CDN/1920x1080_5055600/chunklist.m3u8
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_of_C-SPAN.svg/1280px-Logo_of_C-SPAN.svg.png" ,C-SPAN HD
+https://bozztv.com/teleyupp/teleup-cspan/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CBSS.png" ,CBS Sports FHD
 https://cbsshg09-cbsshg09-ms.global.ssl.fastly.net/cbss54g2/master/cbss54g2_7.m3u8
 
@@ -615,8 +618,11 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest_83.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/AS.jpg" ,Adult Swim FHD
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/AEHD.png" ,A&E USA FHD
-https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/AEHD.png" ,Best of A&E FHD
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/HistoryHD_USA.png" ,Best of History Channel FHD
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/AMCplus.png" ,AMC Absolute Reality FHD
 https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
@@ -653,6 +659,9 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/192
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/dust.jpg" ,DUST HD
 https://dust.sinclair.wurl.com/manifest/3000.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" ,ion+ HD
+https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1, tvg-id="TeleSUR.TV" tvg-name="TeleSUR Venezuela" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Telesur.png" ,Telesur English FHD
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/chunklist_w391827926.m3u8

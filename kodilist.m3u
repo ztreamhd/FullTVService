@@ -223,13 +223,13 @@ http://media.profesionalhosting.com:1935/8175/8175/mono.m3u8
 https://cdn039.fractalmedia.es/hls/caz_es_high.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ARDHD.png" ,ARD HD
-https://mcdn.daserste.de/daserste/int/master_1928.m3u8
+https://mcdn.daserste.de/daserste/int/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TS24HD.png" ,Tagesschau24 HD
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&amp;rebase=on
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/WDRHD.png" ,WDR HD
-https://mcdn.wdr.de/wdr/wdrfs/weltweit/master_1928.m3u8
+https://mcdn.wdr.de/wdr/wdrfs/weltweit/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/NDRHD.png" ,NDR HD
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8?sd=10&amp;rebase=on&amp;id=

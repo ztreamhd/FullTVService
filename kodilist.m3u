@@ -84,8 +84,8 @@ https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ETBD.jpg" ,ETB Deportes HD
 https://etbvgeo-lh.akamaihd.net/i/OCA2HD_1@756104/master.m3u8
 
-#EXTINF:-1, tvg-id="CanalSurA.TV" tvg-name="Canal Sur Andalucía" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CanalSurHD.png" ,Canal Sur HD
-https://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="CanalSurA.TV" tvg-name="Canal Sur Andalucía" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CanalSurHD.png" ,Canal Sur FHD
+plugin://plugin.video.youtube/play/?video_id=VpoBchxEzhc
 
 #EXTINF:-1, tvg-id="CanalCosta.TV" tvg-name="CanalCosta" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/canalcosta.png" ,Canal Costa FHD
 https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/playlist.m3u8

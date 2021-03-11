@@ -223,13 +223,13 @@ http://media.profesionalhosting.com:1935/8175/8175/mono.m3u8
 https://cdn039.fractalmedia.es/hls/caz_es_high.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ARDHD.png" ,ARD HD
-https://mcdn.daserste.de/daserste/int/master_3660.m3u8
+https://mcdn.daserste.de/daserste/int/master_1928.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TS24HD.png" ,Tagesschau24 HD
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&amp;rebase=on
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/WDRHD.png" ,WDR HD
-https://mcdn.wdr.de/wdr/wdrfs/weltweit/master_3680.m3u8
+https://mcdn.wdr.de/wdr/wdrfs/weltweit/master_1928.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/NDRHD.png" ,NDR HD
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8?sd=10&amp;rebase=on&amp;id=
@@ -385,7 +385,7 @@ https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_1080_av-p.m3u8?sd=10&a
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Rai1HD.png" ,RAI 1 FHD
-http://luminar.tv:2300/violo/violo/10610
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=260680
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/rai3.png" ,RAI 3
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
@@ -466,7 +466,7 @@ https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
 https://edge-1288-ch-gv.filmon.com/live/3223.high.stream/playlist.m3u8?id=0ad5aac39bb13fbede7a028f56ceca10ac0046f85688b79b0939b6899bf317110a6b8180a04038f22ad8b244c1d9bf68355950d541f169a142eb5b8725c1239b41299e9482627d6e9480be3977690f4287142b4ce4fe3040743810d76effeaf9b532e1115c0d669abe1966eb48e3896ae6e266d1354ea66fd343bcfff84a729900a192cf6a512e0f15dbe6cfa06414781187752c68e585b5
 
 #EXTINF:-1, tvg-logo="https://www.pngkey.com/png/full/534-5341414_20pm-subscribe-to-watch-watch-now-bbc-two.png" ,BBC Two FHD
-https://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/tracks-v1a1/mono.m3u8
+plugin://plugin.video.streamlink-tester/?action=play&url=http%3a%2f%2fwww.giniko.com%2fwatch.php%3fid%3d190&title=http%3a%2f%2fwww.giniko.com%2fwatch.php%3fid%3d190
 
 #EXTINF:-1, tvg-id="SkyN.TV" tvg-name="Sky News UK" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/SkyHD.png" ,Sky News HD
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
@@ -541,7 +541,7 @@ https://blacknewschannel-xumo-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknews
 https://cbsshg09-cbsshg09-ms.global.ssl.fastly.net/cbss54g2/master/cbss54g2_7.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/FOXSN.png" ,Fox Sports News HD
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ESPNHD.png" ,ESPN News HD
 https://gma2.blab.email/acc.m3u8
@@ -585,8 +585,8 @@ https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/V2B.png" ,V2Beats HD
 https://de1se01.v2beat.live/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/UM4U.png" ,Urban Music 4U
-https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://tdemo.com/giniko.png" ,Planet Music HD
+https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle_50pc_Black220.png" ,ClubbingTV HD
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
@@ -673,7 +673,7 @@ https://bambu-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bambu-xumo/CD
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.cinelifeentertainment.com/wp-content/uploads/2019/01/logo-1.png" ,Cinelife FHD
-https://magnolia-xumo-us.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-xumo/CDN/master.m3u8
+https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/GravitasMovies.png" ,Gravitas Movies HD
 https://gravitas-movies.samsung.wurl.com/manifest/playlist.m3u8

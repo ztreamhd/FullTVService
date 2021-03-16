@@ -10,7 +10,7 @@ https://rtvelivestream.akamaized.net/la2_dvr_4000.m3u8
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fantena3%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fantena3%2F
 
 #EXTINF:-1, tvg-id="Cuatro.TV" tvg-name="Cuatro" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/4HD.png" ,Cuatro HD
-plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fphotocall.tv%2FoEv4%2Fmt%3Fch%3Dcuatro&title=http%3A%2F%2Fphotocall.tv%2FoEv4%2Fmt%3Fch%3Dcuatro
+plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fwww.giniko.com%2Fwatch.php%3Fid%3D1204&title=http%3A%2F%2Fwww.giniko.com%2Fwatch.php%3Fid%3D1204
 
 #EXTINF:-1, tvg-id="Telecinco.TV" tvg-name="Telecinco" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/T5HD.png" ,Telecinco HD
 plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fphotocall.tv%2FoEv4%2Fmt%3Fch%3Dtelecinco&title=http%3A%2F%2Fphotocall.tv%2FoEv4%2Fmt%3Fch%3Dtelecinco
@@ -51,9 +51,6 @@ https://live-edge-lon-2.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live
 #EXTINF:-1, tvg-id="24Horas.TV" tvg-name="24 Horas" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/24H.png" ,24H FHD
 https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8
 
-#EXTINF:-1, tvg-id="Gol.TV" tvg-name="Gol Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/1280px-Gol.svg.png" ,GOL HD
-plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fphotocall.tv%2FoEv4%2Fl1%3Fch%3Dgol&title=http%3A%2F%2Fphotocall.tv%2FoEv4%2Fl1%3Fch%3Dgol
-
 #EXTINF:-1, tvg-id="Divinity.TV" tvg-name="Divinity" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Divinity.png" ,Divinity HD
 plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fphotocall.tv%2FoEv4%2Fmt%3Fch%3Ddivinity&title=http%3A%2F%2Fphotocall.tv%2FoEv4%2Fmt%3Fch%3Ddivinity
 
@@ -87,8 +84,8 @@ https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ETBD.jpg" ,ETB Deportes HD
 https://etbvgeo-lh.akamaihd.net/i/OCA2HD_1@756104/master.m3u8
 
-#EXTINF:-1, tvg-id="CanalSurA.TV" tvg-name="Canal Sur Andalucía" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CanalSurHD.png" ,Canal Sur FHD
-plugin://plugin.video.youtube/play/?video_id=VpoBchxEzhc
+#EXTINF:-1, tvg-id="CanalSurA.TV" tvg-name="Canal Sur Andalucía" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CanalSurHD.png" ,Canal Sur HD
+https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="CanalCosta.TV" tvg-name="CanalCosta" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/canalcosta.png" ,Canal Costa FHD
 https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/playlist.m3u8
@@ -561,6 +558,9 @@ https://unbeaten-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" ,Tennis Channel HD
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" ,Olympic Channel FHD
+plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fstream.pcriot.com%2FZk4e%2Fol%3Fch%3Dolympic_us&title=http%3A%2F%2Fstream.pcriot.com%2FZk4e%2Fol%3Fch%3Dolympic_us
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/WCHD.png" ,The Weather Channel HD
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8?sd=10&amp;rebase=on
 
@@ -821,9 +821,6 @@ plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg/1024px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg.png", TPA Argentina FHD
 plugin://plugin.video.youtube/play/?video_id=bgQTONZ8wlA
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png" ,Claro Sports FHD
-https://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://forounivers.com/uploads/monthly_2017_07/large.5976269ddc57d_MexicoTravelChannel.png.a68e66a9619cd3e530d058bb967ddca2.png" , México Travel Channel FHD
 plugin://plugin.video.dailymotion_com/?url=x7v76vf&mode=playLiveVideo

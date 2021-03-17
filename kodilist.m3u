@@ -570,7 +570,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" ,Olympic Channel FHD
 plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fstream.pcriot.com%2FZk4e%2Fol%3Fch%3Dolympic_us&title=http%3A%2F%2Fstream.pcriot.com%2FZk4e%2Fol%3Fch%3Dolympic_us
 
-#EXTINF:-1. tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" ,beIN Sports XTRA HD
+#EXTINF:-1, tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" ,beIN Sports XTRA HD
 https://plutotv.vo.llnwd.net/m/hlslive/bein.m3u8?chname=bein&pub=0
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/WCHD.png" ,The Weather Channel HD

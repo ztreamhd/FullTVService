@@ -301,7 +301,10 @@ https://s11.hopslan.com/zdfneo/tracks-v1a1/mono.m3u8
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.2ix2.com%2Fn-tv-live%2F&title=https%3A%2F%2Fwww.2ix2.com%2Fn-tv-live%2F
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ONE.png" ,ARD One HD
-http://188.195.58.187:8000/play/a05q
+https://de.4everproxy.com/direct/aHR0cHM6Ly9vbmVsaXZlc3RyZWFtLWxoLmFrYW1haWhkLm5ldC9pL29uZV9saXZlc3RyZWFtQDU2ODgxNC9pbmRleF80X2F2LWIubTN1OD9zZD0xMCZyZWJhc2U9b24-
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ARTEHD.png" ,ARTE Deutsch HD
+https://de.4everproxy.com/direct/aHR0cHM6Ly9hcnRlbGl2ZS1saC5ha2FtYWloZC5uZXQvaS9hcnRlbGl2ZV9kZUAzOTM1OTEvaW5kZXhfMV9hdi1iLm0zdTg_c2Q9MTAmcmViYXNlPW9u
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/elbekanal_transparent.png" ,Elbekanal
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
@@ -339,7 +342,7 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusin
 #EXTINF:-1, tvg-id="France24.TV" tvg-name="France 24 Francia" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/France24.png" ,France 24
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ARTEHD.png" ,ARTE FHD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ARTEHD.png" ,ARTE Français FHD
 http://178.18.49.42:8080/play/a006
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/1181px-France_2_2018.svg.png" ,France 2 FHD
@@ -402,6 +405,9 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Flive3.msf
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TopCrime.png" ,Top Crime
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Flive3.msf.cdn.mediaset.net%2FContent%2Fdash_d0_clr_vos%2Flive%2Fchannel%28lt%29%2Fmanifest.mpd&title=https%3A%2F%2Flive3.msf.cdn.mediaset.net%2FContent%2Fdash_d0_clr_vos%2Flive%2Fchannel%28lt%29%2Fmanifest.mpd
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mediaset_Extra_logo.svg/1200px-Mediaset_Extra_logo.svg.png" ,Mediaset Extra
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DMAX.png" ,DMAX Italia
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
 
@@ -458,6 +464,9 @@ https://a3569457661-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_24_logo_2014.png/1200px-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_24_logo_2014.png" ,Москва 24
 https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Protv-international.png/" ,ProTV International Romania FHD
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-protv-international/playlist/rum/live_fullhd.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/bbc.png" ,BBC World News
 https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
@@ -560,6 +569,9 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" ,Olympic Channel FHD
 plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fstream.pcriot.com%2FZk4e%2Fol%3Fch%3Dolympic_us&title=http%3A%2F%2Fstream.pcriot.com%2FZk4e%2Fol%3Fch%3Dolympic_us
+
+#EXTINF:-1. tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" ,beIN Sports XTRA HD
+https://plutotv.vo.llnwd.net/m/hlslive/bein.m3u8?chname=bein&pub=0
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/WCHD.png" ,The Weather Channel HD
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8?sd=10&amp;rebase=on

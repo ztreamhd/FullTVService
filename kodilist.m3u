@@ -13,7 +13,7 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atres
 plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fwww.giniko.com%2Fwatch.php%3Fid%3D1204&title=http%3A%2F%2Fwww.giniko.com%2Fwatch.php%3Fid%3D1204
 
 #EXTINF:-1, tvg-id="Telecinco.TV" tvg-name="Telecinco" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/T5HD.png" ,Telecinco HD
-plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fphotocall.tv%2FoEv4%2Fmt%3Fch%3Dtelecinco&title=http%3A%2F%2Fphotocall.tv%2FoEv4%2Fmt%3Fch%3Dtelecinco
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fg5Gw%2Fmt%3Fch%3Dtelecinco&title=https%3A%2F%2Fphotocall.tv%2Fg5Gw%2Fmt%3Fch%3Dtelecinco
 
 #EXTINF:-1, tvg-id="LaSexta.TV" tvg-name="LaSexta" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/LA6HD.png" ,LaSexta FHD
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Flasexta%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Flasexta%2F
@@ -28,7 +28,7 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atres
 http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Bemad.TV" tvg-name="Be Mad" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/bemad.png" ,Be Mad HD
-plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fphotocall.tv%2FoEv4%2Fmt%3Fch%3Dbemad&title=http%3A%2F%2Fphotocall.tv%2FoEv4%2Fmt%3Fch%3Dbemad
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fg5Gw%2Fmt%3Fch%3Dbemad&title=https%3A%2F%2Fphotocall.tv%2Fg5Gw%2Fmt%3Fch%3Dbemad
 
 #EXTINF:-1, tvg-id="Atreseries.TV" tvg-name="Atreseries" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/A3S.png" ,Atreseries FHD
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fatreseries%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fatreseries%2F
@@ -37,7 +37,7 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atres
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fmega%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fmega%2F
 
 #EXTINF:-1, tvg-id="Energy.TV" tvg-name="Energy" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/EnergyTransparent_white.png" ,Energy HD
-plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fphotocall.tv%2FoEv4%2Fmt%3Fch%3Denergy&title=http%3A%2F%2Fphotocall.tv%2FoEv4%2Fmt%3Fch%3Denergy
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fg5Gw%2Fmt%3Fch%3Denergy&title=https%3A%2F%2Fphotocall.tv%2Fg5Gw%2Fmt%3Fch%3Denergy
 
 #EXTINF:-1, tvg-id="Ten.TV" tvg-name="Ten" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TEN.png" ,TEN HD
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
@@ -52,7 +52,7 @@ https://live-edge-lon-2.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live
 https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8
 
 #EXTINF:-1, tvg-id="Divinity.TV" tvg-name="Divinity" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Divinity.png" ,Divinity HD
-plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fphotocall.tv%2FoEv4%2Fmt%3Fch%3Ddivinity&title=http%3A%2F%2Fphotocall.tv%2FoEv4%2Fmt%3Fch%3Ddivinity
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fg5Gw%2Fmt%3Fch%3Ddivinity&title=https%3A%2F%2Fphotocall.tv%2Fg5Gw%2Fmt%3Fch%3Ddivinity
 
 #EXTINF:-1, tvg-id="DKiss.TV" tvg-name="DKiss" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DKISS.png",DKISS HD
 http://91.126.141.201:1935/live/kiss/index.m3u8
@@ -343,7 +343,7 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusin
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ARTEHD.png" ,ARTE Français FHD
-http://178.18.49.42:8080/play/a006
+https://iptvh.it/ARTE_France
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/1181px-France_2_2018.svg.png" ,France 2 FHD
 http://178.18.49.42:8080/play/a004
@@ -400,10 +400,10 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-p.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MSFocus.png" ,Mediaset Focus
-plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Flive3.msf.cdn.mediaset.net%2FContent%2Fdash_d0_clr_vos%2Flive%2Fchannel%28fu%29%2Fmanifest.mpd&title=https%3A%2F%2Flive3.msf.cdn.mediaset.net%2FContent%2Fdash_d0_clr_vos%2Flive%2Fchannel%28fu%29%2Fmanifest.mpd
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TopCrime.png" ,Top Crime
-plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Flive3.msf.cdn.mediaset.net%2FContent%2Fdash_d0_clr_vos%2Flive%2Fchannel%28lt%29%2Fmanifest.mpd&title=https%3A%2F%2Flive3.msf.cdn.mediaset.net%2FContent%2Fdash_d0_clr_vos%2Flive%2Fchannel%28lt%29%2Fmanifest.mpd
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mediaset_Extra_logo.svg/1200px-Mediaset_Extra_logo.svg.png" ,Mediaset Extra
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
@@ -534,7 +534,7 @@ https://yahoo-plex.amagi.tv/amRdirect/us_privacy=1---&did=undefined&dnt=1&X-Plex
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/bbqt.png" ,Bloomberg Quicktake FHD
 https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 
-#EXTINF:-1, tvg-logo="https://p.kindpng.com/picc/s/764-7649229_pluto-tv-logo-logo-pluto-tv-png-transparent.png" ,Pluto TV News HD
+#EXTINF:-1, tvg-logo="https://www.apkmirror.com/wp-content/uploads/2018/12/5c033958b9f2c.png" ,Pluto TV News HD
 plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=5268abcd0ce20a8472000114&_l=.pvr
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/cheddar_transparent.png" ,Cheddar HD
@@ -568,7 +568,7 @@ https://unbeaten-roku.amagi.tv/playlist1080p.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" ,Olympic Channel FHD
-plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fstream.pcriot.com%2FZk4e%2Fol%3Fch%3Dolympic_us&title=http%3A%2F%2Fstream.pcriot.com%2FZk4e%2Fol%3Fch%3Dolympic_us
+plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fstream.pcriot.com%2FZk4e%2Foc%3Fch%3Dolympic_us&title=http%3A%2F%2Fstream.pcriot.com%2FZk4e%2Foc%3Fch%3Dolympic_us
 
 #EXTINF:-1, tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" ,beIN Sports XTRA HD
 https://plutotv.vo.llnwd.net/m/hlslive/bein.m3u8?chname=bein&pub=0
@@ -761,6 +761,9 @@ https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b
 
 #EXTINF:-1, tvg-logo="https://help.redbubble.com/hc/article_attachments/360025349072/HellsKitchen_logo.png" , Hell's Kitchen | Kitchen Nightmares 24/7
 http://iptvh.it/HKKN247
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Ici_Tele_logo.png" ,ICI Télé HD
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ABCaus.png" ,ABC Australia
 https://iptvh.it/ABC.Australia

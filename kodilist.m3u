@@ -115,7 +115,7 @@ http://217.125.136.93:8080/canalsierradecadiz1080.m3u8
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
 
 #EXTINF:-1, tvg-id="LaOtra.TV" tvg-name="LaOtra" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Laotra.png" ,LaOtra
-https://laotrahls-live-hls.secure.footprint.net/telemadrid/laotra1/bitrate_2.m3u8
+https://laotrahls-live-hls.secure.footprint.net/telemadrid/laotra1/master.m3u8
 
 #EXTINF:-1, tvg-id="Distrito.TV" tvg-name="Distrito TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DistritoTV.jpg" ,Distrito TV
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
@@ -163,10 +163,10 @@ https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/playlist.m3u8
 https://directes-tv-es.ccma.cat/es/ngrp:es3_web/chunklist_b4128000.m3u8
 
 #EXTINF:-1, tvg-logo="https://iteleflix.com/archivos/Logo-Teve.cat_.png",Tevecat FHD
-https://limited7.todostreaming.es/live/mitjans-livestream.m3u8
+https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 
 #EXTINF:-1, tvg-id="IB3.TV" tvg-name="IB3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/IB3.svg/1200px-IB3.svg.png", IB3 HD
-plugin://plugin.video.youtube/play/?video_id=xDxxilCGvVQ
+plugin://plugin.video.youtube/play/?video_id=vT0tGSPOIPo
 
 #EXTINF:-1, tvg-id="Libertad.TV" tvg-name="Libertad Digital TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/libdigital_transparent.png" ,Libertad Digital TV
 plugin://plugin.video.dailymotion_com/?url=xnm032&mode=playLiveVideo
@@ -408,6 +408,9 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mediaset_Extra_logo.svg/1200px-Mediaset_Extra_logo.svg.png" ,Mediaset Extra
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Italia_1.svg/1200px-Italia_1.svg.png" ,Italia 1
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DMAX.png" ,DMAX Italia
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
 
@@ -419,6 +422,9 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/FNHD.PNG" ,Food Network Italia HD
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
+
+#EXTINF:-1, tvg-logo="https://nowsat.info/wp-content/uploads/Real-Time-2.png" ,Real Time Italia HD
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 
 #EXTINF:-1, tvg-id="Euronews.TV" tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Euronews.png" ,Euronews HD
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -797,6 +803,9 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/NewsAsia.png" ,NewsAsia HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/CNC_World_logo.png" ,CNC World HD
+https://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/CCTV-1__922fcb/CCTV-1%25E7%25BB%25BC%25E5%2590%2588.png__79804_medium.webp", CCTV 1 FHD
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8

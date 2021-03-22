@@ -45,7 +45,7 @@ http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
 #EXTINF:-1, tvg-id="TDP.TV" tvg-name="Teledeporte" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TDPHD.png" ,TDP FHD
 https://rtvelivestream.akamaized.net/tdp_dvr_4000.m3u8
 
-#EXTINF:-1, tvg-id="13.TV" tvg-name="TRECE" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/13TV.jpg" ,TRECE
+#EXTINF:-1, tvg-id="13.TV" tvg-name="TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/1280px-Trece.svg.png" ,TRECE
 https://live-edge-lon-2.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live-898/index.m3u8
 
 #EXTINF:-1, tvg-id="24Horas.TV" tvg-name="24 Horas" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/24H.png" ,24H FHD
@@ -197,6 +197,9 @@ https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/tastemade_transparent.png" ,Tastemade en Español FHD
 https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es16intl-brightcove/CDN/1920x1080_5055600/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/insighttvuhd/assets/b2a1a9f0-c735-4c8e-99d2-febad143b04c.png" ,InSight TV Español HD
+https://insighttv-samsung.amagi.tv/playlist720.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/PlutoComedia.png" ,Pluto TV Cine Comedia HD
 plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=5f1ac8099c49f600076579b2&_l=.pvr
@@ -473,6 +476,9 @@ https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Protv-international.png/" ,ProTV International Romania FHD
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-protv-international/playlist/rum/live_fullhd.m3u8
+
+#EXTINF:-1, tvg-logo="https://3.bp.blogspot.com/-Ktm9UPx3EeY/WTzltUzR4nI/AAAAAAAAGfY/upIXKF3iIwcWQOGkXU8XWZ1SZ7npDnq2wCLcB/s1600/tvp_polonia.png" ,TVP Polonia FHD
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fpolonia.tvp.pl%2Fsess%2FTVPlayer2%2Fembed.php%3FID%3D34414171&title=https%3A%2F%2Fpolonia.tvp.pl%2Fsess%2FTVPlayer2%2Fembed.php%3FID%3D34414171
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/bbc.png" ,BBC World News
 https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8

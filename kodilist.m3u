@@ -135,7 +135,7 @@ http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Galicia2.png" ,TV Galicia 2 HD
 http://events3-crtvg.flumotion.com/crtvg/events3_high/chunks.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Televigo.png" ,Televigo FHD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Televigo_transparent.png" ,Televigo FHD
 https://cloud.streamingconnect.tv:455/televigo/televigo.m3u8
 
 #EXTINF:-1, tvg-id="7RM.TV" tvg-name="7 R. de Murcia" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MurciaTV.png" ,Murcia TV

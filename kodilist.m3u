@@ -90,10 +90,10 @@ https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
 #EXTINF:-1, tvg-id="CanalCosta.TV" tvg-name="CanalCosta" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/canalcosta.png" ,Canal Costa FHD
 https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Parlamento.png" ,Canal Parlamento
+#EXTINF:-1, tvg-logo="https://www.novatio.es/wp-content/uploads/2019/08/canalparlamento.png" ,Canal Parlamento
 http://congresodirecto-f.akamaihd.net/i/congreso1_1@71529/master.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/RTVCE.png" ,RTVCE HD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/RTVCE_white.png" ,RTVCE HD
 https://cdnlive.shooowit.net/rtvcelive/smil:channel1.smil/master.m3u8
 
 #EXTINF:-1, tvg-id="MelillaTV.TV" tvg-name="Melilla TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TVMelilla.png" ,TV Melilla HD
@@ -117,7 +117,7 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m
 #EXTINF:-1, tvg-id="LaOtra.TV" tvg-name="LaOtra" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Laotra.png" ,LaOtra
 https://laotrahls-live-hls.secure.footprint.net/telemadrid/laotra1/master.m3u8
 
-#EXTINF:-1, tvg-id="Distrito.TV" tvg-name="Distrito TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DistritoTV.jpg" ,Distrito TV
+#EXTINF:-1, tvg-id="Distrito.TV" tvg-name="Distrito TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DistritoTV_transparent.png" ,Distrito TV
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TSmadrid.jpeg" ,Telesur Madrid FHD
@@ -207,11 +207,11 @@ plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=5f1ac8099c49f600076579b2&_l
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MundoReal_transparent.png" ,Pluto TV Vida Real
 plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=5f1acdfda84c970007e750b5&_l=.pvr
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MTMad.jpg" ,MTMad HD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MTMad_transparent.png" ,MTMad HD
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/+24.png" ,+24
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586402/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/27077f_21df71d53465489cbb32acc9f9dd83e0~mv2_d_2000_2000_s_2.png" ,LifeTV
 http://media.profesionalhosting.com:1935/8201/8201/mono.m3u8
@@ -459,7 +459,7 @@ https://kazakhtv.ultraiptv.com/kazakhtv/6-03.m3u8
 #EXTINF:-1, tvg-id="ATVHD.TV" tvg-name="Andorra TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ATV.png" ,ATV Andorra HD
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MTVHD.jpg" ,MTV Norway HD
+#EXTINF:-1, tvg-logo="https://vydia.com/wp-content/uploads/brand-logo-mtv-white.png" ,MTV Norway HD
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&amp;rebase=on
 
 #EXTINF:-1, tvg-id="RTP3.TV" tvg-name="RTP 3 Portugal" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/RTPi.png" ,RTP Internacional
@@ -516,7 +516,7 @@ https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Austria24.png" ,Austria24 HD
 rtmp://streaming.austria24.tv/live/mp4:stream_720p
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Alphajura.jpg" ,Canal Alpha Jura FHD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CanalAJ_white.png" ,Canal Alpha Jura FHD
 https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://803277.smushcdn.com/1580116/wp-content/uploads/2020/04/abc-news-live-to-launch-on-amazons-news-app-youtube-tv.png" ,ABC News FHD

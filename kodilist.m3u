@@ -207,7 +207,7 @@ https://insighttv-samsung.amagi.tv/playlist720.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/PlutoComedia.png" ,Pluto TV Cine Comedia HD
 plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=5f1ac8099c49f600076579b2&_l=.pvr
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MundoReal_transparent.png" ,Pluto TV Vida Real
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MundoReal_transparent.png" ,Pluto TV Mundo Real
 plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=5f1acdfda84c970007e750b5&_l=.pvr
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MTMad_transparent.png" ,MTMad HD
@@ -358,10 +358,13 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 https://fr.4everproxy.com/direct/aHR0cHM6Ly9hcnRlbGl2ZS1saC5ha2FtYWloZC5uZXQvaS9hcnRlbGl2ZV9mckAzNDQ4MDUvaW5kZXhfMV9hdi1iLm0zdTg_c2Q9MTAmcmViYXNlPW9u
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/1181px-France_2_2018.svg.png" ,France 2 FHD
-plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.tntendirect.com%2FFRANCE-2-en-direct&title=https%3A%2F%2Fwww.tntendirect.com%2FFRANCE-2-en-direct
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fk6Ej%2Fl1%3Fch%3Dfrance_2&title=https%3A%2F%2Fphotocall.tv%2Fk6Ej%2Fl1%3Fch%3Dfrance_2
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/1200px-France_3_2018.svg.png" ,France 3 HD
-plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.tntendirect.com%2FFRANCE-3-en-direct&title=https%3A%2F%2Fwww.tntendirect.com%2FFRANCE-3-en-direct
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fk6Ej%2Fl1%3Fch%3Dfrance_3&title=https%3A%2F%2Fphotocall.tv%2Fk6Ej%2Fl1%3Fch%3Dfrance_3
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1280px-Logo_M6_%282020%2C_fond_clair%29.svg.png" ,M6
+https://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TF1.jpg" ,TF1 HD
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
@@ -392,9 +395,6 @@ plugin://plugin.video.dailymotion_com/?url=x5gv5rr&mode=playLiveVideo
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CGTNFr.png" ,CGTN Français
 http://livefr.cgtn.com/1000f/prog_index.m3u8
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/RMC_Story_logo_2018.svg/1200px-RMC_Story_logo_2018.svg.png" ,RMC Story FHD
-plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Ffr.4everproxy.com%2Fdirect%2FaHR0cHM6Ly93d3cuZGFpbHltb3Rpb24uY29tL3ZpZGVvL3gxM3AzcWk-&title=https%3A%2F%2Ffr.4everproxy.com%2Fdirect%2FaHR0cHM6Ly93d3cuZGFpbHltb3Rpb24uY29tL3ZpZGVvL3gxM3AzcWk-
 
 #EXTINF:-1, tvg-logo="https://www.gelecenergy.fr/wp-content/uploads/Logo-solo-BFMBusiness-contour.png" ,BFM Business
 https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/index_1000_av-p.m3u8?sd=10&amp;rebase=on

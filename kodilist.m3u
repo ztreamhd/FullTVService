@@ -358,7 +358,10 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 https://fr.4everproxy.com/direct/aHR0cHM6Ly9hcnRlbGl2ZS1saC5ha2FtYWloZC5uZXQvaS9hcnRlbGl2ZV9mckAzNDQ4MDUvaW5kZXhfMV9hdi1iLm0zdTg_c2Q9MTAmcmViYXNlPW9u
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/1181px-France_2_2018.svg.png" ,France 2 FHD
-http://178.18.49.42:8080/play/a004
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.tntendirect.com%2FFRANCE-2-en-direct&title=https%3A%2F%2Fwww.tntendirect.com%2FFRANCE-2-en-direct
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/1200px-France_3_2018.svg.png" ,France 3 HD
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.tntendirect.com%2FFRANCE-3-en-direct&title=https%3A%2F%2Fwww.tntendirect.com%2FFRANCE-3-en-direct
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TF1.jpg" ,TF1 HD
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
@@ -389,6 +392,9 @@ plugin://plugin.video.dailymotion_com/?url=x5gv5rr&mode=playLiveVideo
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CGTNFr.png" ,CGTN Français
 http://livefr.cgtn.com/1000f/prog_index.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/RMC_Story_logo_2018.svg/1200px-RMC_Story_logo_2018.svg.png" ,RMC Story FHD
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Ffr.4everproxy.com%2Fdirect%2FaHR0cHM6Ly93d3cuZGFpbHltb3Rpb24uY29tL3ZpZGVvL3gxM3AzcWk-&title=https%3A%2F%2Ffr.4everproxy.com%2Fdirect%2FaHR0cHM6Ly93d3cuZGFpbHltb3Rpb24uY29tL3ZpZGVvL3gxM3AzcWk-
 
 #EXTINF:-1, tvg-logo="https://www.gelecenergy.fr/wp-content/uploads/Logo-solo-BFMBusiness-contour.png" ,BFM Business
 https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/index_1000_av-p.m3u8?sd=10&amp;rebase=on

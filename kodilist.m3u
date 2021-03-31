@@ -447,6 +447,9 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
 #EXTINF:-1, tvg-logo="https://nowsat.info/wp-content/uploads/Real-Time-2.png" ,Real Time Italia HD
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" ,VH1 Italia FHD
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
 #EXTINF:-1, tvg-id="Euronews.TV" tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Euronews.png" ,Euronews HD
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -764,6 +767,9 @@ https://iptvh.it/xplore
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/popsci_transparent.png" ,Popular Science HD
 http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Docubay.png" ,Docubay FHD
+https://docubaylivestreams.akamaized.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004370_HLS/manifest.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/PlutoReality.png" ,PlutoTV Reality
 https://iptvh.it/plutoreality2

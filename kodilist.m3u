@@ -31,7 +31,7 @@ http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
 https://forocable.webcindario.com/mitele.php?ch=bemad&f=.m3u8?
 
 #EXTINF:-1, tvg-id="Atreseries.TV" tvg-name="Atreseries" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/A3S.png" ,Atreseries FHD
-https://livestartover.atresmedia.com/a3series/master.m3u8
+https://livestartover.atresmedia.com/geoa3series/master.m3u8
 
 #EXTINF:-1, tvg-id="Mega.TV" tvg-name="Mega" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MegaHD.png" ,MEGA FHD
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fmega%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fmega%2F

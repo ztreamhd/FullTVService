@@ -816,6 +816,9 @@ https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b
 #EXTINF:-1, tvg-logo="https://help.redbubble.com/hc/article_attachments/360025349072/HellsKitchen_logo.png" , Hell's Kitchen | Kitchen Nightmares 24/7
 http://iptvh.it/HKKN247
 
+#EXTINF:-1, tvg-logo="https://thumbor.forbes.com/thumbor/2640x788/https://blogs-images.forbes.com/dbloom/files/2019/01/STIRR_Logo_CMYK_Yellow_SINCLAIR.jpg?width=1920" ,STIRR National HD
+https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Ici_Tele_logo.png" ,ICI Télé HD
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
 
@@ -824,6 +827,9 @@ https://iptvh.it/ABC.Australia
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Africanews._alternative_logo_2016.png", Africanews HD
 plugin://plugin.video.youtube/play/?video_id=NQjabLGdP5g
+
+#EXTINF:-1, tvg-logo="https://www.demandafrica.com/wp-content/uploads/2016/09/demandAfricalogo_horizontal_white.png" ,Demand Africa HD
+https://demandafrica-xumo-us.amagi.tv/hls/amagi_hls_data_theafrica-demandafricaxumo/CDN/1280x720_2855600/chunklist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/KCTV.jpg" ,KCTV (North Korea)
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Ftv.nknews.org%2Ftvdash%2Fstream.mpd&title=https%3A%2F%2Ftv.nknews.org%2Ftvdash%2Fstream.mpd

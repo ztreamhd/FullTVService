@@ -256,7 +256,7 @@ https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_8000_av-b.m3u8?sd=4&a
 https://stream02.stream.welocal.world/stream/fhd-muenchentv_365036/ngrp:stream_all/chunklist_w2130011564_b3628000.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/1200px-ZDF_logo.svg.png" ,ZDF HD
-http://188.195.58.187:8000/play/a024
+https://to.hopslan.com/zdf/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/1000px-N24Doku.svg.png" ,N24 Doku @ PlutoTV
 plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=60080e8a4bf36000076a81b1&_l=.pvr
@@ -304,7 +304,7 @@ https://s2.hopslan.com/viva/tracks-v1a1/mono.m3u8
 https://s3.hopslan.com/tele55/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TLCdeu.png" ,TLC Deutschland FHD
-https://s11.hopslan.com/tlc/tracks-v1a1/mono.m3u8
+https://to.hopslan.com/tlc/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ZDFneo.png" ,ZDFneo FHD
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.2ix2.com%2Fzdfneo%2F&title=https%3A%2F%2Fwww.2ix2.com%2Fzdfneo%2F
@@ -616,7 +616,7 @@ https://unbeaten-roku.amagi.tv/playlist1080p.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" ,Olympic Channel FHD
-plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fstream.pcriot.com%2FZa9N%2Foc%3Fch%3Dolympic_us&title=http%3A%2F%2Fstream.pcriot.com%2FZa9N%2Foc%3Fch%3Dolympic_us
+plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fstream.pcriot.com%2FZy6j%2Folympic_us&title=http%3A%2F%2Fstream.pcriot.com%2FZy6j%2Folympic_us
 
 #EXTINF:-1, tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" ,beIN Sports XTRA HD
 iptvh.it/beinXTRApluto
@@ -904,7 +904,7 @@ http://186.0.233.76:1935/Garage/garage.smil/.m3u8
 plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg/1024px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg.png", TPA Argentina FHD
-plugin://plugin.video.youtube/play/?video_id=bgQTONZ8wlA
+plugin://plugin.video.youtube/play/?video_id=YCfxapLqklk
 
 #EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-uorpNx_hxA4/W6lnDEjj83I/AAAAAAAAAFI/J0_nCq1-I4ELLx8cGJY99HoPX4P3t1Y1QCPcBGAYYCw/s1600/clarosports.png" ,Claro Sports FHD (Eventual)
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8

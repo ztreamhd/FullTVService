@@ -487,7 +487,7 @@ http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&amp;rebase=on
 
 #EXTINF:-1, tvg-id="RTP3.TV" tvg-name="RTP 3 Portugal" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/RTPi.png" ,RTP Internacional
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtpi.smil/chunklist_b1290000_slpt.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/1280px-TRT_World_logo.svg.png" ,TRT World FHD
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
@@ -539,6 +539,9 @@ https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Austria24.png" ,Austria24 HD
 rtmp://streaming.austria24.tv/live/mp4:stream_720p
+
+#EXTINF:-1, tvg-logo="http://www.gotv.at/stream/anime_solo.png" ,GoTV
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fnstream17.gotv.at%3A1443%2Flive%2F_definst_%2Fgotvlive_576p%2Fmanifest.mpd&title=https%3A%2F%2Fnstream17.gotv.at%3A1443%2Flive%2F_definst_%2Fgotvlive_576p%2Fmanifest.mpd
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CanalAJ_white.png" ,Canal Alpha Jura FHD
 https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8

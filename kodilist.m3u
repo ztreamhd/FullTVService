@@ -115,10 +115,10 @@ https://ce2019100818001.dnssw.net/hls/ceres.m3u8
 http://217.125.136.93:8080/canalsierradecadiz1080.m3u8
 
 #EXTINF:-1, tvg-id="Telemadrid.TV" tvg-name="Telemadrid" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Telemadrid.png" ,Telemadrid HD
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/master.m3u8
 
-#EXTINF:-1, tvg-id="LaOtra.TV" tvg-name="LaOtra" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Laotra.png" ,LaOtra
-https://laotrahls-live-hls.secure.footprint.net/telemadrid/laotra1/master.m3u8
+#EXTINF:-1, tvg-id="LaOtra.TV" tvg-name="LaOtra" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Laotra.png" ,LaOtra HD
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/master.m3u8
 
 #EXTINF:-1, tvg-id="Distrito.TV" tvg-name="Distrito TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DistritoTV_transparent.png" ,Distrito TV
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
@@ -297,6 +297,9 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.2ix2.
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/VOX.png" ,VOX Deutschland
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.2ix2.com%2Fvox%2F&title=https%3A%2F%2Fwww.2ix2.com%2Fvox%2F
 
+#EXTINF:-1, tvg-logo="https://board.newnigma2.to/wbb4/index.php/Attachment/43365-vox-up-png/" ,VOXup
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.giniko.com%2Fwatch.php%3Fid%3D1176&title=https%3A%2F%2Fwww.giniko.com%2Fwatch.php%3Fid%3D1176
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CC.png" ,Comedy Central Deutschland
 https://s2.hopslan.com/viva/tracks-v1a1/mono.m3u8
 
@@ -403,7 +406,7 @@ plugin://plugin.video.dailymotion_com/?url=x5gv5rr&mode=playLiveVideo
 http://livefr.cgtn.com/1000f/prog_index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.gelecenergy.fr/wp-content/uploads/Logo-solo-BFMBusiness-contour.png" ,BFM Business
-https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/index_1000_av-p.m3u8?sd=10&amp;rebase=on
+https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/index_1100_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/LN24.png" ,LN24 Belgium FHD
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
@@ -487,7 +490,7 @@ http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&amp;rebase=on
 
 #EXTINF:-1, tvg-id="RTP3.TV" tvg-name="RTP 3 Portugal" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/RTPi.png" ,RTP Internacional
-https://streaming-live.rtp.pt/liverepeater/rtpi.smil/chunklist_b1290000_slpt.m3u8
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.rtp.pt%2Fplay%2Fdireto%2Frtpinternacional&title=https%3A%2F%2Fwww.rtp.pt%2Fplay%2Fdireto%2Frtpinternacional
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/1280px-TRT_World_logo.svg.png" ,TRT World FHD
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
@@ -637,7 +640,7 @@ https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
 https://gustous-plex.amagi.tv/amRdirect/us_privacy=1---&amp;did=undefined&amp;dnt=1&amp;X-Plex-Token=JynYznM7UymiAi7ogTYU&amp;channelId=5f8746eabd529300418246d9/hls/amagi_hls_data_gustoAAAA-gustous-plex/CDN/1920x1080_5055600/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/FloridaChannel.png" ,The Florida Channel
-http://wowzaprod4-i.akamaihd.net/hls/live/254057/persisTarget_2443575804_tvweb1_247_480p/chunklist.m3u8
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fcdnapisec.kaltura.com%2Fhtml5%2Fhtml5lib%2Fv2.86%2FmwEmbedFrame.php%2Fp%2F2593311%2Fuiconf_id%2F46275742%2Fentry_id%2F1_6z4k3cfl%3Fwid%3D_2593311%26iframeembed%3Dtrue%26playerId%3Dkaltura_player_main%26entry_id%3D1_6z4k3cfl&title=https%3A%2F%2Fcdnapisec.kaltura.com%2Fhtml5%2Fhtml5lib%2Fv2.86%2FmwEmbedFrame.php%2Fp%2F2593311%2Fuiconf_id%2F46275742%2Fentry_id%2F1_6z4k3cfl%3Fwid%3D_2593311%26iframeembed%3Dtrue%26playerId%3Dkaltura_player_main%26entry_id%3D1_6z4k3cfl
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TravFood_transparent.png" ,Travel & Food HD
 https://playout4multirtmp.tulix.tv/live19/Stream1/chunklist_w496850375.m3u8
@@ -724,7 +727,7 @@ https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/dust.jpg" ,DUST HD
-https://dust.sinclair.wurl.com/manifest/3000.m3u8
+https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" ,ion+ HD
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
@@ -738,8 +741,8 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/redbox.png" ,Redbox Comedy FHD
 https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Mobcrush.png" ,Mobcrush HD
-http://dai.google.com/linear/hls/event/LGDVXxxyT8SxrL4-ZodxKw/master.m3u8
+#EXTINF:-1, tvg-logo="http://www.glewed.tv/wp-content/uploads/2019/04/GLEWED-TV-LOGO-WHITE3.png" ,GlewedTV HD
+https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://image.xumo.com/v1/providers/provider/1100/300x300.png?type=color_onBlack", Bambu FHD
 https://bambu-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bambu-xumo/CDN/1920x1080_5055600/chunklist.m3u8

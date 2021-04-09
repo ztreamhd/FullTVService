@@ -37,7 +37,7 @@ https://livestartover.atresmedia.com/geoa3series/master.m3u8
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fmega%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fmega%2F
 
 #EXTINF:-1, tvg-id="Energy.TV" tvg-name="Energy" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/EnergyTransparent_white.png" ,Energy HD
-https://forocable.webcindario.com/energy.php?ch=telecinco&f=.m3u8?
+https://forocable.webcindario.com/mitele.php?ch=energy&f=.m3u8?
 
 #EXTINF:-1, tvg-id="Ten.TV" tvg-name="Ten" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TEN.png" ,TEN HD
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8

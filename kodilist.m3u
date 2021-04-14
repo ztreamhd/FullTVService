@@ -379,7 +379,7 @@ https://mmsiptv.com/live/france2/playlist.m3u8
 https://mmsiptv.com/live/france3/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.france.tv/image/logo/2500/2500/q/2/h/9aaa841e-phpaavh2q.png" ,Culturebox HD
-plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Flivefrancetv.akamaized.net%2Fsimulcast%2Fcultureboxtv%2Fdash_cultureboxtv%2FZXhwPTE2MTg0NDUzODV%2BYWNsPSUyZnNpbXVsY2FzdCUyZmN1bHR1cmVib3h0diUyZmRhc2hfY3VsdHVyZWJveHR2Kn5obWFjPWQ4Mzk2MmYzZTk1YWEwYjQyZjRjMjFmODJlZWMyZGJjZGE0Mjk5MmUwOGRmZmNiZTdkN2E3NjYyMWZkNDUyYzM%3D%2Fcultureboxtv.mpd&title=https%3A%2F%2Flivefrancetv.akamaized.net%2Fsimulcast%2Fcultureboxtv%2Fdash_cultureboxtv%2FZXhwPTE2MTg0NDUzODV%2BYWNsPSUyZnNpbXVsY2FzdCUyZmN1bHR1cmVib3h0diUyZmRhc2hfY3VsdHVyZWJveHR2Kn5obWFjPWQ4Mzk2MmYzZTk1YWEwYjQyZjRjMjFmODJlZWMyZGJjZGE0Mjk5MmUwOGRmZmNiZTdkN2E3NjYyMWZkNDUyYzM%3D%2Fcultureboxtv.mpd
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fiptvh.it%2Fculturebox&title=https%3A%2F%2Fiptvh.it%2Fculturebox
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1280px-Logo_M6_%282020%2C_fond_clair%29.svg.png" ,M6
 https://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8

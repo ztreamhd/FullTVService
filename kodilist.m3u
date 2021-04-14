@@ -330,6 +330,9 @@ https://de.4everproxy.com/direct/aHR0cDovL3VuaWxpdmVtdHZldS1saC5ha2FtYWloZC5uZXQ
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Welt_TV_Logo_2016.svg/1280px-Welt_TV_Logo_2016.svg.png" ,WELT HD
 https://de.4everproxy.com/direct/aHR0cHM6Ly9saXZlMndlbHRjbXMtbGguYWthbWFpaGQubmV0L2kvTGl2ZTJXZWx0Q01TXzFANDQ0NTYzL2luZGV4XzFfYXYtcC5tM3U4P3NkPTEwJmR3PTAmcmViYXNlPW9u
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/ARD-alpha_HD_2019.png" ,ARD Alpha HD
+https://br_hdslive-f.akamaihd.net/i/ardalpha_ut_de@337033/master.m3u8
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/elbekanal_transparent.png" ,Elbekanal
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
 
@@ -374,6 +377,9 @@ https://mmsiptv.com/live/france2/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/1200px-France_3_2018.svg.png" ,France 3 HD
 https://mmsiptv.com/live/france3/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.france.tv/image/logo/2500/2500/q/2/h/9aaa841e-phpaavh2q.png" ,Culturebox HD
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Flivefrancetv.akamaized.net%2Fsimulcast%2Fcultureboxtv%2Fdash_cultureboxtv%2FZXhwPTE2MTg0NDUzODV%2BYWNsPSUyZnNpbXVsY2FzdCUyZmN1bHR1cmVib3h0diUyZmRhc2hfY3VsdHVyZWJveHR2Kn5obWFjPWQ4Mzk2MmYzZTk1YWEwYjQyZjRjMjFmODJlZWMyZGJjZGE0Mjk5MmUwOGRmZmNiZTdkN2E3NjYyMWZkNDUyYzM%3D%2Fcultureboxtv.mpd&title=https%3A%2F%2Flivefrancetv.akamaized.net%2Fsimulcast%2Fcultureboxtv%2Fdash_cultureboxtv%2FZXhwPTE2MTg0NDUzODV%2BYWNsPSUyZnNpbXVsY2FzdCUyZmN1bHR1cmVib3h0diUyZmRhc2hfY3VsdHVyZWJveHR2Kn5obWFjPWQ4Mzk2MmYzZTk1YWEwYjQyZjRjMjFmODJlZWMyZGJjZGE0Mjk5MmUwOGRmZmNiZTdkN2E3NjYyMWZkNDUyYzM%3D%2Fcultureboxtv.mpd
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1280px-Logo_M6_%282020%2C_fond_clair%29.svg.png" ,M6
 https://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8
@@ -514,7 +520,7 @@ https://a3569457661-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Protv-international.png/" ,ProTV International Romania FHD
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-protv-international/playlist/rum/live_fullhd.m3u8
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/bRlObgl1tDZx6ImsGigZ-g==,1618434074/channels/cme-ro-protv/playlist-live_lq-live_mq-live_hq.m3u8
 
 #EXTINF:-1, tvg-logo="https://3.bp.blogspot.com/-Ktm9UPx3EeY/WTzltUzR4nI/AAAAAAAAGfY/upIXKF3iIwcWQOGkXU8XWZ1SZ7npDnq2wCLcB/s1600/tvp_polonia.png" ,TVP Polonia FHD
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fpolonia.tvp.pl%2Fsess%2FTVPlayer2%2Fembed.php%3FID%3D34414171&title=https%3A%2F%2Fpolonia.tvp.pl%2Fsess%2FTVPlayer2%2Fembed.php%3FID%3D34414171
@@ -548,6 +554,9 @@ rtmp://streaming.austria24.tv/live/mp4:stream_720p
 
 #EXTINF:-1, tvg-logo="http://www.gotv.at/stream/anime_solo.png" ,GoTV
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fnstream17.gotv.at%3A1443%2Flive%2F_definst_%2Fgotvlive_576p%2Fmanifest.mpd&title=https%3A%2F%2Fnstream17.gotv.at%3A1443%2Flive%2F_definst_%2Fgotvlive_576p%2Fmanifest.mpd
+
+#EXTINF:-1, tvg-logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1511208490_538-tv.png" ,538 TV Netherlands HD
+https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CanalAJ_white.png" ,Canal Alpha Jura FHD
 https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8

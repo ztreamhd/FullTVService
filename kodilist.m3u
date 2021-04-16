@@ -171,7 +171,7 @@ https://directes-tv-es.ccma.cat/es/ngrp:es3_web/chunklist_b4128000.m3u8
 #EXTINF:-1, tvg-logo="https://iteleflix.com/archivos/Logo-Teve.cat_.png",Tevecat FHD
 https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 
-#EXTINF:-1, tvg-logo="https://img.beteve.cat/wp-content/uploads/2019/11/logo-beteve-2017.png" ,Betevé FHD
+#EXTINF:-1, tvg-id="BTV.TV" tvg-name="betevé" tvg-logo="https://img.beteve.cat/wp-content/uploads/2019/11/logo-beteve-2017.png" ,Betevé FHD
 https://iptvh.it/beteveHD
 
 #EXTINF:-1, tvg-id="IB3.TV" tvg-name="IB3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/IB3.svg/1200px-IB3.svg.png", IB3 HD

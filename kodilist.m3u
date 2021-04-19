@@ -175,7 +175,7 @@ https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 https://iptvh.it/beteveHD
 
 #EXTINF:-1, tvg-id="IB3.TV" tvg-name="IB3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/IB3.svg/1200px-IB3.svg.png", IB3 HD
-plugin://plugin.video.youtube/play/?video_id=vT0tGSPOIPo
+plugin://plugin.video.youtube/play/?video_id=hDVsMZuyQjs
 
 #EXTINF:-1, tvg-id="Libertad.TV" tvg-name="Libertad Digital TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/libdigital_transparent.png" ,Libertad Digital TV
 plugin://plugin.video.dailymotion_com/?url=xnm032&mode=playLiveVideo
@@ -925,7 +925,7 @@ http://186.0.233.76:1935/Garage/garage.smil/.m3u8
 plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg/1024px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg.png", TPA Argentina FHD
-plugin://plugin.video.youtube/play/?video_id=YCfxapLqklk
+plugin://plugin.video.youtube/play/?video_id=hRUHizh0uTI
 
 #EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-uorpNx_hxA4/W6lnDEjj83I/AAAAAAAAAFI/J0_nCq1-I4ELLx8cGJY99HoPX4P3t1Y1QCPcBGAYYCw/s1600/clarosports.png" ,Claro Sports FHD (Eventual)
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8

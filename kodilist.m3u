@@ -333,6 +333,9 @@ https://de.4everproxy.com/direct/aHR0cHM6Ly9saXZlMndlbHRjbXMtbGguYWthbWFpaGQubmV
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/ARD-alpha_HD_2019.png" ,ARD Alpha HD
 https://br_hdslive-f.akamaihd.net/i/ardalpha_ut_de@337033/master.m3u8
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Phoenix-logo-2018.svg/1200px-Phoenix-logo-2018.svg.png" ,Phoenix
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/424?pprotocol=hls
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/elbekanal_transparent.png" ,Elbekanal
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
 
@@ -352,7 +355,7 @@ http://euvia-live.hls.adaptive.level3.net/ses/euvia/stream1/streamPlaylist.m3u8
 http://sparhandytv-live.hls.adaptive.level3.net/ses/sparhandytv/stream1/streamPlaylist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/SPORT1.png" ,Sport1
-plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fphotocall.xyz%2FfE8b%2Fl1%3Fch%3Dsport1&title=http%3A%2F%2Fphotocall.xyz%2FfE8b%2Fl1%3Fch%3Dsport1
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4121?pprotocol=hls
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/extraimages/Mediashop.png" ,Mediashop TV
 https://cdn1-europe.smartcast.tv/mediashop/mediashop1/chunklist_w1171164475.m3u8
@@ -531,8 +534,8 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fpolonia.t
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/bbc.png" ,BBC World News
 https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/bbcone.png" ,BBC One FHD
-https://edge-1288-ch-gv.filmon.com/live/3223.high.stream/playlist.m3u8?id=0ad5aac39bb13fbede7a028f56ceca10ac0046f85688b79b0939b6899bf317110a6b8180a04038f22ad8b244c1d9bf68355950d541f169a142eb5b8725c1239b41299e9482627d6e9480be3977690f4287142b4ce4fe3040743810d76effeaf9b532e1115c0d669abe1966eb48e3896ae6e266d1354ea66fd343bcfff84a729900a192cf6a512e0f15dbe6cfa06414781187752c68e585b5
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/bbcone.png" ,BBC One
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/14?pprotocol=hls
 
 #EXTINF:-1, tvg-logo="https://www.pngkey.com/png/full/534-5341414_20pm-subscribe-to-watch-watch-now-bbc-two.png" ,BBC Two FHD
 plugin://plugin.video.streamlink-tester/?action=play&url=http%3a%2f%2fwww.giniko.com%2fwatch.php%3fid%3d190&title=http%3a%2f%2fwww.giniko.com%2fwatch.php%3fid%3d190
@@ -542,6 +545,21 @@ http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ITV_%28Fernsehsender%29_logo.svg/1280px-ITV_%28Fernsehsender%29_logo.svg.png" ,iTV
 https://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1200px-ITV2_logo_2015.svg.png" ,iTV 2
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/67?pprotocol=hls
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1200px-ITV3_logo_2013.svg.png" ,iTV 3
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/26?pprotocol=hls
+
+#EXTINF:-1, tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/5-USA-Watch-online-live.png" ,5USA
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/845?pprotocol=hls
+
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Pick_2013.svg/revision/latest?cb=20200925161220&path-prefix=es" ,Pick TV
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/371?pprotocol=hls
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/FNHD.PNG" ,Food Network UK
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/20?pprotocol=hls
 
 #EXTINF:-1, tvg-logo="https://img.apksum.com/72/ie.rte.news/8.0.5.beta22/icon.png" ,RTÉ News Now FHD
 https://live.rte.ie/live/a/channel3/news.isml/playlist.m3u8

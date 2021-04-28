@@ -162,7 +162,7 @@ https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/60
 #EXTINF:-1, tvg-id="TV3.TV" tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TV3HD.png" ,TV3 FHD
 https://directes-tv-es.ccma.cat/es/ngrp:tvc_web/playlist.m3u8
 
-#EXTINF:-1, tvg-id="BonDiaTV_CAT.TV" tvg-name="Bon Dia TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/BonDia.png" ,Bon Dia TV FHD
+#EXTINF:-1, tvg-id="BonDiaTV_CAT.TV" tvg-name="Bon Dia TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/BonDia_white.png" ,Bon Dia TV FHD
 https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/playlist.m3u8
 
 #EXTINF:-1, tvg-id="E3.TV" tvg-name="Esport 3" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Esport3.png" ,Esport3 FHD
@@ -667,7 +667,10 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fstream.pcriot.com%2FZy6j%2Folympic_us&title=http%3A%2F%2Fstream.pcriot.com%2FZy6j%2Folympic_us
 
 #EXTINF:-1, tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" ,beIN Sports XTRA HD
-iptvh.it/beinXTRApluto
+https://iptvh.it/beinxtraproxy
+
+#EXTINF:-1, tvg-logo="https://www.beinxtraespanol.com/images/beINSPORTS-XTRA_ESPANOL-LOGO_HORIZONTAL_FULL-COLOR.png" ,beIN XTRA Español HD
+https://status.tehw00t.net:443/miniProxy.php/https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/WCHD.png" ,The Weather Channel HD
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8?sd=10&amp;rebase=on
@@ -761,6 +764,9 @@ https://iptvh.it/Filmstream
 
 #EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/G/01//digital/video/merch/subs/benefit-id/a-f/freewithads/epg/CRIME360_WHITE.png" ,Crime 360 FHD
 https://iptvh.it/Crime360_2
+
+#EXTINF:-1, tvg-logo="https://lirp.cdn-website.com/1189e926/dms3rep/multi/opt/Real-Crime-Logo-White-960w.png" ,Real Crime FHD
+https://iptvh.it/realcrimeFHD
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Comet_transparent.png" ,Comet HD
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
@@ -882,7 +888,7 @@ plugin://plugin.video.youtube/play/?video_id=NQjabLGdP5g
 #EXTINF:-1, tvg-logo="https://www.demandafrica.com/wp-content/uploads/2016/09/demandAfricalogo_horizontal_white.png" ,Demand Africa HD
 https://demandafrica-xumo-us.amagi.tv/hls/amagi_hls_data_theafrica-demandafricaxumo/CDN/1280x720_2855600/chunklist.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/KCTV.jpg" ,KCTV (North Korea)
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/KCTV_transparent.png" ,KCTV (North Korea)
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Ftv.nknews.org%2Ftvdash%2Fstream.mpd&title=https%3A%2F%2Ftv.nknews.org%2Ftvdash%2Fstream.mpd
 
 #EXTINF:-1, tvg-id="Arirang.TV" tvg-name="Arirang TV Korea" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ArirangHD.png" ,Arirang TV HD

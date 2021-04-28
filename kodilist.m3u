@@ -933,7 +933,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8
 #EXTINF:-1, tvg-id="Zee.TV" tvg-name="Zee Mundo USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Zee_Mundo_2018.png" , Zee Mundo HD
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg" , Zee Smile
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ZEESmile.png" , Zee Smile
 https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" ,&Flix HD

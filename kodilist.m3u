@@ -13,7 +13,7 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atres
 plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fwww.giniko.com%2Fwatch.php%3Fid%3D1204&title=http%3A%2F%2Fwww.giniko.com%2Fwatch.php%3Fid%3D1204
 
 #EXTINF:-1, tvg-id="Telecinco.TV" tvg-name="Telecinco" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/T5HD.png" ,Telecinco HD
-plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fr7sg%2Fmt%3Fch%3Dtelecinco&title=https%3A%2F%2Fphotocall.tv%2Fr7sg%2Fmt%3Fch%3Dtelecinco
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fr3sg%2Fmt%3Fch%3Dtelecinco&title=https%3A%2F%2Fphotocall.tv%2Fr3sg%2Fmt%3Fch%3Dtelecinco
 
 #EXTINF:-1, tvg-id="LaSexta.TV" tvg-name="LaSexta" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/LA6HD.png" ,LaSexta FHD
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Flasexta%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Flasexta%2F
@@ -28,7 +28,7 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atres
 http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Bemad.TV" tvg-name="Be Mad" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/bemad.png" ,Be Mad HD
-plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fr7sg%2Fmt%3Fch%3Dbemad&title=https%3A%2F%2Fphotocall.tv%2Fr7sg%2Fmt%3Fch%3Dbemad
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fr3sg%2Fmt%3Fch%3Dbemad&title=https%3A%2F%2Fphotocall.tv%2Fr3sg%2Fmt%3Fch%3Dbemad
 
 #EXTINF:-1, tvg-id="Atreseries.TV" tvg-name="Atreseries" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/A3S.png" ,Atreseries FHD
 https://livestartover.atresmedia.com/geoa3series/master.m3u8
@@ -37,7 +37,7 @@ https://livestartover.atresmedia.com/geoa3series/master.m3u8
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fmega%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fmega%2F
 
 #EXTINF:-1, tvg-id="Energy.TV" tvg-name="Energy" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/EnergyTransparent_white.png" ,Energy HD
-plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fr7sg%2Fmt%3Fch%3Denergy&title=https%3A%2F%2Fphotocall.tv%2Fr7sg%2Fmt%3Fch%3Denergy
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fr3sg%2Fmt%3Fch%3Denergy&title=https%3A%2F%2Fphotocall.tv%2Fr3sg%2Fmt%3Fch%3Denergy
 
 #EXTINF:-1, tvg-id="Ten.TV" tvg-name="Ten" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TEN.png" ,TEN HD
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
@@ -55,7 +55,7 @@ https://live-edge-lon-2.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live
 https://rtvelivestream.akamaized.net/24h_bkp_dvr_4000.m3u8
 
 #EXTINF:-1, tvg-id="Divinity.TV" tvg-name="Divinity" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Divinity.png" ,Divinity HD
-plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fr7sg%2Fmt%3Fch%3Ddivinity&title=https%3A%2F%2Fphotocall.tv%2Fr7sg%2Fmt%3Fch%3Ddivinity
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fr3sg%2Fmt%3Fch%3Ddivinity&title=https%3A%2F%2Fphotocall.tv%2Fr3sg%2Fmt%3Fch%3Ddivinity
 
 #EXTINF:-1, tvg-id="DKiss.TV" tvg-name="DKiss" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DKISS.png",DKISS HD
 http://91.126.141.201:1935/live/kiss/index.m3u8
@@ -126,7 +126,7 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 #EXTINF:-1, tvg-id="Distrito.TV" tvg-name="Distrito TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DistritoTV_transparent.png" ,Distrito TV
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TSmadrid.jpeg" ,Telesur Madrid FHD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TSMadrid_transparent.png" ,Telesur Madrid FHD
 https://cdn01.yowi.tv/W3GH8E4B5V/master.m3u8
 
 #EXTINF:-1, tvg-id="C33M.TV" tvg-name="33" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/canal33.jpg" ,Canal 33 Madrid FHD
@@ -270,7 +270,7 @@ plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=60080e8a4bf36000076a81b1&_l
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/3SATHD.png" ,3sat
 https://s11.hopslan.com/3sat/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DMAXDeutschland.jpg" ,DMAX Deutschland FHD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DMAX_Deutschland.png" ,DMAX Deutschland FHD
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.2ix2.com%2Fdmax%2F&title=https%3A%2F%2Fwww.2ix2.com%2Fdmax%2F
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Kabel1.png" ,Kabel 1
@@ -390,7 +390,7 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fiptvh.it%
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1280px-Logo_M6_%282020%2C_fond_clair%29.svg.png" ,M6
 https://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TF1.jpg" ,TF1 HD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TF1_cropped.png" ,TF1 HD
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b4/LCI_logo_%282016%29.png" ,LCI HD
@@ -492,7 +492,7 @@ https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, tvg-id="Bloom.TV" tvg-name="Bloomberg Europe" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Bloomberg.png" ,Bloomberg Europe HD
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 
-#EXTINF:-1, tvg-logo="https://image.winudf.com/v2/image/Y29tLmJsb29tYmVyZy5idHZhX2ljb25fMTUxMzc1NDA2Nl8wMzc/icon.png?w=&fakeurl=1" ,Bloomberg TV+ UHD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/BloombergTVPlus.png" ,Bloomberg TV+ UHD
 https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.diariomotor.com/competicion/imagenes/2016/12/red-bull-tv.png" ,Red Bull TV FHD
@@ -711,13 +711,13 @@ https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/NASATV.png" ,NASA TV HD
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/SW.jpg" ,Sidewalks HD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Sidewalks_transparent.png" ,Sidewalks HD
 https://30a-tv.com/sidewalks.m3u8
 
 #EXTINF:-1, tvg-logo="https://catapy.com/assets/logo.png" ,Law & Crime HD
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/1280x720_2600000/chunklist.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/WinkTV.png" ,WinkTV HD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/WinkWhite.png" ,WinkTV HD
 https://nimble.dashstreams.net/onestudio/winktv/chunks.m3u8
 
 #EXTINF:-1, tvg-logo="https://image.xumo.com/v1/providers/provider/1838/300x300.png?type=color_onBlack" ,FOX Soul HD
@@ -795,7 +795,7 @@ https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
 #EXTINF:-1, tvg-logo="https://image.xumo.com/v1/providers/provider/1100/300x300.png?type=color_onBlack", Bambu FHD
 https://bambu-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bambu-xumo/CDN/1920x1080_5055600/chunklist.m3u8
 
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf6Jrz6GK0CmL-YrLuGaRcNM3-KguLY0Gi2w&usqp=CAU" ,Britcom
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Britcom_transparent.png" ,Britcom
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.cinelifeentertainment.com/wp-content/uploads/2019/01/logo-1.png" ,Cinelife FHD
@@ -903,7 +903,7 @@ https://b-nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459-b/nhkwlive-ojp/index
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/NHKPremium.png" , NHK World Premium
 http://203.162.235.41:16901
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/japanet.png" , JapaNet FHD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Japanet_white.png" , JapaNet FHD
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_3000.m3u8
 
 #EXTINF:-1, tvg-id="CGTNDoc.TV" tvg-name="CGTN Documentary" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CGTNDoc.png" ,CGTN Documentary

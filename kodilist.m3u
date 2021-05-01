@@ -939,6 +939,9 @@ http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/1200px-CCTV-4_Logo.svg.png" ,CCTV4
 https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Teledifusão_de_Macau.png" ,Teledifusão de Macau HD
+https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ZEECHD.png" , Zee Café HD
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
 

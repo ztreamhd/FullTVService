@@ -390,8 +390,11 @@ https://mmsiptv.com/live/france3/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.france.tv/image/logo/2500/2500/q/2/h/9aaa841e-phpaavh2q.png" ,Culturebox HD
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fiptvh.it%2Fculturebox&title=https%3A%2F%2Fiptvh.it%2Fculturebox
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1280px-Logo_M6_%282020%2C_fond_clair%29.svg.png" ,M6
-https://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1280px-Logo_M6_%282020%2C_fond_clair%29.svg.png" ,M6 FHD
+https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/W9-Logo.svg/2560px-W9-Logo.svg.png" ,W9
+https://iptvh.it/W9proxy
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TF1_cropped.png" ,TF1 HD
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
@@ -533,6 +536,9 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fedge3.1in
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_24_logo_2014.png/1200px-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_24_logo_2014.png" ,Москва 24
 https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.arax.md/assets/channels/110.png" ,TVR International Romania HD
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Protv-international.png/" ,ProTV International Romania FHD
 https://cmero-ott-live-sec.ssl.cdn.cra.cz/bRlObgl1tDZx6ImsGigZ-g==,1618434074/channels/cme-ro-protv/playlist-live_lq-live_mq-live_hq.m3u8

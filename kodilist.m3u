@@ -175,7 +175,7 @@ https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 https://iptvh.it/beteveHD
 
 #EXTINF:-1, tvg-id="IB3.TV" tvg-name="IB3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/IB3.svg/1200px-IB3.svg.png", IB3 HD
-plugin://plugin.video.youtube/play/?video_id=hDVsMZuyQjs
+plugin://plugin.video.youtube/play/?video_id=w2mhujR8Rrk
 
 #EXTINF:-1, tvg-id="Libertad.TV" tvg-name="Libertad Digital TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/libdigital_transparent.png" ,Libertad Digital TV
 plugin://plugin.video.dailymotion_com/?url=xnm032&mode=playLiveVideo

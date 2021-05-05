@@ -363,6 +363,12 @@ http://sparhandytv-live.hls.adaptive.level3.net/ses/sparhandytv/stream1/streamPl
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/SPORT1.png" ,Sport1
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4121?pprotocol=hls
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/cc/Sky_Sport_News_2020.svg/2000px-Sky_Sport_News_2020.svg.png" ,Sky Sport News Deutschland HD
+https://iptvh.it/SSNDeutschland_proxy
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/DELUXE_MUSIC_Logo_2019.png" ,Deluxe Music Deutschland
+https://iptvh.it/DeluxeMusicDeutschland
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/extraimages/Mediashop.png" ,Mediashop TV
 https://cdn1-europe.smartcast.tv/mediashop/mediashop1/chunklist_w1171164475.m3u8
 

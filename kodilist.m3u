@@ -216,6 +216,9 @@ https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-taste
 #EXTINF:-1, tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/insighttvuhd/assets/b2a1a9f0-c735-4c8e-99d2-febad143b04c.png" ,InSight TV Español HD
 https://insighttv-samsung.amagi.tv/playlist720.m3u8
 
+#EXTINF:-1, tvg-logo="https://unearth.ai/images/unearthlogoblue300x200.png" ,Unearth HD
+https://alchimie-unearth-3-es.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/PlutoComedia.png" ,Pluto TV Cine Comedia HD
 plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=5f1ac8099c49f600076579b2&_l=.pvr
 
@@ -437,6 +440,9 @@ http://livefr.cgtn.com/1000f/prog_index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.gelecenergy.fr/wp-content/uploads/Logo-solo-BFMBusiness-contour.png" ,BFM Business
 https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/index_1100_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/L%27Équipe_TV_logo_1998.svg/1280px-L%27Équipe_TV_logo_1998.svg.png" ,L'Équipe TV
+https://eliotlencelot.fr/Applications/Proxy/Proxy.php/http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/LN24.png" ,LN24 Belgium FHD
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
@@ -771,6 +777,12 @@ https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/G/01/IMDbTV/linear/amcpresents/AMC-Presents_IMDB-Channel-Guide-Logo_v01.png" ,AMC Presents FHD
 https://amc-amcpresents-1.vizio.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/StoriesByAMC.png" ,AMC Stories HD
+https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" ,Paramount Movie Channel
+plugin://slyguy.pluto.tv.provider/?_=play&id=5cb0cae7a461406ffe3f5213&_l=.pvr
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/BETHD.png" ,BET @ Pluto TV HD
 plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=5ca670f6593a5d78f0e85aed&_l=.pvr
 
@@ -860,6 +872,9 @@ http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Docubay.png" ,Docubay FHD
 https://docubaylivestreams.akamaized.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004370_HLS/manifest.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/FuseXL.png" ,FuseXL FHD
+https://iptvh.it/fuseXL
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DABL.png" ,DABL FHD
 https://status.tehw00t.net/miniProxy.php/https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/dable4hd/master/dable4hd.m3u8
@@ -998,6 +1013,9 @@ plugin://plugin.video.dailymotion_com/?url=x7v76vf&mode=playLiveVideo
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" ,LoveNature en Español FHD
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://imgx.fubo.tv/station_logos/estrellatv_m.png" ,Estrella TV FHD
+https://iptvh.it/EstrellaTV_proxy
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1200px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" ,Venezolana de Televisión
 https://livestream.streamingconnect.com/hls/vtvweb.m3u8

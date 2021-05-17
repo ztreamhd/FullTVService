@@ -31,7 +31,7 @@ http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
 https://iptvh.it/BeMad_stable
 
 #EXTINF:-1, tvg-id="Atreseries.TV" tvg-name="Atreseries" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/A3S.png" ,Atreseries FHD
-https://livestartover.atresmedia.com/geoa3series/master.m3u8
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fatreseries%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fatreseries%2F
 
 #EXTINF:-1, tvg-id="Mega.TV" tvg-name="Mega" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MegaHD.png" ,MEGA FHD
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fmega%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fmega%2F
@@ -139,7 +139,7 @@ https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 http://europa-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Galicia2.png" ,TV Galicia 2 HD
-http://events3-crtvg.flumotion.com/crtvg/events3_high/chunks.m3u8
+http://amodino-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Televigo_transparent.png" ,Televigo HD
 https://cloud.streamingconnect.tv:455/televigo/televigo.m3u8
@@ -325,7 +325,7 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.2ix2.
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.2ix2.com%2Fn-tv-live%2F&title=https%3A%2F%2Fwww.2ix2.com%2Fn-tv-live%2F
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/1280px-One_TV_Logo.svg.png" ,ARD One HD
-https://de.4everproxy.com/direct/aHR0cHM6Ly9vbmVsaXZlc3RyZWFtLWxoLmFrYW1haWhkLm5ldC9pL29uZV9saXZlc3RyZWFtQDU2ODgxNC9pbmRleF80X2F2LWIubTN1OD9zZD0xMCZyZWJhc2U9b24-
+https://de.4everproxy.com/direct/aHR0cDovL29uZWxpdmVzdHJlYW0tbGguYWthbWFpaGQubmV0L2kvb25lX2xpdmVzdHJlYW1ANTY4ODE0L2luZGV4XzRfYXYtcC5tM3U4P3NkPTEwJnJlYmFzZT1vbg--
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ARTEHD.png" ,ARTE Deutsch HD
 https://de.4everproxy.com/direct/aHR0cHM6Ly9hcnRlbGl2ZS1saC5ha2FtYWloZC5uZXQvaS9hcnRlbGl2ZV9kZUAzOTM1OTEvaW5kZXhfMV9hdi1iLm0zdTg_c2Q9MTAmcmViYXNlPW9u

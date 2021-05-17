@@ -105,7 +105,7 @@ https://cdnlive.shooowit.net/rtvcelive/smil:channel1.smil/master.m3u8
 #EXTINF:-1, tvg-id="MelillaTV.TV" tvg-name="Melilla TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TVMelilla.png" ,TV Melilla HD
 https://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3u8
 
-#EXTINF:-1, tvg-id="AragonTV.TV" tvg-name="Aragón TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Aragon_white.png" ,Aragón TV
+#EXTINF:-1, tvg-id="AragonTV.TV" tvg-name="Aragón TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Aragon_white.png" ,Aragón TV HD
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Huesca_white.png" ,Huesca TV

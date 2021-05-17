@@ -136,12 +136,12 @@ https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m
 https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 
 #EXTINF:-1, tvg-id="TVGAL.TV" tvg-name="TVG" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TVGHD.png" ,TV Galicia HD
-http://europa-crtvg.flumotion.com/playlist.m3u8
+http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Galicia2.png" ,TV Galicia 2 HD
 http://amodino-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Televigo_transparent.png" ,Televigo HD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Televigo_transparent.png" ,Televigo FHD
 https://cloud.streamingconnect.tv:455/televigo/televigo.m3u8
 
 #EXTINF:-1, tvg-id="7RM.TV" tvg-name="7 R. de Murcia" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MurciaTV.png" ,Murcia TV

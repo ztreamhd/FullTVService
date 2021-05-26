@@ -14,3 +14,7 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall
 
 #EXTINF:-1, Divinity HD
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Ff2qg%2Fmt%3Fch%3Ddivinity&title=https%3A%2F%2Fphotocall.tv%2Ff2qg%2Fmt%3Fch%3Ddivinity
+
+#EXTINF:-1, Real Crime FHD
+https://lds-realcrime-rakuten.amagi.tv/playlist.m3u8
+

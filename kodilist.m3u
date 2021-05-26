@@ -556,7 +556,7 @@ plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fwww.giniko
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Protv-international.png/" ,ProTV International Romania FHD
-https://cmero-ott-live-sec.ssl.cdn.cra.cz/bRlObgl1tDZx6ImsGigZ-g==,1618434074/channels/cme-ro-protv/playlist-live_lq-live_mq-live_hq.m3u8
+https://cmero-ott-live-sec.ssl.cdn.cra.cz/BRetU0TJJ3kkKOLMWd8Y3w==,1622079755/channels/cme-ro-protv/playlist-live_lq-live_mq-live_hq.m3u8
 
 #EXTINF:-1, tvg-logo="https://3.bp.blogspot.com/-Ktm9UPx3EeY/WTzltUzR4nI/AAAAAAAAGfY/upIXKF3iIwcWQOGkXU8XWZ1SZ7npDnq2wCLcB/s1600/tvp_polonia.png" ,TVP Polonia FHD
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fpolonia.tvp.pl%2Fsess%2FTVPlayer2%2Fembed.php%3FID%3D34414171&title=https%3A%2F%2Fpolonia.tvp.pl%2Fsess%2FTVPlayer2%2Fembed.php%3FID%3D34414171
@@ -587,6 +587,9 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/67?ppr
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1200px-ITV3_logo_2013.svg.png" ,iTV 3
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/26?pprotocol=hls
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/1200px-Channel_4_logo_2015.svg.png" ,Channel 4 UK
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2?pprotocol=hls
 
 #EXTINF:-1, tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/5-USA-Watch-online-live.png" ,5USA
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/845?pprotocol=hls
@@ -639,9 +642,6 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1, tvg-logo="https://bluepandenver.com/wp-content/uploads/2016/03/cbs-news.png" ,CBSN Boston HD
 https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CNN.jpg" ,CNN News (USA) HD
-http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CNNInt2.png" ,CNN International HD
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -655,10 +655,7 @@ https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/1200px-NBC_News_2011.svg.png" ,NBC News Now FHD
-https://iptvh.it/NBCnewsNOW
-
-#EXTINF:-1, tvg-logo="https://blacknewschannel.com/wp-content/uploads/2020/01/BNC-Logo.png" ,Black News Channel FHD
-https://iptvh.it/BlackNewsChannel
+https://iptvh.it/NNN
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Yahoo_Finance_Logo_2019.svg/1200px-Yahoo_Finance_Logo_2019.svg.png" ,Yahoo! Finance FHD
 https://yahoo-plex.amagi.tv/amRdirect/us_privacy=1---&did=undefined&dnt=1&X-Plex-Token=e2ecKefs3cZWSz_H7t87&channelId=5f170f01b898490041b49dd1/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/720x404_1460800/index.m3u8
@@ -675,7 +672,7 @@ https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1024px-Fox_News_Channel_logo.svg.png" ,FOX News HD
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, tvg-logo="https://blacknewschannel.com/wp-content/uploads/2020/01/BNC-Logo.png" ,BNC Backup FHD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/BNC.png" ,Black News Channel FHD
 https://blacknewschannel-xumo-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewschannel-xumo/CDN/1920x1080_5055600/chunklist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_of_C-SPAN.svg/1280px-Logo_of_C-SPAN.svg.png" ,C-SPAN HD
@@ -804,11 +801,11 @@ https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" ,Court TV FHD
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumocourttv/CDN/1920x1080_3500649/chunklist.m3u8
 
-#EXTINF:-1, tvg-logo="https://play-images-prod-ctf.tech.tvnz.co.nz/api/v1/web/image/4vIEwZaWrwI5CsidIhejRe/5ee34d9724fcf3849de1330d20abbbe6/ChannelPage-Logo-Filmstream.png.5ee34d9724fcf3849de1330d20abbbe6.png" ,Filmstream FHD
-https://iptvh.it/Filmstream
+#EXTINF:-1, tvg-logo="https://play-images-prod-ctf.tech.tvnz.co.nz/api/v1/web/image/4vIEwZaWrwI5CsidIhejRe/5ee34d9724fcf3849de1330d20abbbe6/ChannelPage-Logo-Filmstream.png.5ee34d9724fcf3849de1330d20abbbe6.png" ,Filmstream Europe HD
+https://spi-filmstream-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/G/01//digital/video/merch/subs/benefit-id/a-f/freewithads/epg/CRIME360_WHITE.png" ,Crime 360 FHD
-https://iptvh.it/Crime360_2
+https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://lirp.cdn-website.com/1189e926/dms3rep/multi/opt/Real-Crime-Logo-White-960w.png" ,Real Crime FHD
 https://iptvh.it/realcrimeFHD
@@ -928,13 +925,16 @@ https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-motorvisiontv/CDN/play
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/HK_white.png" , Hell's Kitchen | Kitchen Nightmares 24/7
-http://iptvh.it/HKKN247
+https://dai.google.com/linear/hls/event/SynaOtTyTq2y_N7BrGTz9Q/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://thumbor.forbes.com/thumbor/2640x788/https://blogs-images.forbes.com/dbloom/files/2019/01/STIRR_Logo_CMYK_Yellow_SINCLAIR.jpg?width=1920" ,STIRR National HD
 https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Ici_Tele_logo.png" ,ICI Télé HD
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Noovo_logo.png" ,Noovo HD
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fpe-ak-lp04a-9c9media.akamaized.net%2Flive%2FNOOVO%2Fp%2Fdash%2F00000001%2Ff481c583dbd06b6c%2Fmanifest.mpd&title=https%3A%2F%2Fpe-ak-lp04a-9c9media.akamaized.net%2Flive%2FNOOVO%2Fp%2Fdash%2F00000001%2Ff481c583dbd06b6c%2Fmanifest.mpd
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ABCaus.png" ,ABC Australia
 https://iptvh.it/ABC.Australia

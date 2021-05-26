@@ -262,7 +262,7 @@ https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8?sd=10&amp;
 https://stream05.stream.welocal.world/stream/rsc/ngrp:rsc.stream_all/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/HRHD.png" ,HR Fernsehen FHD
-https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_8000_av-b.m3u8?sd=4&amp;set-segment-duration=31540000000&amp;rebase=on
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master-1080.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/MunchenTV.png" ,München TV FHD
 https://stream02.stream.welocal.world/stream/fhd-muenchentv_365036/ngrp:stream_all/chunklist_w2130011564_b3628000.m3u8
@@ -274,7 +274,7 @@ https://to.hopslan.com/zdf/index.m3u8
 plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=60080e8a4bf36000076a81b1&_l=.pvr
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/3SATHD.png" ,3sat
-https://s11.hopslan.com/3sat/tracks-v1a1/mono.m3u8
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.2ix2.com%2F3sat%2F&title=https%3A%2F%2Fwww.2ix2.com%2F3sat%2F
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DMAX_Deutschland.png" ,DMAX Deutschland FHD
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.2ix2.com%2Fdmax%2F&title=https%3A%2F%2Fwww.2ix2.com%2Fdmax%2F
@@ -313,13 +313,13 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.2ix2.
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.giniko.com%2Fwatch.php%3Fid%3D1176&title=https%3A%2F%2Fwww.giniko.com%2Fwatch.php%3Fid%3D1176
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CC.png" ,Comedy Central Deutschland
-https://s2.hopslan.com/viva/tracks-v1a1/mono.m3u8
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.2ix2.com%2Fcomedy-central%2F&title=https%3A%2F%2Fwww.2ix2.com%2Fcomedy-central%2F
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Tele5HD.png" ,Tele5 Deutschland
-https://s3.hopslan.com/tele55/tracks-v1a1/mono.m3u8
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.2ix2.com%2Ftele-5%2F&title=https%3A%2F%2Fwww.2ix2.com%2Ftele-5%2F
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TLCdeu.png" ,TLC Deutschland FHD
-https://to.hopslan.com/tlc/index.m3u8
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.2ix2.com%2Ftlc%2F&title=https%3A%2F%2Fwww.2ix2.com%2Ftlc%2F
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ZDFneo.png" ,ZDFneo FHD
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.2ix2.com%2Fzdfneo%2F&title=https%3A%2F%2Fwww.2ix2.com%2Fzdfneo%2F
@@ -391,13 +391,13 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 https://fr.4everproxy.com/direct/aHR0cHM6Ly9hcnRlbGl2ZS1saC5ha2FtYWloZC5uZXQvaS9hcnRlbGl2ZV9mckAzNDQ4MDUvaW5kZXhfMV9hdi1iLm0zdTg_c2Q9MTAmcmViYXNlPW9u
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/1181px-France_2_2018.svg.png" ,France 2 HD
-https://mmsiptv.com/live/france2/playlist.m3u8
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fib4g%2Fl1%3Fch%3Dfrance_2&title=https%3A%2F%2Fphotocall.tv%2Fib4g%2Fl1%3Fch%3Dfrance_2
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/1200px-France_3_2018.svg.png" ,France 3 HD
-https://mmsiptv.com/live/france3/playlist.m3u8
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fib4g%2Fl1%3Fch%3Dfrance_3&title=https%3A%2F%2Fphotocall.tv%2Fib4g%2Fl1%3Fch%3Dfrance_3
 
 #EXTINF:-1, tvg-logo="https://www.france.tv/image/logo/2500/2500/q/2/h/9aaa841e-phpaavh2q.png" ,Culturebox HD
-plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fiptvh.it%2Fculturebox&title=https%3A%2F%2Fiptvh.it%2Fculturebox
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fib4g%2Fl1%3Fch%3Dculturebox&title=https%3A%2F%2Fphotocall.tv%2Fib4g%2Fl1%3Fch%3Dculturebox
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1280px-Logo_M6_%282020%2C_fond_clair%29.svg.png" ,M6 FHD
 https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
@@ -549,6 +549,9 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fedge3.1in
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_24_logo_2014.png/1200px-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_24_logo_2014.png" ,Москва 24
 https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/ru/a/ac/Логотип_телеканала_«ТНТ»_с_2020_года.png" ,ТНТ 
+plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fwww.giniko.com%2Fwatch.php%3Fid%3D1146&title=http%3A%2F%2Fwww.giniko.com%2Fwatch.php%3Fid%3D1146
+
 #EXTINF:-1, tvg-logo="https://www.arax.md/assets/channels/110.png" ,TVR International Romania HD
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
 
@@ -567,8 +570,11 @@ https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/bbcone.png" ,BBC One
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/14?pprotocol=hls
 
-#EXTINF:-1, tvg-logo="https://www.pngkey.com/png/full/534-5341414_20pm-subscribe-to-watch-watch-now-bbc-two.png" ,BBC Two FHD
+#EXTINF:-1, tvg-logo="https://www.pngkey.com/png/full/534-5341414_20pm-subscribe-to-watch-watch-now-bbc-two.png" ,BBC Two
 plugin://plugin.video.streamlink-tester/?action=play&url=http%3a%2f%2fwww.giniko.com%2fwatch.php%3fid%3d190&title=http%3a%2f%2fwww.giniko.com%2fwatch.php%3fid%3d190
+
+#EXTINF:-1, tvg-logo="https://www.bbcchannels.com/brand/assets/images/channel-assets/bbc-entertainment/about-logo-bbc-entertainment.png" ,BBC Entertainment
+plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fwww.giniko.com%2Fwatch.php%3Fid%3D1158&title=http%3A%2F%2Fwww.giniko.com%2Fwatch.php%3Fid%3D1158
 
 #EXTINF:-1, tvg-id="SkyN.TV" tvg-name="Sky News UK" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/SkyHD.png" ,Sky News HD
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
@@ -614,6 +620,9 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fnstream17
 
 #EXTINF:-1, tvg-logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1511208490_538-tv.png" ,538 TV Netherlands HD
 https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/1200px-BVN_logo.svg.png" ,BVN HD
+plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fwww.giniko.com%2Fwatch.php%3Fid%3D43&title=http%3A%2F%2Fwww.giniko.com%2Fwatch.php%3Fid%3D43
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CanalAJ_white.png" ,Canal Alpha Jura FHD
 https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
@@ -852,6 +861,9 @@ https://introuble-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWONDER.png" ,InWonder HD
 https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INSHORT.png" ,InShort HD
+https://inshort-samsungindia.amagi.tv/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/runtime.png" , Runtime FHD
 https://iptvh.it/RuntimeFHD
 
@@ -864,6 +876,9 @@ https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/planetknowledge.png" ,Planet Knowledge HD
 https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Timeline.png" ,Timeline HD
+https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/1af93f_c70d65efa2864a78b5ecee452437971f~mv2.png/v1/fill/w_262,h_100,al_c,q_85,usm_0.66_1.00_0.01/xplore-vector_its-all-here-tagline-01_ed.webp", Xplore FHD
 https://iptvh.it/xplore
 
@@ -873,14 +888,17 @@ http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Docubay.png" ,Docubay FHD
 https://docubaylivestreams.akamaized.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004370_HLS/manifest.m3u8
 
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/RealWild.png" ,RealWild FHD
+https://iptvh.it/RealWildProxy
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/FuseXL.png" ,FuseXL FHD
 https://iptvh.it/fuseXL
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DABL.png" ,DABL FHD
 https://status.tehw00t.net/miniProxy.php/https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/dable4hd/master/dable4hd.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/PlutoReality.png" ,PlutoTV Reality
-https://iptvh.it/plutoreality2
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/PlutoReality.png" ,PlutoTV Reality HD
+https://iptvh.it/plutoreality3
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/PBSHD.png" ,PBS America HD
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
@@ -909,7 +927,7 @@ https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-motorvisiontv/CDN/play
 #EXTINF:-1, tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" ,Miami TV HD
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
 
-#EXTINF:-1, tvg-logo="https://help.redbubble.com/hc/article_attachments/360025349072/HellsKitchen_logo.png" , Hell's Kitchen | Kitchen Nightmares 24/7
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/HK_white.png" , Hell's Kitchen | Kitchen Nightmares 24/7
 http://iptvh.it/HKKN247
 
 #EXTINF:-1, tvg-logo="https://thumbor.forbes.com/thumbor/2640x788/https://blogs-images.forbes.com/dbloom/files/2019/01/STIRR_Logo_CMYK_Yellow_SINCLAIR.jpg?width=1920" ,STIRR National HD

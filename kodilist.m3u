@@ -397,7 +397,7 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fib4g%2Fl1%3Fch%3Dfrance_3&title=https%3A%2F%2Fphotocall.tv%2Fib4g%2Fl1%3Fch%3Dfrance_3
 
 #EXTINF:-1, tvg-logo="https://www.france.tv/image/logo/2500/2500/q/2/h/9aaa841e-phpaavh2q.png" ,Culturebox HD
-plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fib4g%2Fl1%3Fch%3Dculturebox&title=https%3A%2F%2Fphotocall.tv%2Fib4g%2Fl1%3Fch%3Dculturebox
+plugin://plugin.video.streamlink-tester/?action=play&url=http://www.callofliberty.fr/tv/19-culturebox/19-culturebox.php
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1280px-Logo_M6_%282020%2C_fond_clair%29.svg.png" ,M6 FHD
 https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
@@ -589,7 +589,7 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/67?ppr
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/26?pprotocol=hls
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/1200px-Channel_4_logo_2015.svg.png" ,Channel 4 UK
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2?pprotocol=hls
+plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fwww.giniko.com%2Fwatch.php%3Fid%3D1167&title=http%3A%2F%2Fwww.giniko.com%2Fwatch.php%3Fid%3D1167
 
 #EXTINF:-1, tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/5-USA-Watch-online-live.png" ,5USA
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/845?pprotocol=hls

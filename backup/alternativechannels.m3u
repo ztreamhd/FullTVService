@@ -6,6 +6,9 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall
 #EXTINF:-1, Telecinco HD
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Ff2qg%2Fmt%3Fch%3Dtelecinco&title=https%3A%2F%2Fphotocall.tv%2Ff2qg%2Fmt%3Fch%3Dtelecinco
 
+#EXTINF:-1, FDF HD
+http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
+
 #EXTINF:-1, Energy HD
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Ff2qg%2Fmt%3Fch%3Denergy&title=https%3A%2F%2Fphotocall.tv%2Ff2qg%2Fmt%3Fch%3Denergy
 
@@ -17,4 +20,16 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall
 
 #EXTINF:-1, Real Crime FHD
 https://lds-realcrime-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, CNews FHD
+https://www.dailymotion.com/video/x3b68jn#tab_embed.m3u8
+
+#EXTINF:-1, C8 FHD
+https://www.dailymotion.com/video/x5gv5rr#tab_embed.m3u8
+
+#EXTINF:-1, México Travel Channel FHD
+https://www.dailymotion.com/video/x7v76vf#tab_embed.m3u8
+
+#EXTINF:-1, Libertad Digital
+https://www.dailymotion.com/video/xnm032#tab_embed.m3u8
 

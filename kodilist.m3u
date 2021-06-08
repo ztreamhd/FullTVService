@@ -25,7 +25,7 @@ http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fneox%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fneox%2F
 
 #EXTINF:-1, tvg-id="FDF.TV" tvg-name="FDF" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/FDF.png" ,FDF HD
-http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
+https://iptvh.it/FDF_stable
 
 #EXTINF:-1, tvg-id="Bemad.TV" tvg-name="Be Mad" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/bemad.png" ,Be Mad HD
 https://iptvh.it/BeMad_stable

@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1, CStar FHD
+#EXTINF:-1, CStar FHD [DRM Protected]
 https://dsh-m007.live-lv3.canalplus-cdn.net/live/disk/cstar-hd/dash-fhd/cstar-hd.mpd
 
-#EXTINF:-1, C8 FHD
+#EXTINF:-1, C8 FHD [DRM Protected]
 https://dsh-m010.live-lv3.canalplus-cdn.net/live/disk/c8-hd/dash-fhd/c8-hd.mpd
 
 #EXTINF:-1, CNews FHD
 https://dsh-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/dash-fhd-clair/cnews-clair-hd.mpd
 
-#EXTINF:-1, Canal+ FHD
+#EXTINF:-1, Canal+ FHD [DRM Protected]
 http://127.0.0.1

@@ -391,10 +391,10 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 https://fr.4everproxy.com/direct/aHR0cHM6Ly9hcnRlbGl2ZS1saC5ha2FtYWloZC5uZXQvaS9hcnRlbGl2ZV9mckAzNDQ4MDUvaW5kZXhfMV9hdi1iLm0zdTg_c2Q9MTAmcmViYXNlPW9u
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/1181px-France_2_2018.svg.png" ,France 2 HD
-plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fib4g%2Fl1%3Fch%3Dfrance_2&title=https%3A%2F%2Fphotocall.tv%2Fib4g%2Fl1%3Fch%3Dfrance_2
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fj9kw%2Fl1%3Fch%3Dfrance_2&title=https%3A%2F%2Fphotocall.tv%2Fj9kw%2Fl1%3Fch%3Dfrance_2
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/1200px-France_3_2018.svg.png" ,France 3 HD
-plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fib4g%2Fl1%3Fch%3Dfrance_3&title=https%3A%2F%2Fphotocall.tv%2Fib4g%2Fl1%3Fch%3Dfrance_3
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fj9kw%2Fl1%3Fch%3Dfrance_3&title=https%3A%2F%2Fphotocall.tv%2Fj9kw%2Fl1%3Fch%3Dfrance_3
 
 #EXTINF:-1, tvg-logo="https://www.france.tv/image/logo/2500/2500/q/2/h/9aaa841e-phpaavh2q.png" ,Culturebox HD
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.callofliberty.fr/tv/19-culturebox/19-culturebox.php
@@ -403,7 +403,7 @@ plugin://plugin.video.streamlink-tester/?action=play&url=http://www.calloflibert
 https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/W9-Logo.svg/2560px-W9-Logo.svg.png" ,W9
-https://iptvh.it/W9proxy
+https://iptvh.it/W9_720
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TF1_cropped.png" ,TF1 HD
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
@@ -433,7 +433,7 @@ plugin://plugin.video.dailymotion_com/?url=x5gv6be&mode=playLiveVideo
 plugin://plugin.video.dailymotion_com/?url=x5gv5rr&mode=playLiveVideo
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_projet_CStar.svg/6400px-Logo_projet_CStar.svg.png" ,CStar HD
-https://eliotlencelot.fr/Applications/Proxy/Proxy.php/http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/d17-451622/hls/index.m3u8
+https://iptvh.it/cstar_720
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CGTNFr.png" ,CGTN Français
 http://livefr.cgtn.com/1000f/prog_index.m3u8
@@ -555,8 +555,8 @@ plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fwww.giniko
 #EXTINF:-1, tvg-logo="https://www.arax.md/assets/channels/110.png" ,TVR International Romania HD
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Protv-international.png/" ,ProTV International Romania FHD
-https://cmero-ott-live-sec.ssl.cdn.cra.cz/BRetU0TJJ3kkKOLMWd8Y3w==,1622079755/channels/cme-ro-protv/playlist-live_lq-live_mq-live_hq.m3u8
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Protv-international.png/" ,ProTV International Romania
+http://hls.protv.md/hls/protv.m3u8
 
 #EXTINF:-1, tvg-logo="https://3.bp.blogspot.com/-Ktm9UPx3EeY/WTzltUzR4nI/AAAAAAAAGfY/upIXKF3iIwcWQOGkXU8XWZ1SZ7npDnq2wCLcB/s1600/tvp_polonia.png" ,TVP Polonia FHD
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fpolonia.tvp.pl%2Fsess%2FTVPlayer2%2Fembed.php%3FID%3D34414171&title=https%3A%2F%2Fpolonia.tvp.pl%2Fsess%2FTVPlayer2%2Fembed.php%3FID%3D34414171

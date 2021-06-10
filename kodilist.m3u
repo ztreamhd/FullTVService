@@ -1,10 +1,10 @@
 #EXTM3U tvg-shift=+0 x-tvg-url="https://www.tdtchannels.com/epg/TV.xml"
 
 #EXTINF:-1, tvg-id="La1.TV" tvg-name="La 1" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/LA1HD.png" ,La 1 FHD
-https://rtvelivestream.akamaized.net/la1_bkp_dvr_4000.m3u8
+https://rtvelivestream.akamaized.net/la1_main_dvr_1080.m3u8
 
 #EXTINF:-1, tvg-id="La2.TV" tvg-name="La 2" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/LA2HD.png" ,La 2 FHD
-https://rtvelivestream.akamaized.net/la2_bkp_dvr_4000.m3u8
+https://rtvelivestream.akamaized.net/la2_main_dvr_1080.m3u8
 
 #EXTINF:-1, tvg-id="Antena3.TV" tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Antena3hd.png" ,Antena 3 FHD
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fantena3%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fantena3%2F
@@ -43,7 +43,7 @@ https://iptvh.it/Energy_stable
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="TDP.TV" tvg-name="Teledeporte" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TDPHD.png" ,TDP FHD
-https://rtvelivestream.akamaized.net/tdp_bkp_dvr_4000.m3u8
+https://rtvelivestream.akamaized.net/tdp_main_dvr_1080.m3u8
 
 #EXTINF:-1, tvg-id="GOL.TV" tvg-name="GOL" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/GolTV.png" ,GOL HD
 https://api.goltelevision.com/api/v1/stream/live/stream.m3u8
@@ -52,7 +52,7 @@ https://api.goltelevision.com/api/v1/stream/live/stream.m3u8
 https://live-edge-lon-2.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live-898/index.m3u8
 
 #EXTINF:-1, tvg-id="24Horas.TV" tvg-name="24 Horas" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/24H.png" ,24H FHD
-https://rtvelivestream.akamaized.net/24h_bkp_dvr_4000.m3u8
+https://rtvelivestream.akamaized.net/24h_main_dvr_1080.m3u8
 
 #EXTINF:-1, tvg-id="Divinity.TV" tvg-name="Divinity" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Divinity.png" ,Divinity HD
 https://iptvh.it/Divinity_stable

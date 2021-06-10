@@ -294,8 +294,8 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.2ix2.
 #EXTINF:-1, tvg-name="RTL" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/RTL.png" ,RTL
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.2ix2.com%2Frtl%2F&title=https%3A%2F%2Fwww.2ix2.com%2Frtl%2F
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/RTL2.png" ,RTL 2
-https://s4.hopslan.com/rtl2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/RTL2.png" ,RTL 2 FHD
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.2ix2.com%2Frtl2-live%2F&title=https%3A%2F%2Fwww.2ix2.com%2Frtl2-live%2F
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/NITROHD.png" ,RTL Nitro
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.2ix2.com%2Frtl-nitro-live%2F&title=https%3A%2F%2Fwww.2ix2.com%2Frtl-nitro-live%2F
@@ -323,6 +323,9 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.2ix2.
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ZDFneo.png" ,ZDFneo FHD
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.2ix2.com%2Fzdfneo%2F&title=https%3A%2F%2Fwww.2ix2.com%2Fzdfneo%2F
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ZDF_info_HD.svg/2000px-ZDF_info_HD.svg.png" ,ZDFinfo HD
+https://to.hopslan.com/zdfinfo/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ntv.png" ,n-tv FHD
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.2ix2.com%2Fn-tv-live%2F&title=https%3A%2F%2Fwww.2ix2.com%2Fn-tv-live%2F

@@ -886,10 +886,10 @@ https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
 https://iptvh.it/WonderFHD
 
 #EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/1af93f_c70d65efa2864a78b5ecee452437971f~mv2.png/v1/fill/w_262,h_100,al_c,q_85,usm_0.66_1.00_0.01/xplore-vector_its-all-here-tagline-01_ed.webp", Xplore FHD
-https://iptvh.it/xplore
+https://xplore-plex.amagi.tv/playlist1080-p.m3u8
 
-#EXTINF:-1, tvg-logo="https://bit.ly/3zp9Y45" ,GoTraveler HD
-https://stream-us-east-1.getpublica.com/cl/e1093250-4c88-4073-900f-8689e65f51be/1280x720_1400000_3_false.m3u8
+#EXTINF:-1, tvg-logo="http://frontofficesports.com/wp-content/uploads/2018/12/54ocAekA.png" ,Whistle HD
+https://whistle-1.sinclair.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/popsci_transparent.png" ,Popular Science HD
 http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8

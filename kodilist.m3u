@@ -348,6 +348,9 @@ https://br_hdslive-f.akamaihd.net/i/ardalpha_ut_de@337033/master.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Phoenix-logo-2018.svg/1200px-Phoenix-logo-2018.svg.png" ,Phoenix
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/424?pprotocol=hls
 
+#EXTINF:-1, tvg-logo="https://palatinmedia.com/images/logos/craction-logo-color.png" ,Craction FHD
+http://iptvh.it/CractionDeutschlandFHD
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/elbekanal_transparent.png" ,Elbekanal
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
 

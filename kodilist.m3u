@@ -865,7 +865,7 @@ https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
 https://inshort-samsungindia.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/runtime.png" , Runtime FHD
-https://iptvh.it/RuntimeFHD
+https://iptvh.it/RuntimeUSA
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/BUZZR.png" ,BUZZR FHD
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
@@ -879,8 +879,14 @@ https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Timeline.png" ,Timeline HD
 https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/WonderTV.png" ,Wonder FHD
+https://iptvh.it/WonderFHD
+
 #EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/1af93f_c70d65efa2864a78b5ecee452437971f~mv2.png/v1/fill/w_262,h_100,al_c,q_85,usm_0.66_1.00_0.01/xplore-vector_its-all-here-tagline-01_ed.webp", Xplore FHD
 https://iptvh.it/xplore
+
+#EXTINF:-1, tvg-logo="https://bit.ly/3zp9Y45" ,GoTraveler HD
+https://stream-us-east-1.getpublica.com/cl/e1093250-4c88-4073-900f-8689e65f51be/1280x720_1400000_3_false.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/popsci_transparent.png" ,Popular Science HD
 http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
@@ -893,6 +899,9 @@ https://iptvh.it/RealWildProxy
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/FuseXL.png" ,FuseXL FHD
 https://iptvh.it/fuseXL
+
+#EXTINF:-1, tvg-logo="https://www.ovationtv.com/app/themes/ovation/images/journy/journy_powered_by_ovation.png" ,Journy FHD
+https://d3lzjtrf5mvf3p.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DABL.png" ,DABL FHD
 https://status.tehw00t.net/miniProxy.php/https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/dable4hd/master/dable4hd.m3u8

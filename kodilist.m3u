@@ -10,7 +10,7 @@ https://rtvelivestream.akamaized.net/la2_main_dvr_1080.m3u8
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fantena3%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fantena3%2F
 
 #EXTINF:-1, tvg-id="Cuatro.TV" tvg-name="Cuatro" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/4HD.png" ,Cuatro HD
-plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fwww.giniko.com%2Fwatch.php%3Fid%3D1204&title=http%3A%2F%2Fwww.giniko.com%2Fwatch.php%3Fid%3D1204
+https://iptvh.it/Cuatro_stable
 
 #EXTINF:-1, tvg-id="Telecinco.TV" tvg-name="Telecinco" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/T5HD.png" ,Telecinco HD
 https://iptvh.it/T5_stable

@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, Cuatro HD
-plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Ff2qg%2Fmt%3Fch%3Dcuatro&title=https%3A%2F%2Fphotocall.tv%2Ff2qg%2Fmt%3Fch%3Dcuatro
+plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fwww.giniko.com%2Fwatch.php%3Fid%3D1204&title=http%3A%2F%2Fwww.giniko.com%2Fwatch.php%3Fid%3D1204
 
 #EXTINF:-1, Telecinco HD
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Ff2qg%2Fmt%3Fch%3Dtelecinco&title=https%3A%2F%2Fphotocall.tv%2Ff2qg%2Fmt%3Fch%3Dtelecinco

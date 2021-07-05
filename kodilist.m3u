@@ -348,6 +348,9 @@ https://de.4everproxy.com/direct/aHR0cHM6Ly9saXZlMndlbHRjbXMtbGguYWthbWFpaGQubmV
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/ARD-alpha_HD_2019.png" ,ARD Alpha HD
 https://br_hdslive-f.akamaihd.net/i/ardalpha_ut_de@337033/master.m3u8
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/NRWision_-_Logo_2018.png" ,NRWision FHD
+https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist_w1146469755.m3u8
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Phoenix-logo-2018.svg/1200px-Phoenix-logo-2018.svg.png" ,Phoenix
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/424?pprotocol=hls
 
@@ -400,10 +403,10 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 https://fr.4everproxy.com/direct/aHR0cHM6Ly9hcnRlbGl2ZS1saC5ha2FtYWloZC5uZXQvaS9hcnRlbGl2ZV9mckAzNDQ4MDUvaW5kZXhfMV9hdi1iLm0zdTg_c2Q9MTAmcmViYXNlPW9u
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/1181px-France_2_2018.svg.png" ,France 2 HD
-plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fj9kw%2Fl1%3Fch%3Dfrance_2&title=https%3A%2F%2Fphotocall.tv%2Fj9kw%2Fl1%3Fch%3Dfrance_2
+https://iptvh.it/France2_proxy
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/1200px-France_3_2018.svg.png" ,France 3 HD
-plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fj9kw%2Fl1%3Fch%3Dfrance_3&title=https%3A%2F%2Fphotocall.tv%2Fj9kw%2Fl1%3Fch%3Dfrance_3
+https://iptvh.it/France3_proxy
 
 #EXTINF:-1, tvg-logo="https://www.france.tv/image/logo/2500/2500/q/2/h/9aaa841e-phpaavh2q.png" ,Culturebox HD
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.callofliberty.fr/tv/19-culturebox/19-culturebox.php
@@ -493,7 +496,7 @@ https://live1-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" ,HGTV Italia HD
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.discoveryplus.it%2Fcanali%2Fhome-and-garden-tv&title=https%3A%2F%2Fwww.discoveryplus.it%2Fcanali%2Fhome-and-garden-tv
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/giallo.png" ,Giallo HD
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
@@ -953,6 +956,9 @@ https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Noovo_logo.png" ,Noovo HD
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fpe-ak-lp04a-9c9media.akamaized.net%2Flive%2FNOOVO%2Fp%2Fdash%2F00000001%2Ff481c583dbd06b6c%2Fmanifest.mpd&title=https%3A%2F%2Fpe-ak-lp04a-9c9media.akamaized.net%2Flive%2FNOOVO%2Fp%2Fdash%2F00000001%2Ff481c583dbd06b6c%2Fmanifest.mpd
+
+#EXTINF:-1, tvg-logo="https://images.typeform.com/images/9L5VsdsvZb8i/image/default" ,Global News Canada HD
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ABCaus.png" ,ABC Australia
 https://iptvh.it/ABC.Australia

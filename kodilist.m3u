@@ -246,6 +246,9 @@ http://media.profesionalhosting.com:1935/8175/8175/mono.m3u8
 #EXTINF:-1, tvg-logo="https://masmediatv.es/images/2020/10/28/canal-cazavision-removebg-preview.png" ,Cazavisión
 https://cdn039.fractalmedia.es/hls/caz_es_high.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.uhdspain.com/web/wp-content/uploads/2021/04/logo_uhd.png" ,UHD Spain
+https://iptvh.it/UHDSpain
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ARDHD.png" ,ARD HD
 https://mcdn.daserste.de/daserste/int/master.m3u8
 

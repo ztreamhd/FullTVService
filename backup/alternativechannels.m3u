@@ -7,7 +7,7 @@ plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fwww.giniko
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Ff2qg%2Fmt%3Fch%3Dtelecinco&title=https%3A%2F%2Fphotocall.tv%2Ff2qg%2Fmt%3Fch%3Dtelecinco
 
 #EXTINF:-1, FDF HD
-http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
+https://iptvh.it/FDF_stable
 
 #EXTINF:-1, Energy HD
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Ff2qg%2Fmt%3Fch%3Denergy&title=https%3A%2F%2Fphotocall.tv%2Ff2qg%2Fmt%3Fch%3Denergy

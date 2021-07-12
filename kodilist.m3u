@@ -355,7 +355,7 @@ https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist_w1146469755.m3
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/424?pprotocol=hls
 
 #EXTINF:-1, tvg-logo="https://palatinmedia.com/images/logos/craction-logo-color.png" ,Craction FHD
-http://iptvh.it/CractionDeutschlandFHD
+http://iptvh.it/CractionDeutschlandFHD_2
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/elbekanal_transparent.png" ,Elbekanal
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
@@ -382,7 +382,7 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4121?p
 https://iptvh.it/SSNDeutschland_proxy
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/DELUXE_MUSIC_Logo_2019.png" ,Deluxe Music Deutschland
-https://iptvh.it/DeluxeMusicDeutschland
+https://iptvh.it/dmd2
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/extraimages/Mediashop.png" ,Mediashop TV
 https://cdn1-europe.smartcast.tv/mediashop/mediashop1/chunklist_w1171164475.m3u8

@@ -175,7 +175,7 @@ https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 https://iptvh.it/beteveHD
 
 #EXTINF:-1, tvg-id="IB3.TV" tvg-name="IB3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/IB3.svg/1200px-IB3.svg.png", IB3 HD
-plugin://plugin.video.youtube/play/?video_id=w2mhujR8Rrk
+https://linkastream.co/headless?url=https://youtu.be/QbHj7XvHrK0/live
 
 #EXTINF:-1, tvg-id="Libertad.TV" tvg-name="Libertad Digital TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/libdigital_transparent.png" ,Libertad Digital TV
 plugin://plugin.video.dailymotion_com/?url=xnm032&mode=playLiveVideo
@@ -432,8 +432,8 @@ https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_Séries_Films_logo_2020.svg/1280px-TF1_Séries_Films_logo_2020.svg.png" ,TF1 Séries Films HD
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/franceinfo_transparent.png" ,FranceInfo FHD
-plugin://plugin.video.youtube/play/?video_id=wwNZKfBLAsc
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/franceinfo_transparent.png" ,FranceInfo HD
+https://linkastream.co/headless?url=https://youtu.be/cKw79MI2ZLc/live
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/1280px-Canal_News_logo.svg.png", Canal+ News France FHD
 plugin://plugin.video.dailymotion_com/?url=x3b68jn&mode=playLiveVideo
@@ -646,7 +646,7 @@ https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 https://iptvh.it/ABCnewsXUMO
 
 #EXTINF:-1, tvg-logo="https://803277.smushcdn.com/1580116/wp-content/uploads/2020/04/abc-news-live-to-launch-on-amazons-news-app-youtube-tv.png" ,ABC News @ YouTube HD
-plugin://plugin.video.youtube/play/?video_id=w_Ma8oQLmSM
+https://linkastream.co/headless?url=https://youtu.be/w_Ma8oQLmSM/live
 
 #EXTINF:-1, tvg-logo="https://bluepandenver.com/wp-content/uploads/2016/03/cbs-news.png" ,CBS News HD
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
@@ -964,7 +964,7 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://iptvh.it/ABC.Australia
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Africanews._alternative_logo_2016.png", Africanews HD
-plugin://plugin.video.youtube/play/?video_id=NQjabLGdP5g
+https://linkastream.co/headless?url=https://youtu.be/NQjabLGdP5g/live
 
 #EXTINF:-1, tvg-logo="https://www.demandafrica.com/wp-content/uploads/2016/09/demandAfricalogo_horizontal_white.png" ,Demand Africa HD
 https://demandafrica-xumo-us.amagi.tv/hls/amagi_hls_data_theafrica-demandafricaxumo/CDN/1280x720_2855600/chunklist.m3u8
@@ -1042,10 +1042,10 @@ https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/master.m3u8
 http://186.0.233.76:1935/Garage/garage.smil/.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png", Telefé Noticias Argentina FHD
-plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
+https://linkastream.co/headless?url=https://youtu.be/wHn1_QVoXGM/live
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg/1024px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg.png", TPA Argentina FHD
-plugin://plugin.video.youtube/play/?video_id=M0L2tHs9TIQ
+https://linkastream.co/headless?url=https://youtu.be/RRIn2yxYjaY/live
 
 #EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-uorpNx_hxA4/W6lnDEjj83I/AAAAAAAAAFI/J0_nCq1-I4ELLx8cGJY99HoPX4P3t1Y1QCPcBGAYYCw/s1600/clarosports.png" ,Claro Sports FHD (Eventual)
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8

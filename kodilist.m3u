@@ -709,7 +709,7 @@ https://unbeaten-roku.amagi.tv/playlist1080p.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" ,Olympic Channel FHD
-plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fstream.pcriot.com%2FZy6j%2Folympic_us&title=http%3A%2F%2Fstream.pcriot.com%2FZy6j%2Folympic_us
+https://dai.google.com/linear/hls/event/uL3iZD6rQoC4Bg8fWkD56g/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" ,beIN Sports XTRA HD
 https://iptvh.it/beinxtraproxy
@@ -900,13 +900,16 @@ https://whistle-1.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/popsci_transparent.png" ,Popular Science HD
 http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.vicemediagroup.com/wp-content/themes/vice56/assets/images/viceontv.png" ,VICE FHD
+https://iptvh.it/VICE
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Docubay.png" ,Docubay FHD
 https://docubaylivestreams.akamaized.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004370_HLS/manifest.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/RealWild.png" ,RealWild FHD
 https://iptvh.it/RealWildProxy
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/FuseXL.png" ,FuseXL FHD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/FuseXL.png" ,Fuse Backstage FHD
 https://iptvh.it/fuseXL
 
 #EXTINF:-1, tvg-logo="https://www.ovationtv.com/app/themes/ovation/images/journy/journy_powered_by_ovation.png" ,Journy FHD

@@ -1044,7 +1044,7 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 #EXTINF:-1, tvg-id="AlJQ.TV" tvg-name="Al Jazeera Qatar" tvg-logo="https://i.pinimg.com/originals/c7/05/2b/c7052b44274743ef057905ae5ec71cae.png" ,Al Jazeera FHD
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1, tvg-name="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TeleMaroc.png" ,Télé Maroc FHD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TeleMaroc.png" ,Télé Maroc FHD
 https://linkastream.co/headless?url=https://livestream.com/accounts/27130247/events/8196478/player?autoPlay=true
 
 #EXTINF:-1, tvg-logo="https://tvgelive.gq/images/logo-dark.png" ,TVGE Internacional

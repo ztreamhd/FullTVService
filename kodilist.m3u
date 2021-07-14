@@ -660,6 +660,9 @@ https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CNNInt2.png" ,CNN International HD
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/2048px-HLN_%28TV_network%29_2017_logo.svg.png" ,HLN HD
+https://iptvh.it/HLN
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Newsmax.png" ,Newsmax FHD
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 
@@ -1040,6 +1043,9 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
 #EXTINF:-1, tvg-id="AlJQ.TV" tvg-name="Al Jazeera Qatar" tvg-logo="https://i.pinimg.com/originals/c7/05/2b/c7052b44274743ef057905ae5ec71cae.png" ,Al Jazeera FHD
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1, tvg-name="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/TeleMaroc.png" ,Télé Maroc FHD
+https://linkastream.co/headless?url=https://livestream.com/accounts/27130247/events/8196478/player?autoPlay=true
 
 #EXTINF:-1, tvg-logo="https://tvgelive.gq/images/logo-dark.png" ,TVGE Internacional
 https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/master.m3u8

@@ -534,6 +534,9 @@ https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjY
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Kazakh.png" ,Kazakh TV FHD
 https://kazakhtv.ultraiptv.com/kazakhtv/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/PerviyKanalEvrazia.png" ,Первый Канал Евразия (Казахстан) HD
+https://1tvkz-stream.daitsuna.net/1tvkz/1tv_720/index.m3u8
+
 #EXTINF:-1, tvg-id="ATVHD.TV" tvg-name="Andorra TV" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ATV.png" ,ATV Andorra HD
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 

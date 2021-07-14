@@ -19,7 +19,7 @@ https://iptvh.it/T5_stable
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Flasexta%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Flasexta%2F
 
 #EXTINF:-1, tvg-id="DMax.TV" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/DMAX.png" ,DMAX HD
-http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
+https://iptvh.it/DMAX2
 
 #EXTINF:-1, tvg-id="Neox.TV" tvg-name="Neox" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/NeoxHD.png" ,Neox FHD
 plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fneox%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fneox%2F
@@ -218,6 +218,9 @@ https://insighttv-samsung.amagi.tv/playlist720.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/Unearth.png" ,Unearth HD
 https://alchimie-unearth-3-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/BigName.png" ,Big Name HD
+https://alchimie-big-names-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/PlutoComedia.png" ,Pluto TV Cine Comedia HD
 plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=5f1ac8099c49f600076579b2&_l=.pvr

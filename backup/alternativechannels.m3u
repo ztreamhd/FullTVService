@@ -49,7 +49,10 @@ plugin://plugin.video.youtube/play/?video_id=cKw79MI2ZLc
 https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8
 
 #EXTINF:-1, BBC One
-http://photocall.tv/vq0w/ftv.m3u8?ch=bbcone
+http://photocall.tv/od2g/ftv.m3u8?ch=bbcone
+
+#EXTINF:-1, BBC News
+https://photocall.tv/od2g/ftv.m3u8?ch=bbcnews
 
 #EXTINF:-1, Africanews HD
 plugin://plugin.video.youtube/play/?video_id=NQjabLGdP5g

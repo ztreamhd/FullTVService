@@ -240,10 +240,10 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586402/master.m3u8
 #EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/27077f_21df71d53465489cbb32acc9f9dd83e0~mv2_d_2000_2000_s_2.png" ,LifeTV
 http://media.profesionalhosting.com:1935/8201/8201/chunklist_w1047512158.m3u8
 
-#EXTINF:-1, tvg-logo="https://servidor1.xyz/images/redspain.png" ,RedTV FHD
+#EXTINF:-1, tvg-logo="https://servidor10.xyz/images/redspain.png" ,RedTV FHD
 http://media.profesionalhosting.com:1935/8437/8437/mono.m3u8
 
-#EXTINF:-1, tvg-logo="http://servidor1.xyz/images/mediatv.png" ,MediaTV FHD
+#EXTINF:-1, tvg-logo="http://servidor10.xyz/images/mediatv.png" ,MediaTV FHD
 http://media.profesionalhosting.com:1935/8175/8175/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://masmediatv.es/images/2020/10/28/canal-cazavision-removebg-preview.png" ,Cazavisión

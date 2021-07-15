@@ -21,6 +21,9 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall
 #EXTINF:-1, IB3 HD
 plugin://plugin.video.youtube/play/?video_id=QbHj7XvHrK0
 
+#EXTINF:-1, Paramount Network
+https://iptvh.it/PN_SD
+
 #EXTINF:-1, Real Crime FHD
 https://lds-realcrime-rakuten.amagi.tv/playlist.m3u8
 

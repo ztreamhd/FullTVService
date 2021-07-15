@@ -453,6 +453,9 @@ https://iptvh.it/cstar_720
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/CGTNFr.png" ,CGTN Français
 http://livefr.cgtn.com/1000f/prog_index.m3u8
 
+#EXTINF:-1, tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/06/BFMTV-logo.png" ,BFM FHD
+https://linkastream.co/headless?url=https://www.dailymotion.com/video/xgz4t1
+
 #EXTINF:-1, tvg-logo="https://www.gelecenergy.fr/wp-content/uploads/Logo-solo-BFMBusiness-contour.png" ,BFM Business
 https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/index_1100_av-p.m3u8?sd=10&rebase=on
 

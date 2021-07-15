@@ -807,6 +807,9 @@ https://amc-amcpresents-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/StoriesByAMC.png" ,AMC Stories HD
 https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/SkillsAndThrills.png" ,Skills + Thrills FHD
+https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" ,Paramount Movie Channel
 plugin://slyguy.pluto.tv.provider/?_=play&id=5cb0cae7a461406ffe3f5213&_l=.pvr
 

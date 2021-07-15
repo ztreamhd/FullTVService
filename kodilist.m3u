@@ -399,8 +399,8 @@ https://tv5europe-i.akamaihd.net/hls/live/729480/tv5europehls/master.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/extraimages/TV5Monde.png" ,TV5Monde Info FHD
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 
-#EXTINF:-1, tvg-id="France24.TV" tvg-name="France 24 Francia" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/France24.png" ,France 24
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
+#EXTINF:-1, tvg-id="France24.TV" tvg-name="France 24 Francia" tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/France24.png" ,France 24 FHD
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/ztreamhd/FullTVService/main/ARTEHD.png" ,ARTE Français HD
 https://fr.4everproxy.com/direct/aHR0cHM6Ly9hcnRlbGl2ZS1saC5ha2FtYWloZC5uZXQvaS9hcnRlbGl2ZV9mckAzNDQ4MDUvaW5kZXhfMV9hdi1iLm0zdTg_c2Q9MTAmcmViYXNlPW9u
